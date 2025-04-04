@@ -1,6 +1,6 @@
 # Easy Connect - Qubic
 
-1. Project Overview
+# 1. Project Overview
 
 
 2. Inspiration and Concept
