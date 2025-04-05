@@ -99,17 +99,17 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Audience Targeting and Messaging  
   
-1. **Qubic ecosystem**: Existing applications and services who want to obtain data in real time for monitoring, reporting, user support...
-2. **No-code/low-code developers**: Current users of Make/Zapier looking to expand their automation capabilities including Qubic data.  
-3. **Web3 startups and blockchain firms**: Requiring seamless integration with Qubic network.  
+- **Qubic ecosystem**: Existing applications and services who want to obtain data in real time for monitoring, reporting, user support...
+- **No-code/low-code developers**: Current users of Make/Zapier looking to expand their automation capabilities including Qubic data.  
+- **Web3 startups and blockchain firms**: Requiring seamless integration with Qubic network.  
 
 ### Content Strategy  
 
 **Content Pillars**  
-1. **Educational resources**: Pushing Qubic’s relevance across industries.  
-2. **Use cases**: Practical examples of Qubic-Make/Zapier integrations.  
-3. **Tutorials**: Step-by-step guides for implementing workflows.  
-4. **Trend insights**: Analyses of Qubic and automation’s evolving landscape.  
+- **Educational resources**: Pushing Qubic’s relevance across industries.
+- **Use cases**: Practical examples of Qubic-Make/Zapier integrations.  
+- **Tutorials**: Step-by-step guides for implementing workflows.  
+- **Trend insights**: Analyses of Qubic and automation’s evolving landscape.  
 
 **Content Formats**  
 - **Social networks**: Technical deep dives in X and Farcaster, business-centric articles in LinkedIn.   
@@ -127,7 +127,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
   - **Community engagement**: Retweets and interactions with blockchain/no-code communities.  
   - **Polls**: Identifying pain points and preferences within the target audience.
 
-**Actions**:  
+- **Actions**:  
   - Maintain a content calendar with 3–5 daily posts blending education, promotion, and dialogue.  
   - Implement a rapid-response system to boost engagement with trending topics.  
 
