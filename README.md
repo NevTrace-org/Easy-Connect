@@ -77,8 +77,14 @@ The target audience is developers, projects, and users of the Qubic ecosystem wh
 ### No-code platforms
 
 Easy Connect Qubic modules for the main no-code platforms (Make, Zappier, etc.), offering two modalities:
-- Free tier: 1,000 ops/mo, 1 active scenario, 15-minute interval.
-- Premium tier: Extended usage, advanced features, and priority support.
+- **Free tier**: 1,000 ops/mo, 1 active scenario, 15-minute interval.
+- **Premium tier**: Extended usage, advanced features, and priority support.
+
+### Early adoption incentives 
+ 
+- **Discounts**: Reduced pricing for early users.  
+- **Testimonial rewards**: Benefits for users sharing case studies.  
+- **Roadmap influence**: Premium users can vote on feature prioritization.
 
 ---
 
@@ -127,7 +133,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
   - **Polls**: Identifying pain points and preferences within the target audience.
 
 - **Actions**:  
-  - Maintain a content calendar with 3–5 daily posts blending education, promotion, and dialogue.  
+  - Maintain a content calendar with daily posts blending education, promotion, and dialogue.  
   - Implement a rapid-response system to boost engagement with trending topics.  
 
 **LinkedIn**:  
@@ -191,12 +197,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 **Community building**:  
 - **Dedicated forums**: Discord/Telegram channels for user discussions.  
 - **Comprehensive documentation**: API guides, troubleshooting resources, and FAQs.  
-- **Office hours**: Weekly live sessions for user support.  
-
-**Early adoption incentives**:  
-- **Discounts**: Reduced pricing for early users.  
-- **Testimonial rewards**: Benefits for users sharing case studies.  
-- **Roadmap influence**: Early adopters vote on feature prioritization.  
+- **Office hours**: Weekly live sessions for user support.    
 
 ### Metrics and KPIs  
 - **Awareness**: Social media follower growth, organic website traffic.  
