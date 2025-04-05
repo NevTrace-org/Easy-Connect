@@ -2,11 +2,17 @@
 
 ## 1. Project Overview
 
-xxxx
+Easy Connect is a solution that provides easy access to any Qubic smart contract, enabling applications and developers to leverage the full potential of this network in their business logic.
 
-## 2. Inspiration and Concept
+In addition to providing quick integration for any application or service, Easy Connect provides components for integrating Qubic into no-code tools like Make or Zappier, allowing the millions of users who use these solutions to access Qubic without requiring technical knowledge.
 
-xxx
+## 2. Scope of the Proposal
+
+We will develop an initial commercial version of Easy Connect that will allow monitoring information related to the main smart contracts of the Qubic network, allowing any application or service to subscribe to receive data generated on the network in real time via webhooks.
+
+Easy Connect will also offer a web-based configuration panel where users can select the smart contracts they wish to monitor and the information they wish to obtain, as well as the endpoint to which our platform will send the obtained data in real time.
+
+In addition, the scope of the proposal includes the creation of a Make component that will allow any user, without technical knowledge, to integrate existing information on Qubic with any application and process, thanks to the more than 1,600 applications compatible with this no-code platform.
 
 ## 3. Functionality
 
@@ -36,7 +42,35 @@ xxx
 
 ## 8. Project plan and milestones
 
-xxx
+- `Project start - MAD Hack 2025`: March 24 2025
+
+- `Milestone 1 - Proposal aproval`: March 11 2025
+
+- `Milestone 2 - Technical design`: March 31 2025
+  * Architecture definition.
+  * Functional definition.
+  * Design definition (Figma).
+
+- `Milestone 3 - Testnet integration`: June 30 2025
+  * Qubic integration with one smart contract (testnet).
+  * Webhook integration beta.
+  * Functional tests.
+  * Initial integration tests.
+  * Landing page beta.
+  * User panel beta.
+
+- `Milestone 4 - Mainnet integration`: July 30 2025
+  * Qubic integration with most relevant mainnet smart contracts.
+  * Webhook integration v1.0.
+  * Landing page v1.0.
+  * User panel v1.0.
+  * Integration tests.
+  * Technical documentation.
+  
+- `Milestone 5 - Make integration`: August 31 2025
+  * Qubic Easy Connect module for Make.
+  * Integration tests.
+  * User documentation.
 
 ## 9. Budget and payment structure
 
@@ -45,23 +79,24 @@ xxx
 - `Total Project Cost`: $25,000 USD
 - `Technical Development`: $xxx USD
 - `Design`: $xxx USD
-- `BizDev + Mechanics`: $xxx USD
+- `Business development`: $xxx USD
 
 ### 9.2 Payment Plan:
 
-- `Initial Payment (20%)`: $5,000 USD
-- `Milestone 1 (15%)`: $3,750 USD
-- `Milestone 2 (15%)`: $3,750 USD
-- `Milestone 3 (25%)`: $6.250 USD
-- `Milestone 4 (25%)`: $6,250 USD
+- `Milestone 1 - Proposal aproval`: 20% budget (5,000 USD in QUBIC)
+- `Milestone 2 - Technical design`: 15% budget (3,750 USD in QUBIC)
+- `Milestone 3 - Testnet integration`: 15% budget (3,750 USD in QUBIC)
+- `Milestone 4 - Mainnet integration`: 25% budget (6.250 USD in QUBIC)
+- `Milestone 5 - Make integration`: 25% budget (6,250 USD in QUBIC)
 
 ### 9.3 Additional Costs:
 
-- `Hosting`: $xxx USD/year (if finally costs are cheaper, we will return the remaining funds to the DAO)
-- `Marketing`: Costs are estimated and will be supported using the fees generated
+- `Hosting`: xxx USD/year (estimated, if real costs are cheaper, we will return the remaining funds)
+- `Software and licences`: xxx USD/year (ESPECIFICAR, e.g. suscripción Make)
+- `Marketing`: 15,000 USD/year (estimated, if the revenue obtained from Easy Connect customers allows these costs to be reduced, we will return the remaining funds)
 - `Community management`: $15,000 USD/year
-- `Ads Management`: $15,000 USD/year
 - Audits are not included.
+- Legal requirements are not include.
 
 ## 10. Team
 
