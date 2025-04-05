@@ -241,29 +241,29 @@ This planning is subject to the technical availability of the mainnet and testne
 
 ### Budget breakdown
 
-The budget required for the development of the Easy Connect solution, according to the described scope, amounts to 25,000 USD, broken down into the following items:
-- **Technical Development:** 15,000 USD
-- **UX/UI Design:** 5,000 USD
-- **Product and Business development:** 2,500 USD
-- **Marketing and Communications:** 2,500 USD
+The budget required for the development of the Easy Connect solution, according to the described scope, amounts to 25,000 EUR, broken down into the following items:
+- **Technical Development:** 15,000 EUR
+- **UX/UI Design:** 5,000 EUR
+- **Product and Business development:** 2,500 EUR
+- **Marketing and Communications:** 2,500 EUR
 
 ### Payment plan:
 
 Payments will be made according to the following schedule, based on the achievement of the specified milestones:
-- **Milestone 1 - Proposal aproval:** 20% budget (5,000 USD)
-- **Milestone 2 - Technical design:** 15% budget (3,750 USD)
-- **Milestone 3 - Testnet integration:** 15% budget (3,750 USD)
-- **Milestone 4 - Mainnet integration:** 25% budget (6.250 USD)
-- **Milestone 5 - Make integration:** 25% budget (6,250 USD)
+- **Milestone 1 - Proposal aproval:** 20% budget (5,000 EUR)
+- **Milestone 2 - Technical design:** 15% budget (3,750 EUR)
+- **Milestone 3 - Testnet integration:** 15% budget (3,750 EUR)
+- **Milestone 4 - Mainnet integration:** 25% budget (6.250 EUR)
+- **Milestone 5 - Make integration:** 25% budget (6,250 EUR)
 
 ### Additional costs:
 
 In addition to the budget required for the development of the Easy Connect solution, the following annual expenses have to be covered for maintaining the solution, once the project described in this document has been completed and all milestones have been met:
-- **Hosting:** xxx USD/year
-- **Software and licences:** xxx USD/year
-- **Operation and Maintenance:** xxx USD/year (8x5 support and 24x7 monitoring)
-- **Marketing:** 12,000 USD/year
-- **Community management:** 12,000 USD/year
+- **Hosting:** xxx EUR/year
+- **Software and licences:** xxx EUR/year
+- **Operation and Maintenance:** xxx EUR/year (8x5 support and 24x7 monitoring)
+- **Marketing:** 12,000 EUR/year
+- **Community management:** 12,000 EUR/year
 - Audit costs are not included.
 - Legal costs are not included.
 
