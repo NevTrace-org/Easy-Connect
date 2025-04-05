@@ -252,9 +252,9 @@ The budget required for the development of the Easy Connect solution, according 
 Payments will be made according to the following schedule, based on the achievement of the specified milestones:
 - **Milestone 1 - Proposal aproval:** 20% budget (5,000 EUR)
 - **Milestone 2 - Technical design:** 15% budget (3,750 EUR)
-- **Milestone 3 - Testnet integration:** 15% budget (3,750 EUR)
+- **Milestone 3 - Testnet integration:** 25% budget (6,250 EUR)
 - **Milestone 4 - Mainnet integration:** 25% budget (6.250 EUR)
-- **Milestone 5 - Make integration:** 25% budget (6,250 EUR)
+- **Milestone 5 - Make integration:** 15% budget (3,750 EUR)
 
 ### Additional costs:
 
