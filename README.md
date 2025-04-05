@@ -65,11 +65,11 @@ xxx
   * Landing page v1.0.
   * User panel v1.0.
   * Integration tests.
-  * Technical documentation.
   
 - `Milestone 5 - Make integration`: August 31 2025
   * Qubic Easy Connect module for Make.
   * Integration tests.
+  * Technical documentation.
   * User documentation.
 
 ## 9. Budget and payment structure
@@ -78,8 +78,8 @@ xxx
 
 - `Total Project Cost`: $25,000 USD
 - `Technical Development`: $xxx USD
-- `Design`: $xxx USD
-- `Business development`: $xxx USD
+- `UX/UI Design`: $xxx USD
+- `Product and Business development`: $xxx USD
 
 ### 9.2 Payment Plan:
 
