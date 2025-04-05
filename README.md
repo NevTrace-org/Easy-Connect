@@ -276,3 +276,10 @@ xxx
 
 ## 9. Conclusion
 
+At [NevTrace](https://nevtrace.com) we've been working for a decade to become **the link between the real world and the on-chain ecosystem**.
+
+Our mission is to help companies that want to take advantage of the opportunities offered by blockchain, and on-chain projects that need to go beyond early adopters.
+
+The Easy Connect proposal we're presenting aligns perfectly with our vision and addresses a real need in the Qubic ecosystem to drive its growth both within the current ecosystem and beyond, toward the early majority.
+
+We're confident that the proposal will be interesting and that we can develop an initial commercial version of Easy Connect.
