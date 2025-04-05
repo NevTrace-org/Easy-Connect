@@ -252,7 +252,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Budget breakdown
 
-**Total project cost:** $25,000 USD
+**Total project cost:** 25,000 USD
 - **Technical Development:** 12,500 USD
 - **UX/UI Design:** 5,000 USD
 - **Product and Business development:** 5,000 USD
@@ -260,11 +260,11 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Payment plan:
 
-- **Milestone 1 - Proposal aproval:** 20% budget (5,000 USD in QUBIC)
-- **Milestone 2 - Technical design:** 15% budget (3,750 USD in QUBIC)
-- **Milestone 3 - Testnet integration:** 15% budget (3,750 USD in QUBIC)
-- **Milestone 4 - Mainnet integration:** 25% budget (6.250 USD in QUBIC)
-- **Milestone 5 - Make integration:** 25% budget (6,250 USD in QUBIC)
+- **Milestone 1 - Proposal aproval:** 20% budget (5,000 USD)
+- **Milestone 2 - Technical design:** 15% budget (3,750 USD)
+- **Milestone 3 - Testnet integration:** 15% budget (3,750 USD)
+- **Milestone 4 - Mainnet integration:** 25% budget (6.250 USD)
+- **Milestone 5 - Make integration:** 25% budget (6,250 USD)
 
 ### Additional costs:
 
