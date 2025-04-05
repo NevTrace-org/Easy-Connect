@@ -228,9 +228,9 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 ### Budget breakdown
 
 **Total Project Cost:** $25,000 USD
-- **Technical Development:** 15,000 USD
+- **Technical Development:** 12,500 USD
 - **UX/UI Design:** 5,000 USD
-- **Product and Business development:** 2,500 USD
+- **Product and Business development:** 5,000 USD
 - **Marketing and Communications:** 2,500 USD
 
 ### Payment Plan:
