@@ -280,7 +280,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Profile and experience
 
-- **Jorge (Product and Business Development / Marketing and Communications):**
+- **Jorge Ordovas (Product and Business Development / Marketing and Communications):**
   - Information Technology professional with 25 years of experience in the development of products and services in many different sectors (telecommunications, payments, security, eHealth, energy, cloud, blockchain, web3).
   - Working in Blockchain consulting and development of projects based on blockchain technologies since 2015 at [Nevtrace](https://nevtrace.com), the first Blockchain lab in Spain.
   - Senior manager working in Blockchain and Web3 product and business development since 2018 at [Telefonica](https://metaverso.telefonica.com/en/welcome-to-metaverse).
@@ -288,11 +288,11 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
   - **X (+5,000 followers):** [@joobid](https://x.com/joobid)
   - **Farcaster (+2,800 followers):** [@joobid.eth](https://warpcast.com/joobid)
 
-- **Rafa (UX/UI Design)**
+- **Rafael Montaño (UX/UI Design)**
 
 xxx
 
-- **Chus (Full Stack Development)**
+- **Jesús Lanzarote (Full Stack Development)**
 
 xxx
 
