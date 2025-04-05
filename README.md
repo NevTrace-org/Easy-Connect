@@ -6,6 +6,8 @@ Easy Connect is a solution that provides quick and easy access to any Qubic smar
 
 In addition to providing quick integration for any application or service, Easy Connect provides components for integrating Qubic into no-code platforms like Make or Zappier, allowing millions of users inmediate access to Qubic without requiring technical knowledge.
 
+---
+
 ## 2. Scope of the Proposal
 
 Our proposal for joining the Qubic incubation program is to create an initial version of Easy Connect that will monitor every information related to the main smart contracts already deployed into Qubic, allowing any application or service to subscribe and receive in real time every data generated on the network, via webhooks.
@@ -14,30 +16,53 @@ This first Easy Connect version will also offer a web-based configuration panel 
 
 In addition, the scope of the proposal includes the creation of a first version of Easy Connect component for Make that will allow any user, without technical knowledge, to integrate existing information on Qubic into any application and process, thanks to the more than 1,600 applications compatible with this leading no-code platform.
 
+---
+
 ## 3. Functionality
 
-* **Functionality 1:** xxx
-* **Functionality 2:** xxx
-* **Functionality 3:** xxx
-* **Functionality 4:** xxx
-
-## 4. Technical Development Scope
+### Functionality 1
 
 xxx
 
-## 5. Future improvements
+### Functionality 2
 
 xxx
 
-## 6. Tech Stack
+...
 
-* **Frontend:** xxx
-* **Backend:** xxx
-* **Database:** xxx
-* **Cloud:** xxx
-* **Qubic:** xxx
+---
 
-## 7. Marketing and Communication strategy
+### Future improvements
+
+xxx
+
+---
+
+## 4. Tech Stack
+
+### Architecture diagram
+
+IMAGE
+
+### Frontend
+
+xxx
+
+### Backend
+
+xxx
+
+### Database
+
+xxx
+
+### Qubic
+
+xxx
+
+---
+
+## 5. Marketing and Communication strategy
 
 ### Current Market Landscape  
 The market is primed for such solutions. Existing integrations between blockchain and automation tools have demonstrated tangible value, exemplified by:  
@@ -93,14 +118,14 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 - **Partnership announcements**: Collaborations with industry leaders.  
 
 **Actions**:  
-- Publish weekly articles authored by C-suite leaders.  
+- Publish weekly articles.  
 - Host LinkedIn Live sessions showcasing product demos.  
 - Engage actively in blockchain and automation-focused groups.  
 
 ### Telegram and Discord Qubic groups (English and Spanish)
 - **Product updates**: Announcements of roadmap and milestone achivements, new features and integrations.
-- **Technical deep dives**: Advanced discussions tailored to crypto-native audiences.  
-- **Exclusive AMAs**: Direct Q&A with the development team.  
+- **Technical deep dives**: Advanced discussions tailored to Qubic-native audiences.  
+- **Exclusive AMAs**: Direct Q&A with the development and ecosystem Qubic teams.  
 
 **Actions**:  
 - Partner with existing Qubic community leaders to increase engagement.  
@@ -163,90 +188,93 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 - **Full launch (Months 4–6)**: Global ad campaigns, PR blitz, and virtual events.  
 - **Growth (Months 7–12)**: Community expansion, new verticals, and feature updates.  
 
+---
 
-## 8. Project plan and milestones
+## 6. Project plan and milestones
 
-* **Project start - MAD Hack 2025:** March 24 2025
+- **Project start - MAD Hack 2025:** March 24 2025
 
-* **Milestone 1 - Proposal aproval:** March 11 2025
+- **Milestone 1 - Proposal aproval:** March 11 2025
 
-* **Milestone 2 - Technical design:** March 31 2025
-  * Architecture definition.
-  * Functional definition.
-  * Design definition (Figma).
+- **Milestone 2 - Technical design:** March 31 2025
+  - Architecture definition.
+  - Functional definition.
+  - Design definition (Figma).
 
-* **Milestone 3 - Testnet integration:** June 30 2025
-  * Qubic integration with one smart contract (testnet).
-  * Webhook integration beta.
-  * Functional tests.
-  * Initial integration tests.
-  * Landing page beta.
-  * User panel beta.
+- **Milestone 3 - Testnet integration:** June 30 2025
+  - Qubic integration with one smart contract (testnet).
+  - Webhook integration beta.
+  - Functional tests.
+  - Initial integration tests.
+  - Landing page beta.
+  - User panel beta.
 
-* **Milestone 4 - Mainnet integration:** July 30 2025
-  * Qubic integration with most relevant mainnet smart contracts.
-  * Webhook integration v1.0.
-  * Landing page v1.0.
-  * User panel v1.0.
-  * Integration tests.
+- **Milestone 4 - Mainnet integration:** July 30 2025
+  - Qubic integration with most relevant mainnet smart contracts.
+  - Webhook integration v1.0.
+  - Landing page v1.0.
+  - User panel v1.0.
+  - Integration tests.
   
-* **Milestone 5 - Make integration:** August 31 2025
-  * Qubic Easy Connect module for Make.
-  * Integration tests.
-  * Technical documentation.
-  * User documentation.
-  * Initial marketing campaigns (soft launch)
+- **Milestone 5 - Make integration:** August 31 2025
+  - Qubic Easy Connect module for Make.
+  - Integration tests.
+  - Technical documentation.
+  - User documentation.
+  - Initial marketing campaigns (soft launch)
 
-## 9. Budget and payment plan
+---
 
-### 9.1 Budget breakdown
+## 7. Budget and payment plan
+
+### Budget breakdown
 
 **Total Project Cost:** $25,000 USD
-* **Technical Development:** 15,000 USD
-* **UX/UI Design:** 5,000 USD
-* **Product and Business development:** 2,500 USD
-* **Marketing and Communications:** 2,500 USD
+- **Technical Development:** 15,000 USD
+- **UX/UI Design:** 5,000 USD
+- **Product and Business development:** 2,500 USD
+- **Marketing and Communications:** 2,500 USD
 
-### 9.2 Payment Plan:
+### Payment Plan:
 
-* **Milestone 1 - Proposal aproval:** 20% budget (5,000 USD in QUBIC)
-* **Milestone 2 - Technical design:** 15% budget (3,750 USD in QUBIC)
-* **Milestone 3 - Testnet integration:** 15% budget (3,750 USD in QUBIC)
-* **Milestone 4 - Mainnet integration:** 25% budget (6.250 USD in QUBIC)
-* **Milestone 5 - Make integration:** 25% budget (6,250 USD in QUBIC)
+- **Milestone 1 - Proposal aproval:** 20% budget (5,000 USD in QUBIC)
+- **Milestone 2 - Technical design:** 15% budget (3,750 USD in QUBIC)
+- **Milestone 3 - Testnet integration:** 15% budget (3,750 USD in QUBIC)
+- **Milestone 4 - Mainnet integration:** 25% budget (6.250 USD in QUBIC)
+- **Milestone 5 - Make integration:** 25% budget (6,250 USD in QUBIC)
 
-### 9.3 Additional Costs:
+### Additional Costs:
 
-* **Hosting:** xxx USD/year (estimated, if real costs are cheaper, we will return the remaining funds)
-* **Software and licences:** xxx USD/year (ESPECIFICAR, e.g. suscripción Make)
-* **Marketing:** 15,000 USD/year (estimated, if the revenue obtained from Easy Connect customers allows these costs to be reduced, we will return the remaining funds)
-* **Community management:** $15,000 USD/year
+- **Hosting:** xxx USD/year (estimated, if real costs are cheaper, we will return the remaining funds)
+- **Software and licences:** xxx USD/year (ESPECIFICAR, e.g. suscripción Make)
+- **Marketing:** 15,000 USD/year (estimated, if the revenue obtained from Easy Connect customers allows these costs to be reduced, we will return the remaining funds)
+- **Community management:** $15,000 USD/year
 - Audit costs are not included.
 - Legal costs are not included.
 
-## 10. Team
+## 8. Team
 
-### 10.1. Profile and experience
+### Profile and experience
 
-* **Jorge (Product and Business Development):**
-  * Information Technology professional with 25 years of experience in the development of products and services in many different sectors (telecommunications, payments, security, eHealth, energy, cloud, blockchain, web3).
-  * Working in Blockchain consulting and development of projects based on blockchain technologies since 2015 at [Nevtrace](https://nevtrace.com), the first Blockchain lab in Spain.
-  * Working in Blockchain and Web3 product and business development since 2018 at [Telefonica](https://metaverso.telefonica.com/en/welcome-to-metaverse).
-  * **LinkedIn:** [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/)
-  * **X:** [@joobid](https://x.com/joobid)
-  * **Farcaster:** [@joobid](https://warpcast.com/joobid)
+- **Jorge (Product and Business Development / Marketing and Communications):**
+  - Information Technology professional with 25 years of experience in the development of products and services in many different sectors (telecommunications, payments, security, eHealth, energy, cloud, blockchain, web3).
+  - Working in Blockchain consulting and development of projects based on blockchain technologies since 2015 at [Nevtrace](https://nevtrace.com), the first Blockchain lab in Spain.
+  - Working in Blockchain and Web3 product and business development since 2018 at [Telefonica](https://metaverso.telefonica.com/en/welcome-to-metaverse).
+  - **LinkedIn (+10,000 followers):** [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/)
+  - **X (+5,000 followers):** [@joobid](https://x.com/joobid)
+  - **Farcaster (+2,800 followers):** [@joobid](https://warpcast.com/joobid)
 
 
-* Rafa (UX/UI Design)
-
-xxx
-
-* Chus (Full Stack Development)
+- **Rafa (UX/UI Design)**
 
 xxx
 
-### 10.2. Public projects:
+- **Chus (Full Stack Development)**
+
+xxx
+
+### Public projects:
 
 
-## 11. Conclusion
+## 9. Conclusion
 
