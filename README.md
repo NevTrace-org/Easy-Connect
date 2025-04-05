@@ -258,15 +258,16 @@ Payments will be made according to the following schedule, based on the achievem
 
 ### Additional costs:
 
-In addition to the budget required for the development of the Easy Connect solution, the following annual expenditure items are broken down as required for the maintenance of the solution, once the project described in this document has been completed and all milestones have been met:
-- **Hosting:** xxx USD/year (Estimated: If the actual costs are lower than anticipated, the surplus funds will be reimbursed)
-- **Software and licences:** xxx USD/year (Make subscription, etc)
+In addition to the budget required for the development of the Easy Connect solution, the following annual expenses have to be covered for maintaining the solution, once the project described in this document has been completed and all milestones have been met:
+- **Hosting:** xxx USD/year
+- **Software and licences:** xxx USD/year
 - **Operation and Maintenance:** xxx USD/year (8x5 support and 24x7 monitoring)
-- **Marketing:** 12,000 USD/year (Estimated: If the actual costs are lower than anticipated, the surplus funds will be reimbursed)
+- **Marketing:** 12,000 USD/year
 - **Community management:** $12,000 USD/year
 - Audit costs are not included.
 - Legal costs are not included.
 
+These additional costs are estimated. If the actual costs are lower than anticipated, the surplus funds will be reimbursed.
 
 ## 9. Team
 
