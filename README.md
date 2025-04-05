@@ -126,7 +126,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 **X and Farcaster** 
 
-- **Strategy**: Based on Nevtrace and Jorge positioning in X and Farcaster as Blockchain leaders (+6,000 followers in X, +3,000 in Farcaster):
+- **Strategy**: Based on [@nevtrace](https://x.com/nevtrace) and [@joobid](https://x.com/joobid) positioning in X and Farcaster as Blockchain leaders (+6,000 followers in X, +3,000 in Farcaster):
   - **Educational threads**: Step-by-step use case explanations under #NoCodeBlockchain.  
   - **Product updates**: Announcements of new features and integrations.  
   - **Community engagement**: Retweets and interactions with blockchain/no-code communities.  
@@ -138,7 +138,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 **LinkedIn**:  
 
-- **Strategy**: Based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 followers):
+- **Strategy**: Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) positioning in LinkedIn as Blockchain leader (+10,000 followers):
   - **Case studies**: ROI-focused narratives highlighting business successes.  
   - **Thought leadership**: Articles by executives on automation trends.  
   - **Partnership announcements**: Collaborations with industry leaders.  
