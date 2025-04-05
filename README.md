@@ -257,11 +257,10 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 - **Jorge (Product and Business Development / Marketing and Communications):**
   - Information Technology professional with 25 years of experience in the development of products and services in many different sectors (telecommunications, payments, security, eHealth, energy, cloud, blockchain, web3).
   - Working in Blockchain consulting and development of projects based on blockchain technologies since 2015 at [Nevtrace](https://nevtrace.com), the first Blockchain lab in Spain.
-  - Working in Blockchain and Web3 product and business development since 2018 at [Telefonica](https://metaverso.telefonica.com/en/welcome-to-metaverse).
+  - Senior manager working in Blockchain and Web3 product and business development since 2018 at [Telefonica](https://metaverso.telefonica.com/en/welcome-to-metaverse).
   - **LinkedIn (+10,000 followers):** [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/)
   - **X (+5,000 followers):** [@joobid](https://x.com/joobid)
-  - **Farcaster (+2,800 followers):** [@joobid](https://warpcast.com/joobid)
-
+  - **Farcaster (+2,800 followers):** [@joobid.eth](https://warpcast.com/joobid)
 
 - **Rafa (UX/UI Design)**
 
@@ -271,8 +270,18 @@ xxx
 
 xxx
 
-### Public projects:
+### Public projects developed by Team members
 
+[Qubik at MAD Hack 2025] (https://qubik.app)
+[TU Wallet] (https://www.telefonica.com/en/transformation-handbooks/innovation-handbook/tu-wallet-a-multi-crypto-digital-wallet/)
+[Celo Foundation Alliance] (https://www.telefonica.com/en/communication-room/press-room/telefonica-partners-with-fundacion-celo/)
+[Blockchain-based document certification platform] (https://www.telefonica.com/es/sala-comunicacion/prensa/telefonica-tech-lanza-un-servicio-de-certificacion-documental-basado-en-blockchain/)
+[TrustOS Blockchain platform] (https://www.eleconomista.es/especial-tecnologia-startups/noticias/10261692/12/19/Telefonica-lanza-TrustOS-para-facilitar-operaciones-blockchain.html)
+[BRAIN - Bitcoin Ransomware Analysis Intelligent Network] (https://www.larazon.es/sociedad/espanoles-a-la-caza-de-ladrones-de-bitcoins-HC13111143/)
+
+INCLUIR PROYECTOS DE LOIBAND
+
+---
 
 ## 9. Conclusion
 
