@@ -62,7 +62,28 @@ xxx
 
 ---
 
-## 5. Marketing and Communication strategy
+## 5. Monetization
+
+Freemium to scale. Premium to grow.
+
+Easy Connect's business model will be based on two distinct customer segments:
+
+### Qubic Ecosystem
+
+The target audience is developers, projects, and users of the Qubic ecosystem who want to easily and quickly integrate existing information into the network, obtained in real time.
+
+- Free tier: Monitoring of existing information in a single Qubic smart contract in real time, with limitations on the volume of information and refresh time.
+- Premium tier: Full access to the main Qubic smart contracts, parameterization through a user dashboard, receipt of real-time information, and priority support, through a monthly subscription (paid in QUBIC).
+
+### No-code platforms
+
+Easy Connect Qubic modules for the main no-code platforms (Make, Zappier, etc.), offering two modalities:
+- Free tier: 1,000 ops/mo, 1 active scenario, 15-minute interval.
+- Premium tier: Extended usage, advanced features, and priority support.
+
+---
+
+## 6. Marketing and Communication strategy
 
 ### Current Market Landscape  
 The market is primed for such solutions. Existing integrations between blockchain and automation tools have demonstrated tangible value, exemplified by:  
@@ -190,7 +211,7 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 
 ---
 
-## 6. Project plan and milestones
+## 7. Project plan and milestones
 
 - **Project start - MAD Hack 2025:** March 24 2025
 
@@ -225,7 +246,7 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 
 ---
 
-## 7. Budget and payment plan
+## 8. Budget and payment plan
 
 ### Budget breakdown
 
@@ -254,7 +275,7 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 
 ---
 
-## 8. Team
+## 9. Team
 
 ### Profile and experience
 
@@ -287,7 +308,7 @@ INCLUIR PROYECTOS DE LOIBAND
 
 ---
 
-## 9. Conclusion
+## 10. Conclusion
 
 At [NevTrace](https://nevtrace.com) we've been working for a decade to become **the link between the real world and the on-chain ecosystem**.
 
