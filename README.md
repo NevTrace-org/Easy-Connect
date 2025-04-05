@@ -286,7 +286,7 @@ In addition to the budget required for the development of the Easy Connect solut
   - **X (+5,000 followers):** [@joobid](https://x.com/joobid)
   - **Farcaster (+2,800 followers):** [@joobid.eth](https://warpcast.com/joobid)
 
-- **Rafael Montaño (UX/UI Design)**
+- **Rafael Montaño (UX and Product Design)**
 
 xxx
 
