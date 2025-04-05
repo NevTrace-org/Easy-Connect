@@ -250,6 +250,8 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 - Audit costs are not included.
 - Legal costs are not included.
 
+---
+
 ## 8. Team
 
 ### Profile and experience
