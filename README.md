@@ -206,14 +206,14 @@ Project planning is structured into the following phases, which specify the acti
 
 - **Project start - MAD Hack 2025:** March 24 2025
 
-- **Milestone 1 - Proposal aproval:** March 11 2025
+- **Milestone 1 - Proposal aproval:** April 11 2025
 
-- **Milestone 2 - Technical design:** March 31 2025
+- **Milestone 2 - Technical design:** April 30 2025
   - Architecture definition.
   - Functional definition.
   - Design definition (Figma).
 
-- **Milestone 3 - Testnet integration:** June 30 2025
+- **Milestone 3 - Testnet integration:** May 31 2025
   - Qubic integration with one smart contract (testnet).
   - Webhook integration beta.
   - Unit tests.
@@ -221,14 +221,14 @@ Project planning is structured into the following phases, which specify the acti
   - Landing page beta.
   - User panel beta.
 
-- **Milestone 4 - Mainnet integration:** July 30 2025
+- **Milestone 4 - Mainnet integration:** June 30 2025
   - Qubic integration with most relevant mainnet smart contracts.
   - Webhook integration v1.0.
   - Landing page v1.0.
   - User panel v1.0.
   - Integration tests.
   
-- **Milestone 5 - Make integration:** August 31 2025
+- **Milestone 5 - Make integration:** July 31 2025
   - Qubic Easy Connect module for Make.
   - Integration tests.
   - Technical documentation.
