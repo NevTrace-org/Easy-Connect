@@ -321,4 +321,4 @@ The Easy Connect proposal we're presenting aligns perfectly with our vision and 
 
 We're confident that the proposal will be interesting and that we can develop an initial commercial version of Easy Connect thanks to the Qubic Incubation Program.
 
-Furthermore, we confirm our willingness to maintain and develop the Easy Connect solution beyond the scope defined in this document, provided we can receive the necessary funding through Qubic's grant programs or other funding alternatives.
+Furthermore, we confirm our willingness to maintain and evolve the Easy Connect solution beyond the scope defined in this document, provided we can receive the necessary funding through Qubic's grant programs or other funding alternatives.
