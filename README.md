@@ -30,9 +30,7 @@ xxx
 
 ...
 
----
-
-### Future improvements
+### Future improvements (out of this proposal scope)
 
 xxx
 
