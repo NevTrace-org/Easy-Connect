@@ -272,11 +272,11 @@ xxx
 
 ### Public projects developed by Team members
 
-[Qubik at MAD Hack 2025] (https://qubik.app)
-[TU Wallet] (https://www.telefonica.com/en/transformation-handbooks/innovation-handbook/tu-wallet-a-multi-crypto-digital-wallet/)
-[Celo Foundation Alliance] (https://www.telefonica.com/en/communication-room/press-room/telefonica-partners-with-fundacion-celo/)
-[Blockchain-based document certification platform] (https://www.telefonica.com/es/sala-comunicacion/prensa/telefonica-tech-lanza-un-servicio-de-certificacion-documental-basado-en-blockchain/)
-[TrustOS Blockchain platform] (https://www.eleconomista.es/especial-tecnologia-startups/noticias/10261692/12/19/Telefonica-lanza-TrustOS-para-facilitar-operaciones-blockchain.html)
+* [Qubik at MAD Hack 2025] (https://qubik.app)
+* [TU Wallet] (https://www.telefonica.com/en/transformation-handbooks/innovation-handbook/tu-wallet-a-multi-crypto-digital-wallet/)
+* [Celo Foundation Alliance] (https://www.telefonica.com/en/communication-room/press-room/telefonica-partners-with-fundacion-celo/)
+* [Blockchain-based document certification platform] (https://www.telefonica.com/es/sala-comunicacion/prensa/telefonica-tech-lanza-un-servicio-de-certificacion-documental-basado-en-blockchain/)
+* [TrustOS Blockchain platform] (https://www.eleconomista.es/especial-tecnologia-startups/noticias/10261692/12/19/Telefonica-lanza-TrustOS-para-facilitar-operaciones-blockchain.html)
 [BRAIN - Bitcoin Ransomware Analysis Intelligent Network] (https://www.larazon.es/sociedad/espanoles-a-la-caza-de-ladrones-de-bitcoins-HC13111143/)
 
 INCLUIR PROYECTOS DE LOIBAND
