@@ -297,6 +297,10 @@ xxx
 
 xxx
 
+- **Additional resources**
+
+Thanks to a decade of experience in the blockchain ecosystem, we have a broad network of contacts, freelance professionals specialized in blockchain technology, frontend, backend, infrastructure, etc., who we can quickly involve in the project in case we need additional resources to meet the defined milestones.
+  
 ### Public projects developed by Team members
 
 * [Qubik at MAD Hack 2025](https://qubik.app)
