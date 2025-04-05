@@ -1,4 +1,4 @@
-# EASY CONNECT - QUBIC
+# EASY CONNECT
 
 
 ## 1. Project overview
