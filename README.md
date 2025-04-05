@@ -1,8 +1,7 @@
-# Easy Connect - Qubic
+# EASY CONNECT - QUBIC
 
----
 
-## 1. Project Overview
+## 1. Project overview
 
 Easy Connect is a solution that provides quick and easy access to any Qubic smart contract data, enabling applications and developers to leverage the full potential of this network into their business logic, without the need for them to implement any technical integration with the Qubic network.
 
@@ -10,7 +9,7 @@ In addition to providing quick integration for any application or service, Easy 
 
 ---
 
-## 2. Scope of the Proposal
+## 2. Scope of the proposal
 
 Our proposal for joining the Qubic incubation program is to create an initial version of Easy Connect that will monitor every information related to the main smart contracts already deployed into Qubic, allowing any application or service to subscribe and receive in real time every data generated on the network, via webhooks.
 
@@ -38,7 +37,7 @@ xxx
 
 ---
 
-## 4. Tech Stack
+## 4. Tech stack
 
 ### Architecture diagram
 
@@ -68,7 +67,7 @@ Freemium to scale. Premium to grow.
 
 Easy Connect's business model will be based on two distinct customer segments:
 
-### Qubic Ecosystem
+### Qubic ecosystem
 
 The target audience is developers, projects, and users of the Qubic ecosystem who want to easily and quickly integrate existing information into the network, obtained in real time.
 
@@ -85,39 +84,39 @@ Easy Connect Qubic modules for the main no-code platforms (Make, Zappier, etc.),
 
 ## 6. Marketing and Communication strategy
 
-### Current Market Landscape  
+### Current market landscape  
 The market is primed for such solutions. Existing integrations between blockchain and automation tools have demonstrated tangible value, exemplified by:  
 - **Quant Network**, which introduced a Zapier integration enabling no-code connections between blockchain networks and legacy systems.  
 - **mintBlue**, a platform linking over 3,000 applications to public blockchains.
 
-### Unique Value Proposition  
+### Unique value proposition  
 
 Position Easy Connect as "the bridge between two worlds", the intricate blockchain ecosystem and the user-friendly automation tools businesses already rely on. Core messaging will emphasize:  
 - **Democratization**: "Qubic for everyone, no coding required."  
 - **Simplicity**: "Transform weeks of development into minutes of configuration."  
 - **Trust**: "Deliver trustworthy Qubic data to business processes." 
 
-### Audience Targeting and Messaging  
+### Audience targeting and messaging  
   
 - **Qubic ecosystem**: Existing applications and services who want to obtain data in real time for monitoring, reporting, user support...
 - **No-code/low-code developers**: Current users of Make/Zapier looking to expand their automation capabilities including Qubic data.  
 - **Web3 startups and blockchain firms**: Requiring seamless integration with Qubic network.  
 
-### Content Strategy  
+### Content strategy  
 
-**Content Pillars**  
+**Content pillars**  
 - **Educational resources**: Pushing Qubic’s relevance across industries.
 - **Use cases**: Practical examples of Qubic-Make/Zapier integrations.  
 - **Tutorials**: Step-by-step guides for implementing workflows.  
 - **Trend insights**: Analyses of Qubic and automation’s evolving landscape.  
 
-**Content Formats**  
+**Content formats**  
 - **Social networks**: Technical deep dives in X and Farcaster, business-centric articles in LinkedIn.   
 - **Webinars**: Live demonstrations and Q&A sessions in X and LinkedIn.  
 - **Infographics**: Visual breakdowns of complex processes.  
 - **Video tutorials**: Walkthroughs of common integration scenarios.  
 
-### Social Media Strategy  
+### Social media strategy  
 
 **X and Farcaster** 
 
@@ -154,7 +153,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - Partner with existing Qubic community leaders to increase engagement.  
 - Offer early beta access to Qubic users in Telegram/Discord to foster advocacy.  
 
-### Digital Advertising  
+### Digital advertising  
 
 **Google Ads**:  
 - **Search campaigns**: Target keywords like "blockchain integration" and "Make blockchain."  
@@ -164,7 +163,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - **Phase 1**: Educational ads focused on automation efficiency (avoiding direct blockchain references).  
 - **Phase 2**: Retargeting campaigns with blockchain-specific case studies and testimonials.  
 
-### Influencer Collaborations  
+### Influencer collaborations  
 
 **Influencer categories**:  
 - **Qubic experts**: For technical credibility and crypto community reach.
@@ -180,14 +179,14 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - Cultivate long-term partnerships with 5–10 influencers per category.  
 - Launch an ambassador program with exclusive feature previews.  
 
-### Events and Public Relations  
+### Events and public relations  
 
 **Virtual/In-person events**:  
 - **Hackathons**: Competitions to build innovative integrations using Easy Connect.  
 - **Workshops**: Hands-on sessions for specific Qubic use cases.  
 - **Conference participation**: Keynote speeches and exhibition booths at blockchain events.   
 
-### Additional Initiatives  
+### Additional initiatives  
 
 **Community building**:  
 - **Dedicated forums**: Discord/Telegram channels for user discussions.  
@@ -205,7 +204,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - **Conversion**: Free trial sign-ups, cost per acquisition (CPA).  
 - **Retention**: 30/60/90-day user retention, Net Promoter Score (NPS).  
 
-### Implementation Timeline  
+### Implementation timeline  
 - **Preparation (Months 1–2)**: Finalize branding, content assets, and analytics.  
 - **Soft launch (Month 3)**: Limited beta release and influencer pilot programs.  
 - **Full launch (Months 4–6)**: Global ad campaigns, PR blitz, and virtual events.  
@@ -252,13 +251,13 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Budget breakdown
 
-**Total Project Cost:** $25,000 USD
+**Total project cost:** $25,000 USD
 - **Technical Development:** 12,500 USD
 - **UX/UI Design:** 5,000 USD
 - **Product and Business development:** 5,000 USD
 - **Marketing and Communications:** 2,500 USD
 
-### Payment Plan:
+### Payment plan:
 
 - **Milestone 1 - Proposal aproval:** 20% budget (5,000 USD in QUBIC)
 - **Milestone 2 - Technical design:** 15% budget (3,750 USD in QUBIC)
@@ -266,10 +265,10 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - **Milestone 4 - Mainnet integration:** 25% budget (6.250 USD in QUBIC)
 - **Milestone 5 - Make integration:** 25% budget (6,250 USD in QUBIC)
 
-### Additional Costs:
+### Additional costs:
 
 - **Hosting:** xxx USD/year (estimated, if real costs are cheaper, we will return the remaining funds)
-- **Software and licences:** xxx USD/year (ESPECIFICAR, e.g. suscripción Make)
+- **Software and licences:** xxx USD/year (Make subscription, etc)
 - **Marketing:** 15,000 USD/year (estimated, if the revenue obtained from Easy Connect customers allows these costs to be reduced, we will return the remaining funds)
 - **Community management:** $15,000 USD/year
 - Audit costs are not included.
