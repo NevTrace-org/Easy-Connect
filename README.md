@@ -97,53 +97,55 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - **Simplicity**: "Transform weeks of development into minutes of configuration."  
 - **Trust**: "Deliver trustworthy Qubic data to business processes." 
 
-## Audience Targeting and Messaging  
-
-### Primary Audiences  
+### Audience Targeting and Messaging  
+  
 1. **Qubic ecosystem**: Existing applications and services who want to obtain data in real time for monitoring, reporting, user support...
 2. **No-code/low-code developers**: Current users of Make/Zapier looking to expand their automation capabilities including Qubic data.  
 3. **Web3 startups and blockchain firms**: Requiring seamless integration with Qubic network.  
 
-## Content Strategy  
+### Content Strategy  
 
-### Content Pillars  
+**Content Pillars**  
 1. **Educational resources**: Pushing Qubic’s relevance across industries.  
 2. **Use cases**: Practical examples of Qubic-Make/Zapier integrations.  
 3. **Tutorials**: Step-by-step guides for implementing workflows.  
 4. **Trend insights**: Analyses of Qubic and automation’s evolving landscape.  
 
-### Content Formats  
+**Content Formats**  
 - **Social networks**: Technical deep dives in X and Farcaster, business-centric articles in LinkedIn.   
 - **Webinars**: Live demonstrations and Q&A sessions in X and LinkedIn.  
 - **Infographics**: Visual breakdowns of complex processes.  
 - **Video tutorials**: Walkthroughs of common integration scenarios.  
 
-## Social Media Strategy  
+### Social Media Strategy  
 
-### X and Farcaster 
+**X and Farcaster** 
 
-Strategy based on Nevtrace and Jorge positioning in X and Farcaster as Blockchain leaders (+6,000 followers in X, +3,000 in Farcaster):
-- **Educational threads**: Step-by-step use case explanations under #NoCodeBlockchain.  
-- **Product updates**: Announcements of new features and integrations.  
-- **Community engagement**: Retweets and interactions with blockchain/no-code communities.  
-- **Polls**: Identifying pain points and preferences within the target audience.
-
-**Actions**:  
-- Maintain a content calendar with 3–5 daily posts blending education, promotion, and dialogue.  
-- Implement a rapid-response system to boost engagement with trending topics.  
-
-### LinkedIn  
-Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 followers):
-- **Case studies**: ROI-focused narratives highlighting business successes.  
-- **Thought leadership**: Articles by executives on automation trends.  
-- **Partnership announcements**: Collaborations with industry leaders.  
+- **Strategy**: Based on Nevtrace and Jorge positioning in X and Farcaster as Blockchain leaders (+6,000 followers in X, +3,000 in Farcaster):
+  - **Educational threads**: Step-by-step use case explanations under #NoCodeBlockchain.  
+  - **Product updates**: Announcements of new features and integrations.  
+  - **Community engagement**: Retweets and interactions with blockchain/no-code communities.  
+  - **Polls**: Identifying pain points and preferences within the target audience.
 
 **Actions**:  
-- Publish weekly articles.  
-- Host LinkedIn Live sessions showcasing product demos.  
-- Engage actively in blockchain and automation-focused groups.  
+  - Maintain a content calendar with 3–5 daily posts blending education, promotion, and dialogue.  
+  - Implement a rapid-response system to boost engagement with trending topics.  
+
+**LinkedIn**:  
+
+- **Strategy**: Based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 followers):
+  - **Case studies**: ROI-focused narratives highlighting business successes.  
+  - **Thought leadership**: Articles by executives on automation trends.  
+  - **Partnership announcements**: Collaborations with industry leaders.  
+
+- **Actions**:  
+  - Publish weekly articles.  
+  - Host LinkedIn Live sessions showcasing product demos.  
+  - Engage actively in blockchain and automation-focused groups.  
 
 ### Telegram and Discord Qubic groups (English and Spanish)
+
+**Strategy**:
 - **Product updates**: Announcements of roadmap and milestone achivements, new features and integrations.
 - **Technical deep dives**: Advanced discussions tailored to Qubic-native audiences.  
 - **Exclusive AMAs**: Direct Q&A with the development and ecosystem Qubic teams.  
@@ -152,24 +154,24 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 - Partner with existing Qubic community leaders to increase engagement.  
 - Offer early beta access to Qubic users in Telegram/Discord to foster advocacy.  
 
-## Digital Advertising  
+### Digital Advertising  
 
-### Google Ads  
+**Google Ads**:  
 - **Search campaigns**: Target keywords like "blockchain integration" and "Make blockchain."  
 - **Display ads**: Retargeting campaigns and placements on blockchain/automation websites.  
 
-### Meta (Facebook/Instagram)  
+**Meta(Facebook/Instagram)**:  
 - **Phase 1**: Educational ads focused on automation efficiency (avoiding direct blockchain references).  
 - **Phase 2**: Retargeting campaigns with blockchain-specific case studies and testimonials.  
 
-## Influencer Collaborations  
+### Influencer Collaborations  
 
-### Influencer Categories  
-1. **Qubic experts**: For technical credibility and crypto community reach.  
-2. **No-code advocates**: Influential Make/Zapier content creators.   
-3. **Innovative entrepreneurs**: Early adopters showcasing real-world applications.  
+**Influencer categories**:  
+- **Qubic experts**: For technical credibility and crypto community reach.
+- **No-code advocates**: Influential Make/Zapier content creators.   
+- **Innovative entrepreneurs**: Early adopters showcasing real-world applications.  
 
-### Collaboration Models  
+**Collaboration models**:  
 - **Sponsored content**: Tutorial videos and live demos.  
 - **Co-hosted webinars**: Deep dives into implementation strategies.  
 - **Success stories**: Documenting influencer-led deployments.  
@@ -178,32 +180,32 @@ Strategy based on Jorge positioning in LinkedIn as Blockchain leader (+10,000 fo
 - Cultivate long-term partnerships with 5–10 influencers per category.  
 - Launch an ambassador program with exclusive feature previews.  
 
-## Events and Public Relations  
+### Events and Public Relations  
 
-### Virtual/In-Person Events  
+**Virtual/In-person events**:  
 - **Hackathons**: Competitions to build innovative integrations using Easy Connect.  
 - **Workshops**: Hands-on sessions for specific Qubic use cases.  
 - **Conference participation**: Keynote speeches and exhibition booths at blockchain events.   
 
-## Additional Initiatives  
+### Additional Initiatives  
 
-### Community Building  
+**Community building**:  
 - **Dedicated forums**: Discord/Telegram channels for user discussions.  
 - **Comprehensive documentation**: API guides, troubleshooting resources, and FAQs.  
 - **Office hours**: Weekly live sessions for user support.  
 
-### Early Adoption Incentives  
+**Early adoption incentives**:  
 - **Discounts**: Reduced pricing for early users.  
 - **Testimonial rewards**: Benefits for users sharing case studies.  
 - **Roadmap influence**: Early adopters vote on feature prioritization.  
 
-## Metrics and KPIs  
+### Metrics and KPIs  
 - **Awareness**: Social media follower growth, organic website traffic.  
 - **Engagement**: Content interaction rates, event attendance.  
 - **Conversion**: Free trial sign-ups, cost per acquisition (CPA).  
 - **Retention**: 30/60/90-day user retention, Net Promoter Score (NPS).  
 
-## Implementation Timeline  
+### Implementation Timeline  
 - **Preparation (Months 1–2)**: Finalize branding, content assets, and analytics.  
 - **Soft launch (Month 3)**: Limited beta release and influencer pilot programs.  
 - **Full launch (Months 4–6)**: Global ad campaigns, PR blitz, and virtual events.  
