@@ -187,13 +187,6 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - **Workshops**: Hands-on sessions for specific Qubic use cases.  
 - **Conference participation**: Keynote speeches and exhibition booths at blockchain events.   
 
-### Additional initiatives  
-
-**Community building**:  
-- **Dedicated forums**: Discord/Telegram channels for user discussions.  
-- **Comprehensive documentation**: API guides, troubleshooting resources, and FAQs.  
-- **Office hours**: Weekly live sessions for user support.    
-
 ### Metrics and KPIs  
 - **Awareness**: Social media follower growth, organic website traffic.  
 - **Engagement**: Content interaction rates, event attendance.  
