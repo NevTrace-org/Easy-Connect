@@ -131,7 +131,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
   - Maintain a content calendar with daily posts blending education, promotion, and dialogue.  
   - Implement a rapid-response system to boost engagement with trending topics.  
 
-**LinkedIn**:  
+**LinkedIn**
 
 - **Strategy**: Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) positioning in LinkedIn as Blockchain leader (+10,000 followers):
   - **Case studies**: ROI-focused narratives highlighting business successes.  
@@ -221,7 +221,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - **Milestone 3 - Testnet integration:** June 30 2025
   - Qubic integration with one smart contract (testnet).
   - Webhook integration beta.
-  - Functional tests.
+  - Unit tests.
   - Initial integration tests.
   - Landing page beta.
   - User panel beta.
@@ -261,10 +261,10 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Additional costs:
 
-- **Hosting:** xxx USD/year (estimated, if real costs are cheaper, we will return the remaining funds)
+- **Hosting:** xxx USD/year (Estimated: If the actual costs are lower than anticipated, the surplus funds will be reimbursed)
 - **Software and licences:** xxx USD/year (Make subscription, etc)
-- **Marketing:** 15,000 USD/year (estimated, if the revenue obtained from Easy Connect customers allows these costs to be reduced, we will return the remaining funds)
-- **Community management:** $15,000 USD/year
+- **Marketing:** 12,000 USD/year (Estimated: If the actual costs are lower than anticipated, the surplus funds will be reimbursed)
+- **Community management:** $12,000 USD/year
 - Audit costs are not included.
 - Legal costs are not included.
 
