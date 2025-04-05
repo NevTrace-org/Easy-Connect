@@ -263,7 +263,7 @@ In addition to the budget required for the development of the Easy Connect solut
 - **Software and licences:** xxx USD/year
 - **Operation and Maintenance:** xxx USD/year (8x5 support and 24x7 monitoring)
 - **Marketing:** 12,000 USD/year
-- **Community management:** $12,000 USD/year
+- **Community management:** 12,000 USD/year
 - Audit costs are not included.
 - Legal costs are not included.
 
