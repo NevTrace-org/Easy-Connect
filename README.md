@@ -2,9 +2,9 @@
 
 ## 1. Project Overview
 
-Easy Connect is a solution that provides easy access to any Qubic smart contract, enabling applications and developers to leverage the full potential of this network in their business logic, without the need for them to implement technical integration with smart contracts on the Qubic network.
+Easy Connect is a solution that provides quick and easy access to any Qubic smart contract data, enabling applications and developers to leverage the full potential of this network into their business logic, without the need for them to implement any technical integration with the Qubic network.
 
-In addition to providing quick integration for any application or service, Easy Connect provides components for integrating Qubic into no-code tools like Make or Zappier, allowing the millions of users who use these solutions to access Qubic without requiring technical knowledge.
+In addition to providing quick integration for any application or service, Easy Connect provides components for integrating Qubic into no-code platforms like Make or Zappier, allowing millions of users inmediate access to Qubic without requiring technical knowledge.
 
 ## 2. Scope of the Proposal
 
@@ -72,14 +72,15 @@ xxx
   * Technical documentation.
   * User documentation.
 
-## 9. Budget and payment structure
+## 9. Budget and payment plan
 
 ### 9.1 Budget breakdown
 
 **Total Project Cost:** $25,000 USD
-* **Technical Development:** $xxx USD
-* **UX/UI Design:** $xxx USD
-* **Product and Business development:** $xxx USD
+* **Technical Development:** 15,000 USD
+* **UX/UI Design:** 5,000 USD
+* **Product and Business development:** 2,500 USD
+* **Marketing and Communications:** 2,500 USD
 
 ### 9.2 Payment Plan:
 
