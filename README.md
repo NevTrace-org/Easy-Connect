@@ -207,7 +207,9 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - **Growth (Months 7–12)**: Community expansion, new verticals, and feature updates.  
 
 
-## 7. Project plan and milestones
+## 7. Project plan and deliverables
+
+Project planning is structured into the following phases, which specify the activities and deliverables to be generated.
 
 - **Project start - MAD Hack 2025:** March 24 2025
 
@@ -240,12 +242,13 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
   - User documentation.
   - Initial marketing campaigns (soft launch)
 
+This planning is subject to the technical availability of the mainnet and testnet networks, documentation, and development tools provided by Qubic, as well as the support required for the development of the various components of the solution.
 
 ## 8. Budget and payment plan
 
 ### Budget breakdown
 
-**Total project cost:** 25,000 USD
+The budget required for the development of the Easy Connect solution, according to the described scope, amounts to USD 25,000, broken down into the following items:
 - **Technical Development:** 12,500 USD
 - **UX/UI Design:** 5,000 USD
 - **Product and Business development:** 5,000 USD
@@ -253,6 +256,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Payment plan:
 
+Payments will be made according to the following schedule, based on the achievement of the specified milestones:
 - **Milestone 1 - Proposal aproval:** 20% budget (5,000 USD)
 - **Milestone 2 - Technical design:** 15% budget (3,750 USD)
 - **Milestone 3 - Testnet integration:** 15% budget (3,750 USD)
@@ -261,6 +265,7 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Additional costs:
 
+In addition to the budget required for the development of the Easy Connect solution, the following annual expenditure items are broken down as required for the maintenance of the solution, once the project described in this document has been completed and all milestones have been met:
 - **Hosting:** xxx USD/year (Estimated: If the actual costs are lower than anticipated, the surplus funds will be reimbursed)
 - **Software and licences:** xxx USD/year (Make subscription, etc)
 - **Marketing:** 12,000 USD/year (Estimated: If the actual costs are lower than anticipated, the surplus funds will be reimbursed)
@@ -313,4 +318,6 @@ Our mission is to help companies that want to take advantage of the opportunitie
 
 The Easy Connect proposal we're presenting aligns perfectly with our vision and addresses a real need in the Qubic ecosystem to drive its growth both within the current ecosystem and beyond, toward the early majority.
 
-We're confident that the proposal will be interesting and that we can develop an initial commercial version of Easy Connect thanks to the Qubic Incubation Program. We confirm also our interest and commitment to evolving the solution through future grants to meet the needs of the Qubic ecosystem.
+We're confident that the proposal will be interesting and that we can develop an initial commercial version of Easy Connect thanks to the Qubic Incubation Program.
+
+Furthermore, we confirm our willingness to maintain and develop the Easy Connect solution beyond the scope defined in this document, provided we can receive the necessary funding through Qubic's grant programs or other funding alternatives.
