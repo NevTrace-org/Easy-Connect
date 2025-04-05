@@ -258,7 +258,7 @@ Payments will be made according to the following schedule, based on the achievem
 
 ### Additional costs:
 
-In addition to the budget required for the development of the Easy Connect solution, the following annual expenses have to be covered for maintaining the solution, once the project described in this document has been completed and all milestones have been met:
+Besides the budget needed to develop the Easy Connect solution described in this document, there are additional costs to maintain it after this project is completed and all milestones are achieved:
 - **Hosting:** xxx EUR/year
 - **Software and licences:** xxx EUR/year
 - **Operation and Maintenance:** xxx EUR/year (8x5 support and 24x7 monitoring)
