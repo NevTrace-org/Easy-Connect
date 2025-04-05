@@ -1,5 +1,7 @@
 # Easy Connect - Qubic
 
+---
+
 ## 1. Project Overview
 
 Easy Connect is a solution that provides quick and easy access to any Qubic smart contract data, enabling applications and developers to leverage the full potential of this network into their business logic, without the need for them to implement any technical integration with the Qubic network.
