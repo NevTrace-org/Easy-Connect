@@ -7,7 +7,6 @@ Easy Connect is a solution that provides quick and easy access to any Qubic smar
 
 In addition to providing quick integration for any application or service, Easy Connect provides components for integrating Qubic into no-code platforms like Make or Zappier, allowing millions of users inmediate access to Qubic without requiring technical knowledge.
 
----
 
 ## 2. Scope of the proposal
 
@@ -17,7 +16,6 @@ This first Easy Connect version will also offer a web-based configuration panel 
 
 In addition, the scope of the proposal includes the creation of a first version of Easy Connect component for Make that will allow any user, without technical knowledge, to integrate existing information on Qubic into any application and process, thanks to the more than 1,600 applications compatible with this leading no-code platform.
 
----
 
 ## 3. Functionality
 
@@ -35,7 +33,6 @@ xxx
 
 xxx
 
----
 
 ## 4. Tech stack
 
@@ -59,7 +56,6 @@ xxx
 
 xxx
 
----
 
 ## 5. Monetization
 
@@ -86,7 +82,6 @@ Easy Connect Qubic modules for the main no-code platforms (Make, Zappier, etc.),
 - **Testimonial rewards**: Benefits for users sharing case studies.  
 - **Roadmap influence**: Premium users can vote on feature prioritization.
 
----
 
 ## 6. Marketing and Communication strategy
 
@@ -211,7 +206,6 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - **Full launch (Months 4–6)**: Global ad campaigns, PR blitz, and virtual events.  
 - **Growth (Months 7–12)**: Community expansion, new verticals, and feature updates.  
 
----
 
 ## 7. Project plan and milestones
 
@@ -246,7 +240,6 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
   - User documentation.
   - Initial marketing campaigns (soft launch)
 
----
 
 ## 8. Budget and payment plan
 
@@ -275,7 +268,6 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - Audit costs are not included.
 - Legal costs are not included.
 
----
 
 ## 9. Team
 
@@ -312,7 +304,6 @@ Thanks to a decade of experience in the blockchain ecosystem, we have a broad ne
 
 INCLUIR PROYECTOS DE LOIBAND
 
----
 
 ## 10. Conclusion
 
