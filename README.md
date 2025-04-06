@@ -271,8 +271,8 @@ This planning is subject to the technical availability of the mainnet and testne
 The budget required for the development of the Easy Connect solution, according to the described scope, amounts to 25,000 EUR, broken down into the following items:
 - **Technical Development:** 15,000 EUR
 - **UX/UI Design:** 5,000 EUR
-- **Product and Business development:** 2,500 EUR
-- **Marketing and Communications:** 2,500 EUR
+- **Product and Business development:** 3,500 EUR
+- **Marketing and Communications:** 1,500 EUR
 
 ### Payment plan:
 
