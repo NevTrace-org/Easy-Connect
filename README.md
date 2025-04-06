@@ -204,16 +204,7 @@ If we have the budget available, we propose the following actions:
 **Virtual/In-person events**:  
 - **Hackathons**: Competitions to build innovative integrations using Easy Connect.  
 - **Workshops**: Hands-on sessions for specific Qubic use cases.  
-- **Conference participation**: Keynote speeches and exhibition booths at blockchain events.   
-
-### Metrics and KPIs  
-
-We will analyze the following metrics to confirm the results of the marketing campaigns developed:
-
-- **Awareness**: Social media follower growth, organic website traffic.  
-- **Engagement**: Content interaction rates, event attendance.  
-- **Conversion**: Free trial sign-ups, cost per acquisition (CPA).  
-- **Retention**: 30/60/90-day user retention, Net Promoter Score (NPS).  
+- **Conference participation**: Keynote speeches and exhibition booths at blockchain events.     
 
 ### Implementation timeline 
 
