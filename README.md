@@ -85,21 +85,21 @@ During the final phase of the project, we will launch campaigns aimed at attract
 - **Roadmap influence**: Premium early users can vote on feature prioritization.
 
 
-## 6. Marketing and Communication strategy
+## 6. Marketing and communication strategy
 
 ### Current market landscape  
 The market is primed for such solutions. Existing integrations between blockchain and automation tools have demonstrated tangible value, exemplified by:  
 - **Quant Network**, which introduced a Zapier integration enabling no-code connections between blockchain networks and legacy systems.  
 - **mintBlue**, a platform linking over 3,000 applications to public blockchains.
 
-### Unique value proposition  
+### Value proposition  
 
 Position Easy Connect as "the bridge between two worlds", the intricate blockchain ecosystem and the user-friendly automation tools businesses already rely on. Core messaging will emphasize:  
 - **Democratization**: "Qubic for everyone, no coding required."  
 - **Simplicity**: "Transform weeks of development into minutes of configuration."  
 - **Trust**: "Deliver trustworthy Qubic data to business processes." 
 
-### Audience targeting and messaging  
+### Audience targeting
   
 - **Qubic ecosystem**: Existing applications and services who want to obtain data in real time for monitoring, reporting, user support...
 - **No-code/low-code developers**: Current users of Make/Zapier looking to expand their automation capabilities including Qubic data.  
