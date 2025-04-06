@@ -119,6 +119,12 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Social media strategy  
 
+Since MAD Hack 2025 we have started a social media positioning strategy, which will be increased during the development of the project to achieve community engagement and capture potential leads, as well as Easy Connect promoters.
+
+We will focus on X and Farcaster, where the communities interested in Blockchain and Web3 are currently located, to capture potential leads and generate engagement.
+
+In parallel, we will use LinkedIn to reach companies and professionals interested in automation and the Blockchain applications they can integrate into their businesses.
+
 **X and Farcaster** 
 
 - **Strategy**: Based on [@nevtrace](https://x.com/nevtrace) and [@joobid](https://x.com/joobid) positioning within the Blockchain and Web3 ecosystem in X and Farcaster (+6,000 followers in X, +3,000 in Farcaster):
@@ -143,7 +149,9 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
   - Host LinkedIn Live sessions showcasing product demos.  
   - Engage actively in blockchain and automation-focused groups.  
 
-### Telegram and Discord Qubic groups (English and Spanish)
+### Telegram and Discord Qubic groups
+
+We will continue to actively participate in the Qubic ecosystem (in English and Spanish) on both Telegram and Discord, to achieve community engagement and capture potential leads, as well as promoters.
 
 **Strategy**:
 - **Product updates**: Announcements of roadmap and milestone achivements, new features and integrations.
@@ -154,7 +162,9 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - Partner with existing Qubic community leaders to increase engagement.  
 - Offer early beta access to Qubic users in Telegram/Discord to foster advocacy.  
 
-### Digital advertising  
+### Digital advertising
+
+If we have the budget available, we propose the following actions to promote Easy Connect with Google and Meta ads.
 
 **Google Ads**:  
 - **Search campaigns**: Target keywords like "blockchain integration" and "Make blockchain."  
@@ -165,6 +175,8 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 - **Phase 2**: Retargeting campaigns with blockchain-specific case studies and testimonials.  
 
 ### Influencer collaborations  
+
+If we have the budget available, we propose the following actions with influencers.
 
 **Influencer categories**:  
 - **Qubic experts**: For technical credibility and crypto community reach.
@@ -182,18 +194,28 @@ Position Easy Connect as "the bridge between two worlds", the intricate blockcha
 
 ### Events and public relations  
 
+If we have the budget available, we propose the following actions:
+
 **Virtual/In-person events**:  
 - **Hackathons**: Competitions to build innovative integrations using Easy Connect.  
 - **Workshops**: Hands-on sessions for specific Qubic use cases.  
 - **Conference participation**: Keynote speeches and exhibition booths at blockchain events.   
 
 ### Metrics and KPIs  
+
+We will analyze the following metrics to confirm the results of the marketing campaigns developed:
+
 - **Awareness**: Social media follower growth, organic website traffic.  
 - **Engagement**: Content interaction rates, event attendance.  
 - **Conversion**: Free trial sign-ups, cost per acquisition (CPA).  
 - **Retention**: 30/60/90-day user retention, Net Promoter Score (NPS).  
 
-### Implementation timeline  
+### Implementation timeline 
+
+The marketing and communications strategy will be developed in parallel with the execution of the Easy Connect project plan and will continue beyond the scope indicated in this proposal.
+
+This is the proposed plan for the first year, which will be developed progressively based on the available budget:
+
 - **Preparation (Months 1–2)**: Finalize branding, content assets, and analytics.  
 - **Soft launch (Month 3)**: Limited beta release and influencer pilot programs.  
 - **Full launch (Months 4–6)**: Global ad campaigns, PR blitz, and virtual events.  
