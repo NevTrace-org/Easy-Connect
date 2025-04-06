@@ -278,12 +278,8 @@ These additional costs are estimated. If the actual costs are lower than anticip
   - Working in Blockchain consulting and development of projects based on blockchain technologies since 2015 at [Nevtrace](https://nevtrace.com), the first Blockchain lab in Spain.
   - Senior manager working in Blockchain and Web3 product and business development since 2018 at [Telefonica](https://metaverso.telefonica.com/en/welcome-to-metaverse).
   - **LinkedIn (+10,000 followers):** [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/)
-  - **X (+6,000 followers):**
-    - [@joobid](https://x.com/joobid)
-    - [@nevtrace](https://x.com/nevtrace)
-  - **Farcaster (+2,800 followers):**
-    - [@joobid.eth](https://warpcast.com/joobid)
-    - [@nevtrace](https://warpcast.com/nevtrace)
+  - **X (+6,000 followers):** [@joobid](https://x.com/joobid) and [@nevtrace](https://x.com/nevtrace)
+  - **Farcaster (+2,800 followers):** [@joobid.eth](https://warpcast.com/joobid) and [@nevtrace](https://warpcast.com/nevtrace)
 
 - **Rafael Montaño (UX and Product Design)**
   - Co-founder of [Loiband](https://www.loiband.com/home-en), technology consultancy and UX Product Specialist, with experience in UX/UI and product design. He has led the creation of more than 10 scalable digital products.
