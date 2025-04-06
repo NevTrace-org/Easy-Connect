@@ -229,7 +229,7 @@ This is the proposed plan for the first year, which will be developed progressiv
 
 ## 7. Project plan and deliverables
 
-Project planning is structured into the following phases, which specify the activities and deliverables to be generated.
+Project planning is structured into the following phases, each of which specifies the activities and deliverables to be generated:
 
 - **Project start - MAD Hack 2025:** March 24 2025
 
