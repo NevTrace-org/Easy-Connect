@@ -273,7 +273,7 @@ These additional costs are estimated. If the actual costs are lower than anticip
 
 ### Profile and experience
 
-- **Jorge Ordovas (Product and Business Development / Marketing and Communications):**
+- **Jorge Ordovás (Product and Business Development / Marketing and Communications):**
   - Information Technology professional with 25 years of experience in the development of products and services in many different sectors (telecommunications, payments, security, eHealth, energy, cloud, blockchain, web3).
   - Working in Blockchain consulting and development of projects based on blockchain technologies since 2015 at [Nevtrace](https://nevtrace.com), the first Blockchain lab in Spain.
   - Senior manager working in Blockchain and Web3 product and business development since 2018 at [Telefonica](https://metaverso.telefonica.com/en/welcome-to-metaverse).
@@ -281,7 +281,7 @@ These additional costs are estimated. If the actual costs are lower than anticip
   - **X (+6,000 followers):** [@joobid](https://x.com/joobid) and [@nevtrace](https://x.com/nevtrace)
   - **Farcaster (+2,800 followers):** [@joobid.eth](https://warpcast.com/joobid) and [@nevtrace](https://warpcast.com/nevtrace)
 
-- **Rafael Montaño (UX and Product Design)**
+- **Rafael Montaño (UX/UI and Product Design)**
   - Co-founder of [Loiband](https://www.loiband.com/home-en), technology consultancy and UX Product Specialist, with experience in UX/UI and product design. He has led the creation of more than 10 scalable digital products.
   - His approach combines user research, prototyping, and design systems in apps, Web2, and Web3, helping startups and companies launch innovative and optimized solutions for the digital market.
   - **LinkedIn:** [Rafael Montaño](https://www.linkedin.com/in/rafael-monta%C3%B1o-marroquin/)
