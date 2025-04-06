@@ -74,7 +74,7 @@ The target audience is developers, projects, and users of the Qubic ecosystem wh
 
 Easy Connect Qubic modules for the main no-code platforms (Make, Zappier, etc.), offering two modalities:
 - **Free tier**: 1,000 ops/mo, 1 active scenario, 15-minute interval.
-- **Premium tier**: Extended usage, advanced features, and priority support.
+- **Premium tier**: Extended usage, advanced features, and premium support.
 
 ### Early adoption incentives 
 
