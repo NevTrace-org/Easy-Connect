@@ -94,13 +94,16 @@ The market is primed for such solutions. Existing integrations between blockchai
 
 ### Value proposition  
 
-Position Easy Connect as "the bridge between two worlds", the intricate blockchain ecosystem and the user-friendly automation tools businesses already rely on. Core messaging will emphasize:  
+Position **Easy Connect as "the bridge between two worlds"**, the intricate blockchain ecosystem and the user-friendly automation tools businesses already rely on.
+
+Core messaging will emphasize:  
 - **Democratization**: "Qubic for everyone, no coding required."  
 - **Simplicity**: "Transform weeks of development into minutes of configuration."  
 - **Trust**: "Deliver trustworthy Qubic data to business processes." 
 
 ### Audience targeting
-  
+
+We will focus on three different buyer persona:
 - **Qubic ecosystem**: Existing applications and services who want to obtain data in real time for monitoring, reporting, user support...
 - **No-code/low-code developers**: Current users of Make/Zapier looking to expand their automation capabilities including Qubic data.  
 - **Web3 startups and blockchain firms**: Requiring seamless integration with Qubic network.  
