@@ -302,7 +302,7 @@ These additional costs are estimated. If the actual costs are lower than anticip
 
 - **Jorge Ordovás (Product and Business Development / Marketing and Communications):**
   - Information Technology professional with 25 years of experience in the development of products and services in many different sectors (telecommunications, payments, security, eHealth, energy, cloud, blockchain, web3).
-  - Working in Blockchain consulting and development of projects based on blockchain technologies since 2015 at [Nevtrace](https://nevtrace.com), the first Blockchain lab in Spain.
+  - Working in Blockchain consulting and development of projects based on blockchain technologies since 2015 when he cofounded [Nevtrace](https://nevtrace.com), the first Blockchain lab in Spain.
   - Senior manager working in Blockchain and Web3 product and business development since 2018 at [Telefonica](https://metaverso.telefonica.com/en/welcome-to-metaverse).
   - **LinkedIn (+10,000 followers):** [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/)
   - **X (+6,000 followers):** [@joobid](https://x.com/joobid) and [@nevtrace](https://x.com/nevtrace)
@@ -321,7 +321,7 @@ These additional costs are estimated. If the actual costs are lower than anticip
 ### External collaborators
 
 - **Pablo F. Burgueño (Advisor and Lawyer)**
-  - Pablo is the co-founder of NevTrace and a lawyer specializing in cybersecurity, privacy, and LegalTech law. He currently works as a lawyer and professor at ESIC.
+  - Cofounder of NevTrace and a lawyer specializing in cybersecurity, privacy, and LegalTech law. He currently works as a lawyer and professor at ESIC.
   - He is a member of INMERSIVA XR, DENAE, and ASEDA, as well as the data protection and cryptoasset spaces of the European Cybercrime Centre at Europol.
   - **LinkedIn (+13,000 followers):** [Pablo F. Burgueño](https://www.linkedin.com/in/pablofb/)
   - **X (+8,000 followers):** [@pablofb](https://x.com/pablofb)
