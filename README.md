@@ -88,7 +88,8 @@ During the final phase of the project, we will launch campaigns aimed at attract
 ## 6. Marketing and communication strategy
 
 ### Current market landscape  
-The market is primed for such solutions. Existing integrations between blockchain and automation tools have demonstrated tangible value, exemplified by:  
+
+The market is primed for such solutions. Existing integrations between blockchain and automation tools have demonstrated tangible value. Some examples:  
 - **Quant Network**, which introduced a Zapier integration enabling no-code connections between blockchain networks and legacy systems.  
 - **mintBlue**, a platform linking over 3,000 applications to public blockchains.
 
