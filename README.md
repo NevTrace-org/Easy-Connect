@@ -282,16 +282,18 @@ These additional costs are estimated. If the actual costs are lower than anticip
   - **Farcaster (+2,800 followers):** [@joobid.eth](https://warpcast.com/joobid)
 
 - **Rafael Montaño (UX and Product Design)**
-
-xxx
-
+  - Co-founder of [Loiband](https://www.loiband.com/home-en), technology consultancy and UX Product Specialist, with experience in UX/UI and product design. He has led the creation of more than 10 scalable digital products.
+  - His approach combines user research, prototyping, and design systems in apps, Web2, and Web3, helping startups and companies launch innovative and optimized solutions for the digital market.
+  - **LinkedIn:** [Rafael Montaño](https://www.linkedin.com/in/rafael-monta%C3%B1o-marroquin/)
+ 
 - **Jesús Lanzarote (Full Stack Development)**
-
-xxx
+  - Co-founder and CTO of Loiband. He has been programming for over 25 years and has worked in the startup world for 15 years, where he has participated in all types of projects across multiple areas (eHealth, services, insurance, legal, etc.), leading teams and directly participating in design and development.
+  - His current focus is on developing AI-based and Web3 projects.
+  - **LinkedIn:** [Jesús Lanzarote](https://www.linkedin.com/in/jesus-lanzarote/)
 
 - **Additional resources**
 
-Thanks to a decade of experience in the blockchain ecosystem, we have a broad network of contacts, freelance professionals specialized in blockchain technology, frontend, backend, infrastructure, etc., who we can quickly involve in the project in case we need additional resources to meet the defined milestones.
+With more than a decade of experience in the startup and corporate ecosystem, we have a broad network of contacts, freelance professionals specialized in blockchain technology, frontend, backend, infrastructure, and more. We will involve them in the project as external collaborators if additional resources are needed to meet the defined milestones.
   
 ### Public projects developed by Team members
 
