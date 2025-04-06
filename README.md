@@ -323,6 +323,6 @@ Our mission is to help companies that want to take advantage of the opportunitie
 
 The Easy Connect proposal we're presenting **aligns perfectly with our vision and addresses a real need in the Qubic ecosystem** to drive its growth both within the current ecosystem and beyond, toward the early majority.
 
-**We're confident that the proposal will be interesting for Qubic ecosystem**, and that we can develop an initial commercial version of Easy Connect thanks to the Qubic Incubation Program.
+**We're confident that the proposal will be interesting for Qubic**, and that we can develop an initial commercial version of Easy Connect thanks to the Qubic Incubation Program.
 
 Furthermore, **we confirm our willingness to maintain and evolve the Easy Connect solution** beyond the scope defined in this document, **in case we receive the necessary funding** through Qubic's grant programs or other funding alternatives.
