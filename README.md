@@ -269,9 +269,9 @@ Besides the budget needed to develop the Easy Connect solution described in this
 
 These additional costs are estimated. If the actual costs are lower than anticipated, the surplus funds will be reimbursed.
 
-## 9. Team
+## 9. Profile and experience
 
-### Profile and experience
+### Team members
 
 - **Jorge Ordovás (Product and Business Development / Marketing and Communications):**
   - Information Technology professional with 25 years of experience in the development of products and services in many different sectors (telecommunications, payments, security, eHealth, energy, cloud, blockchain, web3).
@@ -291,18 +291,18 @@ These additional costs are estimated. If the actual costs are lower than anticip
   - His current focus is on developing AI-based and Web3 projects.
   - **LinkedIn:** [Jesús Lanzarote](https://www.linkedin.com/in/jesus-lanzarote/)
 
-### Additional collaborators**
+### External collaborators
 
 - **Pablo F. Burgueño (Advisor and Lawyer)**
   - Pablo is the co-founder of NevTrace and a lawyer specializing in cybersecurity, privacy, and LegalTech law. He currently works as a lawyer and professor at ESIC.
   - He is a member of INMERSIVA XR, DENAE, and ASEDA, as well as the data protection and cryptoasset spaces of the European Cybercrime Centre at Europol.
   - **LinkedIn (+13,000 followers):** [Pablo F. Burgueño]([https://www.linkedin.com/in/jorgeordovas/](https://www.linkedin.com/in/pablofb/))
-  - **X (+8,000 followers):** [@pablofb]([https://x.com/pablofb)
+  - **X (+8,000 followers):** [@pablofb](https://x.com/pablofb)
   - **Farcaster (+2,000 followers):** [@pablofb](https://warpcast.com/pablofb)
 
 Moreover, with more than a decade of experience in the startup and corporate ecosystem, we have a broad network of contacts, freelance professionals specialized in blockchain technology, frontend, backend, infrastructure, and more. We will involve them in the project as external collaborators if additional resources are needed to meet the defined milestones.
   
-### Public projects developed by Team members
+### Public projects developed by team members
 
 * [Qubik at MAD Hack 2025](https://qubik.app)
 * [TU Wallet](https://www.telefonica.com/en/transformation-handbooks/innovation-handbook/tu-wallet-a-multi-crypto-digital-wallet/)
