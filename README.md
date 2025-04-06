@@ -303,18 +303,19 @@ With more than a decade of experience in the startup and corporate ecosystem, we
 * [Blockchain-based document certification platform](https://www.telefonica.com/es/sala-comunicacion/prensa/telefonica-tech-lanza-un-servicio-de-certificacion-documental-basado-en-blockchain/)
 * [TrustOS Blockchain platform](https://www.eleconomista.es/especial-tecnologia-startups/noticias/10261692/12/19/Telefonica-lanza-TrustOS-para-facilitar-operaciones-blockchain.html)
 * [BRAIN - Bitcoin Ransomware Analysis Intelligent Network](https://www.larazon.es/sociedad/espanoles-a-la-caza-de-ladrones-de-bitcoins-HC13111143/)
+* [Loiband](https://www.loiband.com/)
 
-INCLUIR PROYECTOS DE LOIBAND
+**INCLUIR PROYECTOS DE LOIBAND**
 
 
 ## 10. Conclusion
 
-At [NevTrace](https://nevtrace.com) we've been working for a decade to become **the link between the real world and the on-chain ecosystem**.
+At [NevTrace](https://nevtrace.com) we've been working for a decade to become the link between the real world and the on-chain ecosystem.
 
 Our mission is to help companies that want to take advantage of the opportunities offered by blockchain, and on-chain projects that need to go beyond early adopters.
 
 The Easy Connect proposal we're presenting aligns perfectly with our vision and addresses a real need in the Qubic ecosystem to drive its growth both within the current ecosystem and beyond, toward the early majority.
 
-We're confident that the proposal will be interesting for Qubic ecosystem,and that we can develop an initial commercial version of Easy Connect thanks to the Qubic Incubation Program.
+We're confident that the proposal will be interesting for Qubic ecosystem, and that we can develop an initial commercial version of Easy Connect thanks to the Qubic Incubation Program.
 
 Furthermore, we confirm our willingness to maintain and evolve the Easy Connect solution beyond the scope defined in this document, in case we receive the necessary funding through Qubic's grant programs or other funding alternatives.
