@@ -124,7 +124,7 @@ We will focus on three different buyer persona:
 
 ### Social media strategy  
 
-Since MAD Hack 2025 we have started a social media positioning strategy, which will be increased during the development of the project to achieve community engagement and capture potential leads, as well as Easy Connect promoters.
+Since [MAD Hack 2025]([https://qubik.app/](https://qubic.org/blog-detail/qubic-vottun-2025-madrid-hackathon-recap)) we have started a social media positioning strategy, which will be increased during the development of the project to achieve community engagement and capture potential leads, as well as Easy Connect promoters.
 
 We will focus on X and Farcaster, where the communities interested in Blockchain and Web3 are currently located, to capture potential leads and generate engagement.
 
