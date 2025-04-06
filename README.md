@@ -59,7 +59,7 @@ xxx
 
 ## 5. Monetization
 
-Freemium to scale. Premium to grow.
+Our strategy: **Freemium to scale. Premium to grow.**
 
 Easy Connect's business model will be based on two distinct customer segments:
 
@@ -77,10 +77,12 @@ Easy Connect Qubic modules for the main no-code platforms (Make, Zappier, etc.),
 - **Premium tier**: Extended usage, advanced features, and priority support.
 
 ### Early adoption incentives 
+
+During the final phase of the project, we will launch campaigns aimed at attracting early users, incentivizing them through discounts and promotions, to scale faster after the launch and obtain promoters that will allow us to attract more users.
  
 - **Discounts**: Reduced pricing for early users.  
 - **Testimonial rewards**: Benefits for users sharing case studies.  
-- **Roadmap influence**: Premium users can vote on feature prioritization.
+- **Roadmap influence**: Premium early users can vote on feature prioritization.
 
 
 ## 6. Marketing and Communication strategy
