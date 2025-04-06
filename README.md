@@ -296,7 +296,7 @@ These additional costs are estimated. If the actual costs are lower than anticip
 - **Pablo F. Burgueño (Advisor and Lawyer)**
   - Pablo is the co-founder of NevTrace and a lawyer specializing in cybersecurity, privacy, and LegalTech law. He currently works as a lawyer and professor at ESIC.
   - He is a member of INMERSIVA XR, DENAE, and ASEDA, as well as the data protection and cryptoasset spaces of the European Cybercrime Centre at Europol.
-  - **LinkedIn (+13,000 followers):** [Pablo F. Burgueño]([https://www.linkedin.com/in/jorgeordovas/](https://www.linkedin.com/in/pablofb/))
+  - **LinkedIn (+13,000 followers):** [Pablo F. Burgueño](https://www.linkedin.com/in/jorgeordovas/](https://www.linkedin.com/in/pablofb/)
   - **X (+8,000 followers):** [@pablofb](https://x.com/pablofb)
   - **Farcaster (+2,000 followers):** [@pablofb](https://warpcast.com/pablofb)
 
