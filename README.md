@@ -320,7 +320,7 @@ These additional costs are estimated. If the actual costs are lower than anticip
 
 ### External collaborators
 
-- **Pablo F. Burgueño (Advisor and Lawyer)**
+- **Pablo F. Burgueño (Advisor)**
   - Cofounder of NevTrace and a lawyer specializing in cybersecurity, privacy, and LegalTech law. He currently works as a lawyer and professor at ESIC.
   - He is a member of INMERSIVA XR, DENAE, and ASEDA, as well as the data protection and cryptoasset spaces of the European Cybercrime Centre at Europol.
   - **LinkedIn (+13,000 followers):** [Pablo F. Burgueño](https://www.linkedin.com/in/pablofb/)
