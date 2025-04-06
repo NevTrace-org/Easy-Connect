@@ -65,7 +65,7 @@ Easy Connect's business model will be based on two distinct customer segments:
 
 ### Qubic ecosystem
 
-The target audience is developers, projects, and users of the Qubic ecosystem who want to easily and quickly integrate existing information into the network, obtained in real time.
+The target audience is developers and users of the Qubic ecosystem who want to easily and quickly integrate real time data into their projects.
 
 - **Free tier**: Monitoring of existing information in a single Qubic smart contract, with limited performance and basic support.
 - **Premium tier**: Full access to the main Qubic smart contracts, parameterization through a user dashboard, receipt of real-time information and having premium support, through a monthly subscription (paid in QUBIC).
