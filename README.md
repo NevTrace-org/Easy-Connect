@@ -18,31 +18,31 @@ The scope of the proposal includes the creation of a webhook-based Easy Connect 
 
 ## 3. Functionality
 
-### 3.1 Event Abstraction from Qubic Smart Contracts
+### 3.1 Event bbstraction from Qubic smart contracts
 
 Easy Connect provides a real-time abstraction layer over the Qubic network, enabling applications and services to subscribe to smart contract activity without requiring low-level blockchain integration.
 
-### 3.2 Programmable Alert System
+### 3.2 Programmable alert system
 
 Users can define customized conditions based on smart contract procedures, transaction parameters, sender/receiver addresses, and more. When these conditions are met, Easy Connect triggers alerts and initiates automated responses.
 
-### 3.3 Webhook-Based Data Delivery
+### 3.3 Webhook-based data delivery
 
 Decoded contract data is sent to user-defined endpoints via standard webhooks, allowing instant integration with automation platforms, third-party systems, or internal tools—without the need to maintain infrastructure.
 
-### 3.4 Secure API Access
+### 3.4 Secure API access
 Access to Easy Connect’s services is protected through an API key system, ensuring that only authorized users and systems can interact with the platform, and enabling usage monitoring per account.
 
-### 3.5 Web-Based Management Dashboard
+### 3.5 Web-based management dashboard
 
 A web interface allows users to manage their alerts, monitor activity, and review historical event data. Through this panel, users can activate or deactivate triggers, inspect past alerts, and configure webhook destinations.
 
-### 3.6 Authenticated User Experience
+### 3.6 Authenticated user experience
 
 Access to the management dashboard is gated by a simple, secure authentication system, ensuring that each user’s configuration and data remain isolated and protected within their account.
 
 
-## 4. Tech Stack
+## 4. Tech stack
 
 Easy Connect is architected as a cloud-native, event-driven platform optimized for scalability, maintainability, and real-time data processing. The solution leverages proven technologies to ensure high availability, secure access, and seamless integration with third-party systems.
 
@@ -60,11 +60,11 @@ The user interface is built with Angular, providing a modern, responsive web app
 
 A PostgreSQL instance serves as the main data store, managing user accounts, alert definitions, system events, and webhook delivery logs. It supports transactional integrity, complex filtering, and analytics over time-based blockchain activity.
 
-### 4.4 Qubic Integration Layer
+### 4.4 Qubic integration layer
 
 Implemented in C#, this component interfaces directly with the Qubic network to monitor activity on selected smart contracts. It decodes binary payloads into structured data models and publishes decoded events into Amazon SQS queues for further processing by downstream services.
 
-### 4.5 Webhook and Automation Layer
+### 4.5 Webhook and automation layer
 
 Also developed in C#, the automation layer consumes events from SQS, evaluates alert conditions, and dispatches structured payloads to user-defined endpoints via HTTP webhooks. This makes it easy to integrate Qubic data with automation platforms like Make, Zapier, or enterprise systems.
 
