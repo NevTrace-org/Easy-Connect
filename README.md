@@ -1,6 +1,6 @@
 ![Easy Connect logo](easyconnect-logo.jpg)
 
-# Easy Connect - Make Qubic for everyone
+# Easy Connect - Blockchain for everyone
 
 ## 1. Project overview
 
