@@ -87,7 +87,7 @@ The target audience is developers and users of the Qubic ecosystem who want to e
 
 Easy Connect Qubic modules for the main no-code platforms (Make, Zappier, etc.), offering two modalities:
 - **Free tier**: Basic functionality, to use Easy Connect integration via webhook.
-- **Premium tier 🕐**: Extended usage, advanced features, and premium support.
+- **Premium tier**: Extended usage, advanced features, and premium support.  Available in future releases.
 
 ### Early adoption incentives 
 
