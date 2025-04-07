@@ -1,5 +1,6 @@
 # EASY CONNECT
 
+![Easy Connect logo](easyconnect.jpg)
 
 ## 1. Project overview
 
