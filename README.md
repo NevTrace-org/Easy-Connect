@@ -18,7 +18,7 @@ The scope of the proposal includes the creation of a webhook-based Easy Connect 
 
 ## 3. Functionality
 
-### 3.1 Event bbstraction from Qubic smart contracts
+### 3.1 Event abstraction from Qubic smart contracts
 
 Easy Connect provides a real-time abstraction layer over the Qubic network, enabling applications and services to subscribe to smart contract activity without requiring low-level blockchain integration.
 
