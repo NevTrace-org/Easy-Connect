@@ -28,7 +28,7 @@ Users can define customized conditions based on smart contract procedures, trans
 
 ### 3.3 Webhook-based data delivery
 
-Decoded contract data is sent to user-defined endpoints via standard webhooks, allowing instant integration with automation platforms, third-party systems, or internal tools—without the need to maintain infrastructure.
+Decoded contract data is sent to user-defined endpoints via standard webhooks, allowing instant integration with automation platforms, third-party systems, or internal tools, without the need to maintain infrastructure.
 
 ### 3.4 Secure API access
 Access to Easy Connect’s services is protected through an API key system, ensuring that only authorized users and systems can interact with the platform, and enabling usage monitoring per account.
