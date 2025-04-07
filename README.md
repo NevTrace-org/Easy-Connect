@@ -18,43 +18,55 @@ In addition, the scope of the proposal includes the creation of an example of a 
 
 ## 3. Functionality
 
-### Functionality 1
+### 3.1 Event Abstraction from Qubic Smart Contracts
 
-xxx
+Easy Connect provides a real-time abstraction layer over the Qubic network, enabling applications and services to subscribe to smart contract activity without requiring low-level blockchain integration.
 
-### Functionality 2
+### 3.2 Programmable Alert System
 
-xxx
+Users can define customized conditions based on smart contract procedures, transaction parameters, sender/receiver addresses, and more. When these conditions are met, Easy Connect triggers alerts and initiates automated responses.
 
-...
+### 3.3 Webhook-Based Data Delivery
 
-### Future improvements (out of this proposal scope)
+Decoded contract data is sent to user-defined endpoints via standard webhooks, allowing instant integration with automation platforms, third-party systems, or internal tools—without the need to maintain infrastructure.
 
-xxx
+### 3.4 Secure API Access
+Access to Easy Connect’s services is protected through an API key system, ensuring that only authorized users and systems can interact with the platform, and enabling usage monitoring per account.
+
+### 3.5 Web-Based Management Dashboard
+
+A web interface allows users to manage their alerts, monitor activity, and review historical event data. Through this panel, users can activate or deactivate triggers, inspect past alerts, and configure webhook destinations.
+
+### 3.6 Authenticated User Experience
+
+Access to the management dashboard is gated by a simple, secure authentication system, ensuring that each user’s configuration and data remain isolated and protected within their account.
 
 
-## 4. Tech stack
+## 4. Tech Stack
 
-### Architecture diagram
+Easy Connect is architected as a cloud-native, event-driven platform optimized for scalability, maintainability, and real-time data processing. The solution leverages proven technologies to ensure high availability, secure access, and seamless integration with third-party systems.
 
-IMAGE
+![Easy Connect architecture diagram](easyconnect-architecture.png)
 
-### Frontend
+### 4.1 Backend
 
-xxx
+The backend is developed in C# and deployed using AWS Lambda, following a serverless architecture to ensure elasticity and cost-efficiency. Event processing is decoupled using Amazon SQS, allowing for asynchronous and fault-tolerant handling of transaction streams, alert evaluation, and webhook dispatching.
 
-### Backend
+### 4.2 Frontend
 
-xxx
+The user interface is built with Angular, providing a modern, responsive web application where users can authenticate, manage alerts, view their API key, and inspect historical events. The UI is designed to be intuitive for both developers and no-code users.
 
-### Database
+### 4.3 Database
 
-xxx
+A PostgreSQL instance serves as the main data store, managing user accounts, alert definitions, system events, and webhook delivery logs. It supports transactional integrity, complex filtering, and analytics over time-based blockchain activity.
 
-### Qubic
+### 4.4 Qubic Integration Layer
 
-xxx
+Implemented in C#, this component interfaces directly with the Qubic network to monitor activity on selected smart contracts. It decodes binary payloads into structured data models and publishes decoded events into Amazon SQS queues for further processing by downstream services.
 
+### 4.5 Webhook and Automation Layer
+
+Also developed in C#, the automation layer consumes events from SQS, evaluates alert conditions, and dispatches structured payloads to user-defined endpoints via HTTP webhooks. This makes it easy to integrate Qubic data with automation platforms like Make, Zapier, or enterprise systems.
 
 ## 5. Monetization
 
@@ -86,12 +98,6 @@ During the final phase of the project, we will launch campaigns aimed at attract
 
 ## 6. Marketing and communication strategy
 
-### Current market landscape  
-
-The market is primed for such solutions. Existing integrations between blockchain and automation tools have demonstrated tangible value. Some examples:  
-- **Quant Network**, which introduced a Zapier integration enabling no-code connections between blockchain networks and legacy systems.  
-- **mintBlue**, a platform linking over 3,000 applications to public blockchains.
-
 ### Value proposition  
 
 Position **Easy Connect as "the bridge between two worlds"**, the intricate blockchain ecosystem and the user-friendly automation tools businesses already rely on.
@@ -108,20 +114,6 @@ We will focus on three different buyer persona:
 - **No-code/low-code developers**: Current users of Make/Zapier looking to expand their automation capabilities including Qubic data.  
 - **Web3 startups and blockchain firms**: Requiring seamless integration with Qubic network.  
 
-### Content strategy  
-
-**Content pillars**  
-- **Educational resources**: Pushing Qubic’s relevance across industries.
-- **Use cases**: Practical examples of Qubic-Make/Zapier integrations.  
-- **Tutorials**: Step-by-step guides for implementing workflows.  
-- **Trend insights**: Analyses of Qubic and automation’s evolving landscape.  
-
-**Content formats**  
-- **Social networks**: Technical deep dives in X and Farcaster, business-centric articles in LinkedIn.   
-- **Webinars**: Live demonstrations and Q&A sessions in X and LinkedIn.  
-- **Infographics**: Visual breakdowns of complex processes.  
-- **Video tutorials**: Walkthroughs of common integration scenarios.  
-
 ### Social media strategy  
 
 Since we won second prize at [MAD Hack 2025](https://qubic.org/blog-detail/qubic-vottun-2025-madrid-hackathon-recap) we have started a social media positioning strategy, which will be increased during the development of the project to achieve community engagement and capture potential leads, as well as Easy Connect promoters.
@@ -130,92 +122,13 @@ We will focus on X and Farcaster, where the communities interested in Blockchain
 
 In parallel, we will use LinkedIn to reach companies and professionals interested in automation and the Blockchain applications they can integrate into their businesses.
 
-**X and Farcaster** 
-
-- **Strategy**: Based on [@nevtrace](https://x.com/nevtrace) and [@joobid](https://x.com/joobid) positioning within the Blockchain and Web3 ecosystem in X and Farcaster (+6,000 followers in X, +3,000 in Farcaster):
-  - **Educational threads**: Step-by-step use case explanations under #NoCodeBlockchain.  
-  - **Product updates**: Announcements of new features and integrations.  
-  - **Community engagement**: Retweets and interactions with blockchain/no-code communities.  
-  - **Polls**: Identifying pain points and preferences within the target audience.
-
-- **Actions**:  
-  - Maintain a content calendar with daily posts blending education, promotion, and dialogue.  
-  - Implement a rapid-response system to boost engagement with trending topics.  
-
-**LinkedIn**
-
-- **Strategy**: Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) positioning in LinkedIn as Blockchain expert (+10,000 followers):
-  - **Case studies**: ROI-focused narratives highlighting business successes.  
-  - **Thought leadership**: Articles by executives on automation trends.  
-  - **Partnership announcements**: Collaborations with industry leaders.  
-
-- **Actions**:  
-  - Publish weekly articles.  
-  - Host LinkedIn Live sessions showcasing product demos.  
-  - Engage actively in blockchain and automation-focused groups.  
-
-### Telegram and Discord Qubic groups
-
 We will continue to actively participate in the Qubic ecosystem (in English and Spanish) on both Telegram and Discord, to achieve community engagement and capture potential leads, as well as promoters.
 
-**Strategy**:
-- **Product updates**: Announcements of roadmap and milestone achivements, new features and integrations.
-- **Technical deep dives**: Advanced discussions tailored to Qubic-native audiences.  
-- **Exclusive AMAs**: Direct Q&A with the development and ecosystem Qubic teams.  
-
-**Actions**:  
-- Partner with existing Qubic community leaders to increase engagement.  
-- Offer early beta access to Qubic users in Telegram/Discord to foster advocacy.  
-
-### Digital advertising
-
-If we have the budget available, we propose the following actions to promote Easy Connect with Google and Meta ads.
-
-**Google Ads**:  
-- **Search campaigns**: Target keywords like "blockchain integration" and "Make blockchain."  
-- **Display ads**: Retargeting campaigns and placements on blockchain/automation websites.  
-
-**Meta(Facebook/Instagram)**:  
-- **Phase 1**: Educational ads focused on automation efficiency (avoiding direct blockchain references).  
-- **Phase 2**: Retargeting campaigns with blockchain-specific case studies and testimonials.  
-
-### Influencer collaborations  
-
-If we have the budget available, we propose the following actions with influencers.
-
-**Influencer categories**:  
-- **Qubic experts**: For technical credibility and crypto community reach.
-- **No-code advocates**: Influential Make/Zapier content creators.   
-- **Innovative entrepreneurs**: Early adopters showcasing real-world applications.  
-
-**Collaboration models**:  
-- **Sponsored content**: Tutorial videos and live demos.  
-- **Co-hosted webinars**: Deep dives into implementation strategies.  
-- **Success stories**: Documenting influencer-led deployments.  
-
-**Actions**:  
-- Cultivate long-term partnerships with 5–10 influencers per category.  
-- Launch an ambassador program with exclusive feature previews.  
-
-### Events and public relations  
-
-If we have the budget available, we propose the following actions:
-
-**Virtual/In-person events**:  
-- **Hackathons**: Competitions to build innovative integrations using Easy Connect.  
-- **Workshops**: Hands-on sessions for specific Qubic use cases.  
-- **Conference participation**: Keynote speeches and exhibition booths at blockchain events.     
+If we have the budget available, we will define additional actions to promote Easy Connect.
 
 ### Implementation timeline 
 
-The marketing and communications strategy will be developed in parallel with the execution of the Easy Connect project plan and will continue beyond the scope indicated in this proposal.
-
-This is the proposed plan for the first year, which will be developed progressively based on the available budget:
-
-- **Preparation (Months 1–2)**: Finalize branding, content assets, and analytics.  
-- **Soft launch (Month 3)**: Limited beta release and influencer pilot programs.  
-- **Full launch (Months 4–6)**: Global ad campaigns, PR blitz, and virtual events.  
-- **Growth (Months 7–12)**: Community expansion, new verticals, and feature updates.  
+The marketing and communications strategy will be developed in parallel with the execution of the Easy Connect project plan and will continue beyond the scope indicated in this proposal. 
 
 
 ## 7. Project plan and deliverables
@@ -230,7 +143,7 @@ Project planning is structured into the following phases, each of which specifie
   - Architecture definition.
   - Functional definition.
   - Design definition (Figma wireframes).
-  - Marketing and communication initial plan.
+  - Marketing and communication plan.
 
 - **Milestone 3 - Testnet integration:** June 30 2025
   - Qubic integration with one smart contract (test environment).
