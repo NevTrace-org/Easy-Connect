@@ -4,7 +4,7 @@
 
 Easy Connect is a solution that provides quick and easy access to any Qubic smart contract data, enabling applications and developers to leverage the full potential of this network into their business logic, without the need for them to implement any technical integration with the Qubic network.
 
-In addition to providing quick integration for any application or service, Easy Connect provides components for integrating Qubic into no-code platforms like Make or Zappier, allowing millions of users inmediate access to Qubic without requiring technical knowledge.
+In addition to providing quick integration for any application or service, Easy Connect provides a simple way for integrating Qubic into no-code platforms like Make or Zappier, allowing millions of users inmediate access to Qubic without requiring technical knowledge.
 
 
 ## 2. Scope of the proposal
