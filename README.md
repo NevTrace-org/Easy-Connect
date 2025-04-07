@@ -67,13 +67,13 @@ Easy Connect's business model will be based on two distinct customer segments:
 The target audience is developers and users of the Qubic ecosystem who want to easily and quickly integrate real time data into their projects.
 
 - **Free tier**: Monitoring of existing information in a single Qubic smart contract, with limited performance and basic support.
-- **Premium tier**: Full access to the main Qubic smart contracts, parameterization through a user dashboard, receipt of real-time information and having premium support, through a monthly subscription (paid in QUBIC).
+- **Premium tier**: Full access to the main Qubic smart contracts, parameterization through a user dashboard, receipt of real-time information and having premium support.
 
 ### No-code platforms
 
 Easy Connect Qubic modules for the main no-code platforms (Make, Zappier, etc.), offering two modalities:
 - **Free tier**: 1,000 ops/mo, 1 active scenario, 15-minute interval.
-- **Premium tier**: Extended usage, advanced features, and premium support.
+- **Premium tier 🕐**: Extended usage, advanced features, and premium support.
 
 ### Early adoption incentives 
 
@@ -327,6 +327,7 @@ Moreover, with more than a decade of experience in the startup and corporate eco
 * [Residelia](https://residelia.com)
 * [Mscope](https://www.mscope.tech)
 * [Heris](https://heris.loiband.com)
+* [Normafin](https://normafin.com)
 * [TU Wallet](https://www.telefonica.com/en/transformation-handbooks/innovation-handbook/tu-wallet-a-multi-crypto-digital-wallet/)
 * [TrustOS](https://www.eleconomista.es/especial-tecnologia-startups/noticias/10261692/12/19/Telefonica-lanza-TrustOS-para-facilitar-operaciones-blockchain.html)
 
