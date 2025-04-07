@@ -328,7 +328,7 @@ Moreover, with more than a decade of experience in the startup and corporate eco
 * [Referity](https://referity.es)
 * [Residelia](https://residelia.com)
 * [Mscope](https://www.mscope.tech)
-* [Heris](https://heris.loiband.com/
+* [Heris](https://heris.loiband.com)
 * [TU Wallet](https://www.telefonica.com/en/transformation-handbooks/innovation-handbook/tu-wallet-a-multi-crypto-digital-wallet/)
 * [Celo Foundation Alliance](https://www.telefonica.com/en/communication-room/press-room/telefonica-partners-with-fundacion-celo/)
 * [Blockchain-based document certification platform](https://www.telefonica.com/es/sala-comunicacion/prensa/telefonica-tech-lanza-un-servicio-de-certificacion-documental-basado-en-blockchain/)
