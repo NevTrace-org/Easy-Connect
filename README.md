@@ -169,7 +169,7 @@ Project planning is structured into the following phases, each of which specifie
   - Usability test.
   - Technical documentation.
   - User documentation.
-  - Proposed roadmap.
+  - Easy Connect roadmap.
 
 This planning and scope is subject to the technical availability of the mainnet and testnet networks, technical documentation, and development tools provided by Qubic, as well as the support required for the development of the various components of the solution. 
 
