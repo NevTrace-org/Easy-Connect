@@ -229,32 +229,34 @@ Project planning is structured into the following phases, each of which specifie
 - **Milestone 2 - Technical design:** May 15 2025
   - Architecture definition.
   - Functional definition.
-  - Design definition (Figma).
+  - Design definition (Figma wireframes).
   - Marketing and communication initial plan.
 
 - **Milestone 3 - Testnet integration:** June 30 2025
-  - Qubic integration with one smart contract (testnet).
+  - Qubic integration with one smart contract (test environment).
   - Webhook integration beta.
-  - Unit tests.
   - Initial integration tests.
   - Landing page beta.
-  - User panel beta.
+  - User dashboard beta.
+  - Community building.
 
 - **Milestone 4 - Mainnet integration:** July 31 2025
   - Qubic integration with most relevant mainnet smart contracts.
   - Webhook integration v1.0.
   - Landing page v1.0.
-  - User panel v1.0.
+  - User dashboard v1.0.
   - Integration tests.
+  - Initial marketing campaigns (soft launch).
   
-- **Milestone 5 - Make integration:** August 31 2025
-  - Qubic Easy Connect module for Make.
-  - Integration tests.
+- **Milestone 5 - Make integration (webhook):** August 31 2025
+  - Qubic Easy Connect example for Make.
+  - Submission of custom module to Make.
+  - Usability test.
   - Technical documentation.
   - User documentation.
-  - Initial marketing campaigns (soft launch)
+  - Proposed roadmap.
 
-This planning is subject to the technical availability of the mainnet and testnet networks, documentation, and development tools provided by Qubic, as well as the support required for the development of the various components of the solution.
+This planning and scope is subject to the technical availability of the mainnet and testnet networks, technical documentation, and development tools provided by Qubic, as well as the support required for the development of the various components of the solution. Submission to Make does not imply acceptation.
 
 ## 8. Budget and payment plan
 
@@ -273,16 +275,16 @@ Payments will be made according to the following schedule, based on the achievem
 - **Milestone 2 - Technical design:** 15% budget (3,750 EUR)
 - **Milestone 3 - Testnet integration:** 25% budget (6,250 EUR)
 - **Milestone 4 - Mainnet integration:** 25% budget (6.250 EUR)
-- **Milestone 5 - Make integration:** 15% budget (3,750 EUR)
+- **Milestone 5 - Make integration (webhook):** 15% budget (3,750 EUR)
 
 ### Additional costs:
 
 Besides the budget needed to develop the Easy Connect solution described in this document, there are additional costs to maintain it after this project is completed and all milestones are achieved:
-- **Hosting:** xxx EUR/year
-- **Software and licences:** xxx EUR/year
-- **Operation and Maintenance:** xxx EUR/year (8x5 support and 24x7 monitoring)
+- **Hosting:** 5,000 EUR/year
+- **Software, licences and subscriptions:** 5,000 EUR/year
+- **Operation and Maintenance:** 7,200 EUR/year (e-mail 8x5 support and 24x7 monitoring)
 - **Marketing:** 12,000 EUR/year
-- **Community management:** 12,000 EUR/year
+- **Community management:** 7,200 EUR/year
 - Audit costs are not included.
 - Legal costs are not included.
 
