@@ -171,7 +171,9 @@ Project planning is structured into the following phases, each of which specifie
   - User documentation.
   - Proposed roadmap.
 
-This planning and scope is subject to the technical availability of the mainnet and testnet networks, technical documentation, and development tools provided by Qubic, as well as the support required for the development of the various components of the solution. Submission to Make does not imply acceptation.
+This planning and scope is subject to the technical availability of the mainnet and testnet networks, technical documentation, and development tools provided by Qubic, as well as the support required for the development of the various components of the solution. 
+
+Submission to Make does not imply acceptation.
 
 ## 8. Budget and payment plan
 
