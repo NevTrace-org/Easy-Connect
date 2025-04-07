@@ -150,14 +150,14 @@ Project planning is structured into the following phases, each of which specifie
   - Webhook integration beta.
   - Initial integration tests.
   - Landing page beta.
-  - User dashboard beta.
+  - Management dashboard beta.
   - Community building.
 
 - **Milestone 4 - Mainnet integration:** July 31 2025
   - Qubic integration with most relevant mainnet smart contracts.
   - Webhook integration v1.0.
   - Landing page v1.0.
-  - User dashboard v1.0.
+  - Management dashboard v1.0.
   - Integration tests.
   - Initial marketing campaigns (soft launch).
   
