@@ -13,7 +13,7 @@ Our proposal for joining the Qubic incubation program is to create an initial ve
 
 This first Easy Connect version will also offer a web-based configuration panel where users can select the smart contracts they want to monitor and the information they want to receive, as well as the endpoint to which our platform will send the data in real time.
 
-In addition, the scope of the proposal includes the creation of an example of a Make-based Easy Connect integration. If it is possible, we will ask Make to build it as a component that will allow any user, without technical knowledge, to integrate existing information on Qubic into any application and process, thanks to the more than 1,600 applications compatible with this leading no-code platform.
+The scope of the proposal includes the creation of a webhook-based Easy Connect integration example with Make, with the necessary documentation to allow any user, without technical knowledge, to integrate existing Qubic information into any application or process. Additionally, we will submit a request to Make to add Easy Connect to the more than 1,600 applications compatible with this leading no-code platform.
 
 
 ## 3. Functionality
