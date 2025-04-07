@@ -330,7 +330,7 @@ Moreover, with more than a decade of experience in the startup and corporate eco
 * [Mscope](https://www.mscope.tech)
 * [Heris](https://heris.loiband.com)
 * [TU Wallet](https://www.telefonica.com/en/transformation-handbooks/innovation-handbook/tu-wallet-a-multi-crypto-digital-wallet/)
-* [TrustOS Blockchain platform](https://www.eleconomista.es/especial-tecnologia-startups/noticias/10261692/12/19/Telefonica-lanza-TrustOS-para-facilitar-operaciones-blockchain.html)
+* [TrustOS](https://www.eleconomista.es/especial-tecnologia-startups/noticias/10261692/12/19/Telefonica-lanza-TrustOS-para-facilitar-operaciones-blockchain.html)
 
 
 ## 10. Conclusion
