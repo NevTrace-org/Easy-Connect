@@ -230,6 +230,7 @@ Project planning is structured into the following phases, each of which specifie
   - Architecture definition.
   - Functional definition.
   - Design definition (Figma).
+  - Marketing and communication initial plan.
 
 - **Milestone 3 - Testnet integration:** June 30 2025
   - Qubic integration with one smart contract (testnet).
