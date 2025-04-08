@@ -79,7 +79,7 @@ Also developed in C#, the automation layer consumes events from SQS, evaluates a
 
 ## 5. Monetization
 
-The strategy is based on launching with a freemium model to grow in users, who can upgrade to the Premium model to obtain additional functionalities and generate income.
+The strategy is based on launching with a freemium model to grow in users, who can upgrade to the Premium model to obtain additional functionalities, to generate income.
 
 Easy Connect's business model will be based on two distinct customer segments:
 
