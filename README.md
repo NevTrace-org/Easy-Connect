@@ -43,6 +43,13 @@ A web interface allows users to manage their alerts, monitor activity, and revie
 
 Access to the management dashboard is gated by a simple, secure authentication system, ensuring that each user’s configuration and data remain isolated and protected within their account.
 
+### 3.7 Roadmap
+
+Future releases of Easy Connect plan to include additional features beyond the scope of the current proposal:
+- Enable the easy execution of smart contract functions in Qubic through parameterization in the dashboard.
+- Develop and publish Easy Connect on other no-code platforms (e.g., Zappier).
+- Integration with payment gateways (e.g., Stripe) to facilitate monetization.
+- High availability architecture.
 
 ## 4. Tech stack
 
