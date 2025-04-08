@@ -47,6 +47,7 @@ Access to the management dashboard is gated by a simple, secure authentication s
 
 Future releases of Easy Connect plan to include additional features beyond the scope of the current proposal:
 - Enable the execution of smart contract functions in Qubic through parameterization in the dashboard.
+- Feature to read and decode transactions from any smart contract on the Qubic network.
 - Develop and publish Easy Connect on other no-code platforms (e.g., Zappier).
 - Integration with payment gateways (e.g., Stripe) to facilitate monetization.
 - High availability architecture.
