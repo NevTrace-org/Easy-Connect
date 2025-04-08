@@ -147,7 +147,7 @@ Project planning is structured into the following phases, each of which specifie
 
 - **Project start - MAD Hack 2025:** March 24 2025
 
-- **Milestone 1 - Proposal aproval:** April 15 2025
+- **Milestone 1 - Proposal aproval:** April 11 2025
 
 - **Milestone 2 - Technical design:** May 15 2025
   - Architecture definition.
