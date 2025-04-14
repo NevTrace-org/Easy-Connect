@@ -304,20 +304,20 @@ The budget required for the development of the Easy Connect solution, according 
 
 Payments will be made according to the following schedule, based on the achievement of the specified milestones:
 - **Milestone 0 - Proposal aproval:** 
- - Date: T1
- - Amount: 20% budget (5,000 EUR)
+  - Date: T1
+  - Amount: 20% budget (5,000 EUR)
 - **Milestone 1 - Technical design:**
- - Date: T1 + 6 weeks
- - Amount: 25% budget (6,2500 EUR)
+  - Date: T1 + 6 weeks
+  - Amount: 25% budget (6,2500 EUR)
 - **Milestone 2 - Testnet integration:**
- - Date: T1 + 13 weeks
- - Amount: 25% budget (6,2500 EUR)
+  - Date: T1 + 13 weeks
+  - Amount: 25% budget (6,2500 EUR)
 - **Milestone 3 - Mainnet integration:** 
- - Date: T1 + 19 weeks
- - Amount: 20% budget (5,000 EUR)
+  - Date: T1 + 19 weeks
+  - Amount: 20% budget (5,000 EUR)
 - **Milestone 4 - Make integration:**
- - Date: T1 + 24 weeks
- - Amount: 10% budget (2,000 EUR)
+  - Date: T1 + 24 weeks
+  - Amount: 10% budget (2,000 EUR)
 
 ### Disclaimer: Operational costs beyond project scope:
 
