@@ -336,9 +336,9 @@ However, additional funding will be required if the revenue from Easy Connect's 
 
 ## 9. Potential new project: C# SDK
 
-As part of the activities during the Easy Connect project we will develop a basic C# SDK for Qubic's RPC as part of our Qubic integration layer, suitable to be evolved to a full C# SDK.
+As part of the Easy Connect project, we plan to create a basic C# SDK for Qubic’s RPC. This will serve as a foundational component of our Qubic integration layer and could later be expanded into a comprehensive RPC C# SDK.
 
-Once we finalice the Easy Connect project, we would like to present a grant proposal request to implement a fully operational open-source SDK to help developers integrate with Qubic using more programming languages.
+After completing the Easy Connect project, we aim to submit a grant proposal to develop a fully functional open-source SDK. This initiative will support developers in integrating with Qubic using a broader range of programming languages.
 
 
 ## 10. Profile and experience
