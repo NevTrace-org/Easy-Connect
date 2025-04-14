@@ -62,27 +62,34 @@ The scope of the proposal includes the creation of a webhook-based Easy Connect 
 ## 3. Functionality
 
 ### 3.1 Event abstraction from Qubic smart contracts
-
 Easy Connect provides a real-time abstraction layer over the Qubic network, enabling applications and services to subscribe to smart contract activity without requiring low-level blockchain integration.
 
-### 3.2 Programmable alert system
+*For example, when a new `AddToBidOrder` is submitted to the QX contract (as in Alice’s case), Easy Connect handles the decoding and streamlines it into actionable data.*
 
+### 3.2 Programmable alert system
 Users can define customized conditions based on smart contract procedures, transaction parameters, sender/receiver addresses, and more. When these conditions are met, Easy Connect triggers alerts and initiates automated responses.
 
-### 3.3 Webhook-based data delivery
+*In our example, Alice configures an alert for any bid on the token `MSVAULT`. When such a bid occurs, Easy Connect detects and processes it according to her defined rules.*
 
+### 3.3 Webhook-based data delivery
 Decoded contract data is sent to user-defined endpoints via standard webhooks, allowing instant integration with automation platforms, third-party systems, or internal tools, without the need to maintain infrastructure.
+
+*Alice uses a webhook URL linked to Make.com, which inserts the matching event directly into a Google Sheet. This integration requires no backend coding on her part.*
 
 ### 3.4 Secure API access
 Access to Easy Connect’s services is protected through an API key system, ensuring that only authorized users and systems can interact with the platform, and enabling usage monitoring per account.
 
-### 3.5 Web-based management dashboard
+*Alice’s webhook and alert configuration are both secured via her authenticated API token, ensuring that only her account can receive the alerts and make updates.*
 
+### 3.5 Web-based management dashboard
 A web interface allows users to manage their alerts, monitor activity, and review historical event data. Through this panel, users can activate or deactivate triggers, inspect past alerts, and configure webhook destinations.
 
-### 3.6 Authenticated user experience
+*Alice creates and manages her alert for MSVAULT bids through this dashboard, where she can also review all recent matching events.*
 
+### 3.6 Authenticated user experience
 Access to the management dashboard is gated by a simple, secure authentication system, ensuring that each user’s configuration and data remain isolated and protected within their account.
+
+*Every action Alice takes—creating alerts, viewing history, editing destinations—is scoped to her secure session, isolating her data from others.*
 
 ### 3.7 Roadmap
 
