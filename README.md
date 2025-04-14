@@ -245,7 +245,7 @@ Project planning is structured into the following phases, each of which specifie
 - Start date: T1 + 12 weeks
 - Duration: 1 week
 
-- **Phase 3 - Mainnet integration:** July 31 2025
+**Phase 3 - Mainnet integration:** July 31 2025
 - Start date: T1 + 13 weeks
 - Duration: 5 weeks
 - Scope:
