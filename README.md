@@ -203,77 +203,135 @@ The marketing and communications strategy will be developed in parallel with the
 
 ## 7. Project plan and deliverables
 
-Project planning is structured into the following phases, each of which specifies the activities and deliverables to be generated:
+Project planning is structured into the following phases, each of which specifies the activities and deliverables to be generated, start date, duration and dedication in hours per profile:
 
-- **Project start - MAD Hack 2025:** March 24 2025
+**Phase 0 - Project proposal:** 
+- Start date (MAD HACK 2025): March 24 2025
+- Comitee aproval date (T1): April 16 2025 (TBC)
 
-- **Milestone 1 - Proposal aproval:** April 11 2025
-
-- **Milestone 2 - Technical design:** May 15 2025
+**Phase 1 - Technical design:** 
+- Start date: T1
+- Duration: 5 weeks
+- Scope: 
   - Architecture definition.
   - Functional definition.
   - Design definition (Figma wireframes).
   - Marketing and communication plan.
+- Dedication:
+  - Development: 75 hours
+  - UX/UI: 25 hours
+  - Project management / Business development / Marketing and communication: 37,5 hours
 
-- **Milestone 3 - Testnet integration:** June 30 2025
+**Phase 1 - Qubic validation:** 
+- Start date: T1 + 5 weeks
+- Duration: 1 week
+
+**Phase 2 - Testnet integration:** 
+- Start date: T1 + 6 weeks
+- Duration: 6 weeks
+- Scope:
   - Qubic integration with one smart contract (test environment).
   - Webhook integration beta.
   - Initial integration tests.
   - Landing page beta.
   - Management dashboard beta.
   - Community building.
+- Dedication:
+  - Development: 120 hours
+  - UX/UI: 45 hours
+  - Project management / Business development / Marketing and communication: 30 hours
 
-- **Milestone 4 - Mainnet integration:** July 31 2025
+**Phase 2 - Qubic validation:** 
+- Start date: T1 + 12 weeks
+- Duration: 1 week
+
+- **Phase 3 - Mainnet integration:** July 31 2025
+- Start date: T1 + 13 weeks
+- Duration: 5 weeks
+- Scope:
   - Qubic integration with most relevant mainnet smart contracts.
   - Webhook integration v1.0.
   - Landing page v1.0.
   - Management dashboard v1.0.
   - Integration tests.
   - Initial marketing campaigns (soft launch).
-  
-- **Milestone 5 - Make integration (webhook):** August 31 2025
+- Dedication:
+  - Development: 100 hours
+  - UX/UI: 25 hours
+  - Project management / Business development / Marketing and communication: 37,5 hours
+
+**Phase 3 - Qubic validation:** 
+- Start date: T1 + 18 weeks
+- Duration: 1 week
+
+**Phase 4 - Make integration (webhook):** August 31 2025
+- Start date: T1 + 19 weeks
+- Duration: 4 weeks
+- Scope:
   - Qubic Easy Connect example for Make.
-  - Submission of custom module to Make.
+  - Submission of custom module to Make (*)
   - Usability test.
   - Technical documentation.
   - User documentation.
   - Easy Connect roadmap.
+- Dedication:
+  - Development: 80 hours
+  - UX/UI: 30 hours
+  - Project management / Business development / Marketing and communication: 20 hours
+ 
+**Phase 4 - Qubic validation:** 
+- Start date: T1 + 23 weeks
+- Duration: 1 week
+
+**End of project:** T1 + 24 weeks 
 
 This planning and scope is subject to the technical availability of the mainnet and testnet networks, technical documentation, and development tools provided by Qubic, as well as the support required for the development of the various components of the solution. 
 
-Submission to Make does not imply acceptation.
+(*) Submission to Make does not imply acceptation.
 
 ## 8. Budget and payment plan
 
 ### Budget breakdown
 
 The budget required for the development of the Easy Connect solution, according to the described scope, amounts to 25,000 EUR, broken down into the following items:
-- **Technical Development:** 15,000 EUR
+- **Development:** 15,000 EUR
 - **UX/UI Design:** 5,000 EUR
-- **Product and Business development:** 3,500 EUR
-- **Marketing and Communications:** 1,500 EUR
+- **Project management:** 1,500 EUR
+- **Product and Business development:** 2,500 EUR
+- **Marketing and Communications:** 1,000 EUR
 
 ### Payment plan:
 
 Payments will be made according to the following schedule, based on the achievement of the specified milestones:
-- **Milestone 1 - Proposal aproval:** 20% budget (5,000 EUR)
-- **Milestone 2 - Technical design:** 15% budget (3,750 EUR)
-- **Milestone 3 - Testnet integration:** 25% budget (6,250 EUR)
-- **Milestone 4 - Mainnet integration:** 25% budget (6.250 EUR)
-- **Milestone 5 - Make integration (webhook):** 15% budget (3,750 EUR)
+- **Milestone 0 - Proposal aproval:** 
+ - Date: T1
+ - Amount: 20% budget (5,000 EUR)
+- **Milestone 1 - Technical design:**
+ - Date: T1 + 6 weeks
+ - Amount: 25% budget (6,2500 EUR)
+- **Milestone 2 - Testnet integration:**
+ - Date: T1 + 13 weeks
+ - Amount: 25% budget (6,2500 EUR)
+- **Milestone 3 - Mainnet integration:** 
+ - Date: T1 + 19 weeks
+ - Amount: 20% budget (5,000 EUR)
+- **Milestone 4 - Make integration:**
+ - Date: T1 + 24 weeks
+ - Amount: 10% budget (2,000 EUR)
 
-### Additional costs:
+### Disclaimer: Operational costs beyond project scope:
 
-Besides the budget needed to develop the Easy Connect solution described in this document, there are additional costs to maintain it after this project is completed and all milestones are achieved:
-- **Hosting:** 5,000 EUR/year
-- **Software, licences and subscriptions:** 5,000 EUR/year
-- **Operation and Maintenance:** 7,200 EUR/year (e-mail 8x5 support and 24x7 monitoring)
-- **Marketing:** 12,000 EUR/year
-- **Community management:** 7,200 EUR/year
-- Audit costs are not included.
-- Legal costs are not included.
+Upon completion of the project outlined in this proposal, the operation of the Easy Connect solution will incur additional costs not covered in the proposed budget, including (but not limited to):
+- Hosting
+- Software and licenses
+- Operation and maintenance
+- Customer support
+- Marketing
+- Community management
 
-These additional costs are estimated. If the actual costs are lower than anticipated, the surplus funds will be reimbursed.
+We confirm our willingness to maintain and operate the Easy Connect solution beyond the completion of the project funded by the incubation program.
+
+However, additional funding will be required if the revenue from Easy Connect's commercialization does not cover these costs, either through Qubic's grant programs or other financing alternatives.
 
 ## 9. Profile and experience
 
@@ -330,4 +388,4 @@ The Easy Connect proposal we're presenting **aligns perfectly with our vision an
 
 **We're confident that the proposal will be interesting for Qubic**, and that we can develop an initial commercial version of Easy Connect thanks to the Qubic Incubation Program.
 
-Furthermore, **we confirm our willingness to maintain and evolve the Easy Connect solution** beyond the scope defined in this proposal, **in case we receive the necessary funding** through Qubic's grant programs or other funding alternatives.
+Finally, **we confirm our commitment to maintaining and operating the Easy Connect solution after the completion of the project funded by the incubation program**. However, additional funding will be required if revenues from its commercialization do not cover the costs, either through Qubic's grant programs or other financing alternatives.
