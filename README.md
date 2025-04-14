@@ -258,7 +258,7 @@ Project planning is structured into the following phases, each of which specifie
 - Dedication:
   - Development: 100 hours
   - UX/UI: 25 hours
-  - Project management / Business development / Marketing and communication: 37,5 hours
+  - Project management / Marketing and communication: 37,5 hours
 
 **Phase 3 - Qubic validation:** 
 - Start date: T1 + 18 weeks
@@ -277,7 +277,7 @@ Project planning is structured into the following phases, each of which specifie
 - Dedication:
   - Development: 80 hours
   - UX/UI: 30 hours
-  - Project management / Business development / Marketing and communication: 20 hours
+  - Project management / Marketing and communication: 20 hours
  
 **Phase 4 - Qubic validation:** 
 - Start date: T1 + 23 weeks
