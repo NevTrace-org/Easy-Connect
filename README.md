@@ -116,7 +116,7 @@ Future releases of Easy Connect plan to include additional features beyond the s
 
 Easy Connect is architected as a cloud-native, event-driven platform optimized for scalability, maintainability, and real-time data processing. The solution leverages proven technologies to ensure high availability, secure access, and seamless integration with third-party systems.
 
-![Easy Connect architecture diagram](easyconnect-architecture.png)
+![ChatGPT Image 14 abr 2025, 13_36_43](https://github.com/user-attachments/assets/bb0e6b0d-e9aa-4f9b-aa1f-ee0887b2d9b6)
 
 ### 4.1 Backend
 
