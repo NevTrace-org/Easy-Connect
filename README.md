@@ -120,7 +120,7 @@ A PostgreSQL instance serves as the main data store, managing user accounts, ale
 
 ### 4.4 Qubic integration layer
 
-Implemented in C#, this component interfaces directly with the Qubic network to monitor activity on selected smart contracts. It decodes binary payloads into structured data models and publishes decoded events into Amazon SQS queues for further processing by downstream services.
+Implemented in C#, this component interfaces directly with the Qubic's RPC network to monitor activity on selected smart contracts and conditions. It decodes the current transaction's payloads into structured data models and publishes decoded events into Amazon SQS queues for further processing by downstream services.
 
 ### 4.5 Webhook and automation layer
 
