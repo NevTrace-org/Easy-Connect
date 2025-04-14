@@ -73,7 +73,7 @@ Users can define customized conditions based on smart contract procedures, trans
 
 *In our example, Alice configures an alert for any bid on the token `MSVAULT`. When such a bid occurs, Easy Connect detects and processes it according to her defined rules.*
 
-![ChatGPT Image 14 abr 2025, 13_23_42](https://github.com/user-attachments/assets/e0f5bf6f-c03f-4f7a-a25f-35fddeca9d67)
+![ChatGPT Image 14 abr 2025, 13_29_40](https://github.com/user-attachments/assets/357188cf-08b6-4dba-87f4-ff532b052879)
 
 ### 3.3 Webhook-based data delivery
 Decoded contract data is sent to user-defined endpoints via standard webhooks, allowing instant integration with automation platforms, third-party systems, or internal tools, without the need to maintain infrastructure.
