@@ -333,7 +333,15 @@ We confirm our willingness to maintain and operate the Easy Connect solution bey
 
 However, additional funding will be required if the revenue from Easy Connect's commercialization does not cover these costs, either through Qubic's grant programs or other financing alternatives.
 
-## 9. Profile and experience
+
+## 9. Potential new project: C# SDK
+
+As part of the activities during the Easy Connect project we will develop a basic C# SDK for Qubic's RPC as part of our Qubic integration layer, suitable to be evolved to a full C# SDK.
+
+Once we finalice the Easy Connect project, we would like to present a grant proposal request to implement a fully operational open-source SDK to help developers integrate with Qubic using more programming languages.
+
+
+## 10. Profile and experience
 
 ### Team members
 
@@ -378,7 +386,7 @@ Moreover, with more than a decade of experience in the startup and corporate eco
 * [TrustOS](https://www.eleconomista.es/especial-tecnologia-startups/noticias/10261692/12/19/Telefonica-lanza-TrustOS-para-facilitar-operaciones-blockchain.html)
 
 
-## 10. Conclusion
+## 11. Conclusion
 
 At NevTrace we've been working for a decade to **become the link between the real world and the on-chain ecosystem**.
 
