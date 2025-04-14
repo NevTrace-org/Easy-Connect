@@ -25,7 +25,7 @@ Once she clicks **"Create Alert"**, Easy Connect configures the Qubic Integratio
 
 ![ChatGPT Image 14 abr 2025, 12_59_15](https://github.com/user-attachments/assets/fe4aef95-4c48-4308-af6a-aa41a2acf0fa)
 
-#### 🔍 Behind the scenes:
+#### 1.2 Behind the scenes:
 
 1. Easy Connect listens for transactions of type `AddToBidOrder`.
 2. When a transaction matches the alert (e.g. a user places a bid to buy MSVAULT), Easy Connect decodes the binary payload received via RPC.
@@ -144,20 +144,20 @@ The strategy is based on launching with a freemium model to grow in users, who c
 
 Easy Connect's business model will be based on two distinct customer segments:
 
-### Qubic ecosystem
+### 5.1 Qubic ecosystem
 
 The target audience is developers and users of the Qubic ecosystem who want to easily and quickly integrate real time data into their projects.
 
 - **Free tier**: Monitoring of existing information in a single Qubic smart contract, with limited performance and basic support.
 - **Premium tier**: Full access to the main Qubic smart contracts, parameterization through a user dashboard, receipt of real-time information and having premium support.
 
-### No-code platforms
+### 5.2 No-code platforms
 
 Easy Connect Qubic modules for the main no-code platforms (Make, Zappier, etc.), offering two modalities:
 - **Free tier**: Basic functionality, to use Easy Connect integration via webhook.
 - **Premium tier**: Extended usage, advanced features, and premium support.  Available in future releases.
 
-### Early adoption incentives 
+### 5.3 Early adoption incentives 
 
 During the final phase of the project, we will launch campaigns aimed at attracting early users, incentivizing them through discounts and promotions, to scale faster after the launch and obtain promoters that will allow us to attract more users.
  
@@ -168,7 +168,7 @@ During the final phase of the project, we will launch campaigns aimed at attract
 
 ## 6. Marketing and communication strategy
 
-### Value proposition  
+### 6.1 Value proposition  
 
 Position **Easy Connect as "the bridge between two worlds"**, the intricate blockchain ecosystem and the user-friendly automation tools businesses already rely on.
 
@@ -177,14 +177,14 @@ Core messaging will emphasize:
 - **Simplicity**: "Transform weeks of development into minutes of configuration."  
 - **Trust**: "Deliver trustworthy Qubic data to business processes." 
 
-### Audience targeting
+### 6.2 Audience targeting
 
 We will focus on three different buyer persona:
 - **Qubic ecosystem**: Existing applications and services who want to obtain data in real time for monitoring, reporting, user support...
 - **No-code/low-code developers**: Current users of Make/Zapier looking to expand their automation capabilities including Qubic data.  
 - **Web3 startups and blockchain firms**: Requiring seamless integration with Qubic network.  
 
-### Social media strategy  
+### 6.3 Social media strategy  
 
 Since we won second prize at [MAD Hack 2025](https://qubic.org/blog-detail/qubic-vottun-2025-madrid-hackathon-recap) we have started a social media positioning strategy, which will be increased during the development of the project to achieve community engagement and capture potential leads, as well as Easy Connect promoters.
 
@@ -196,7 +196,7 @@ We will continue to actively participate in the Qubic ecosystem (in English and 
 
 If we have the budget available, we will define additional actions to promote Easy Connect.
 
-### Implementation timeline 
+### 6.4 Implementation timeline 
 
 The marketing and communications strategy will be developed in parallel with the execution of the Easy Connect project plan and will continue beyond the scope indicated in this proposal. 
 
@@ -291,7 +291,7 @@ This planning and scope is subject to the technical availability of the mainnet 
 
 ## 8. Budget and payment plan
 
-### Budget breakdown
+### 8.1 Budget breakdown
 
 The budget required for the development of the Easy Connect solution, according to the described scope, amounts to 25,000 EUR, broken down into the following items:
 - **Development:** 15,000 EUR
@@ -300,7 +300,7 @@ The budget required for the development of the Easy Connect solution, according 
 - **Product and Business development:** 1,500 EUR
 - **Marketing and Communications:** 1,000 EUR
 
-### Payment plan
+### 8.2 Payment plan
 
 Payments will be made according to the following schedule, based on the achievement of the specified milestones:
 - **Milestone 0 - Proposal aproval:** 
@@ -319,7 +319,7 @@ Payments will be made according to the following schedule, based on the achievem
   - Date: T1 + 24 weeks
   - Amount: 10% budget (2,500 EUR)
 
-### Disclaimer: Operational costs beyond project scope
+### 8.3 Disclaimer: Operational costs beyond project scope
 
 Upon completion of the project outlined in this proposal, the operation of the Easy Connect solution will incur additional costs not covered in the proposed budget, including (but not limited to):
 - Hosting
@@ -343,7 +343,7 @@ After completing the Easy Connect project, we aim to submit a grant proposal to 
 
 ## 10. Profile and experience
 
-### Team members
+### 10.1 Team members
 
 - **Jorge Ordovás (Product and Business Development / Marketing and Communications):**
   - Information Technology professional with 25 years of experience in the development of products and services in many different sectors (telecommunications, payments, security, eHealth, energy, cloud, blockchain, web3).
@@ -363,7 +363,7 @@ After completing the Easy Connect project, we aim to submit a grant proposal to 
   - His current focus is on developing AI-based and Web3 projects.
   - **LinkedIn:** [Jesús Lanzarote](https://www.linkedin.com/in/jesus-lanzarote/)
 
-### External collaborators
+### 10.2 External collaborators
 
 - **Pablo F. Burgueño (Advisor)**
   - Cofounder of NevTrace and a lawyer specializing in cybersecurity, privacy, and LegalTech law.
@@ -374,7 +374,7 @@ After completing the Easy Connect project, we aim to submit a grant proposal to 
 
 Moreover, with more than a decade of experience in the startup and corporate ecosystem, we have a broad network of contacts, freelance professionals specialized in blockchain technology, frontend, backend, infrastructure, and more. We will involve them in the project as external collaborators if additional resources are needed to meet the defined milestones.
   
-### Public projects developed by team members
+### 10.3 Public projects developed by team members
 
 * [Foodcoin](https://www.foodcoin.global)
 * [Referity](https://referity.es)
