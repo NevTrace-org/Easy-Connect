@@ -207,7 +207,7 @@ Project planning is structured into the following phases, each of which specifie
 
 **Phase 0 - Project proposal:** 
 - Start date (MAD HACK 2025): March 24 2025
-- Comitee aproval date (T1): April 16 2025 (TBC)
+- Committee aproval date (T1): April 16 2025 (TBC)
 
 **Phase 1 - Technical design:** 
 - Start date: T1
