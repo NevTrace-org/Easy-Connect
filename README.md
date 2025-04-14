@@ -206,8 +206,8 @@ The marketing and communications strategy will be developed in parallel with the
 Project planning is structured into the following phases, each of which specifies the activities and deliverables to be generated, start date, duration and dedication in hours per profile:
 
 **Phase 0 - Project proposal:** 
-- Start date (MAD HACK 2025): March 24 2025
-- Committee aproval date: April 16 2025 (TBC)
+- **Start date:** March 24 2025 (2nd place award at MAD HACK 2025)
+- **Committee aproval date:** April 16 2025 (TBC)
 
 **Phase 1 - Technical design:** 
 - **Duration:** 5 weeks + 1 week (Qubic QA)
