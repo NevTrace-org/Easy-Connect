@@ -207,58 +207,58 @@ Project planning is structured into the following phases, each of which specifie
 
 **Phase 0 - Project proposal:** 
 - Start date (MAD HACK 2025): March 24 2025
-- Committee aproval date (T1): April 16 2025 (TBC)
+- Committee aproval date: April 16 2025 (TBC)
 
 **Phase 1 - Technical design:** 
-- Duration: 5 weeks + 1 week (Qubic QA)
-- Scope: 
+- **Duration:** 5 weeks + 1 week (Qubic QA)
+- **Scope:** 
   - Architecture definition.
   - Functional definition.
   - Design definition (Figma wireframes).
   - Marketing and communication plan.
-- Dedication:
+- **Dedication:**
   - Development: 75 hours
   - UX/UI: 25 hours
   - Project management / Business development / Marketing and communication: 37,5 hours
 
 **Phase 2 - Testnet integration:** 
-- Duration: 6 weeks + 1 week (Qubic QA)
-- Scope:
+- **Duration:** 6 weeks + 1 week (Qubic QA)
+- **Scope:**
   - Qubic integration with one smart contract (test environment).
   - Webhook integration beta.
   - Initial integration tests.
   - Landing page beta.
   - Management dashboard beta.
   - Community building.
-- Dedication:
+- **Dedication:**
   - Development: 120 hours
   - UX/UI: 45 hours
   - Project management / Business development / Marketing and communication: 30 hours
 
 **Phase 3 - Mainnet integration:**
-- Duration: 5 weeks + 1 week (Qubic QA)
-- Scope:
+- **Duration:** 5 weeks + 1 week (Qubic QA)
+- **Scope:**
   - Qubic integration with most relevant mainnet smart contracts.
   - Webhook integration v1.0.
   - Landing page v1.0.
   - Management dashboard v1.0.
   - Integration tests.
   - Initial marketing campaigns (soft launch).
-- Dedication:
+- **Dedication:**
   - Development: 100 hours
   - UX/UI: 25 hours
   - Project management / Marketing and communication: 37,5 hours
 
 **Phase 4 - Make integration (webhook):**
-- Duration: 4 weeks + 1 week (Qubic QA)
-- Scope:
+- **Duration:** 4 weeks + 1 week (Qubic QA)
+- **Scope:**
   - Qubic Easy Connect example for Make.
   - Submission of custom module to Make (*)
   - Usability test.
   - Technical documentation.
   - User documentation.
   - Easy Connect roadmap.
-- Dedication:
+- **Dedication:**
   - Development: 80 hours
   - UX/UI: 30 hours
   - Project management / Marketing and communication: 20 hours
