@@ -8,6 +8,43 @@ Easy Connect is a solution that provides quick and easy access to any Qubic smar
 
 In addition to providing quick integration for any application or service, Easy Connect provides a simple way for integrating Qubic into no-code platforms like Make or Zappier, allowing millions of users inmediate access to Qubic without requiring technical knowledge.
 
+![ChatGPT Image 14 abr 2025, 12_55_38](https://github.com/user-attachments/assets/1967deac-0c51-4615-877f-29347ddaed69)
+
+### 1.1 Example Use Case – Real-Time Alerts from QX Contract
+
+Let’s say **Alice** wants to track market activity on the **Qubic decentralized exchange (QX contract)**. Specifically, she wants to know whenever someone places a bid to buy the token **MSVAULT**.
+
+Using the Easy Connect web interface, Alice creates a new alert:
+
+- **Contract**: QX  
+- **Condition**: Bid for token  
+- **Token**: MSVAULT  
+- **Webhook URL**: *[her automation endpoint]*
+
+Once she clicks **"Create Alert"**, Easy Connect configures the Qubic Integration Layer to monitor incoming transactions on the QX contract using the official **Qubic RPC interface**.
+
+#### 🔍 Behind the scenes:
+
+1. Easy Connect listens for transactions of type `AddToBidOrder`.
+2. When a transaction matches the alert (e.g. a user places a bid to buy MSVAULT), Easy Connect decodes the binary payload received via RPC.
+3. The decoded data includes key fields such as:
+
+   | Field            | Value                            |
+   |------------------|----------------------------------|
+   | Procedure        | AddToBidOrder                    |
+   | Token            | MSVAULT                          |
+   | Price            | 150000001                        |
+   | Quantity         | 1                                |
+   | Issuer Address   | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA |
+
+4. If the token matches Alice’s condition (i.e., MSVAULT), Easy Connect sends this structured data to her defined webhook.
+5. That webhook triggers an automation workflow via **Make**, where the data is stored in **Google Sheets**, sent to **Slack**, or integrated with any other service.
+
+---
+
+This MSVAULT bid tracking example will be referenced throughout the documentation to show how Easy Connect works in real scenarios.
+
+
 
 ## 2. Scope of the proposal
 
