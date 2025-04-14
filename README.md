@@ -308,10 +308,10 @@ Payments will be made according to the following schedule, based on the achievem
   - Amount: 20% budget (5,000 EUR)
 - **Milestone 1 - Technical design:**
   - Date: T1 + 6 weeks
-  - Amount: 25% budget (6,2500 EUR)
+  - Amount: 25% budget (6,250 EUR)
 - **Milestone 2 - Testnet integration:**
   - Date: T1 + 13 weeks
-  - Amount: 25% budget (6,2500 EUR)
+  - Amount: 25% budget (6,250 EUR)
 - **Milestone 3 - Mainnet integration:** 
   - Date: T1 + 19 weeks
   - Amount: 20% budget (5,000 EUR)
