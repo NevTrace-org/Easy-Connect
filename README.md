@@ -300,7 +300,7 @@ The budget required for the development of the Easy Connect solution, according 
 - **Product and Business development:** 2,500 EUR
 - **Marketing and Communications:** 1,000 EUR
 
-### Payment plan:
+### Payment plan
 
 Payments will be made according to the following schedule, based on the achievement of the specified milestones:
 - **Milestone 0 - Proposal aproval:** 
@@ -319,7 +319,7 @@ Payments will be made according to the following schedule, based on the achievem
   - Date: T1 + 24 weeks
   - Amount: 10% budget (2,000 EUR)
 
-### Disclaimer: Operational costs beyond project scope:
+### Disclaimer: Operational costs beyond project scope
 
 Upon completion of the project outlined in this proposal, the operation of the Easy Connect solution will incur additional costs not covered in the proposed budget, including (but not limited to):
 - Hosting
