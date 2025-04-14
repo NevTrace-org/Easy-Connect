@@ -8,11 +8,11 @@ Easy Connect is a solution that provides quick and easy access to any Qubic smar
 
 In addition to providing quick integration for any application or service, Easy Connect provides a simple way for integrating Qubic into no-code platforms like Make or Zappier, allowing millions of users inmediate access to Qubic without requiring technical knowledge.
 
-![ChatGPT Image 14 abr 2025, 12_55_38](https://github.com/user-attachments/assets/1967deac-0c51-4615-877f-29347ddaed69)
-
 ### 1.1 Example Use Case – Real-Time Alerts from QX Contract
 
 Let’s say **Alice** wants to track market activity on the **Qubic decentralized exchange (QX contract)**. Specifically, she wants to know whenever someone places a bid to buy the token **MSVAULT**.
+
+![ChatGPT Image 14 abr 2025, 12_55_38](https://github.com/user-attachments/assets/1967deac-0c51-4615-877f-29347ddaed69)
 
 Using the Easy Connect web interface, Alice creates a new alert:
 
@@ -22,6 +22,8 @@ Using the Easy Connect web interface, Alice creates a new alert:
 - **Webhook URL**: *[her automation endpoint]*
 
 Once she clicks **"Create Alert"**, Easy Connect configures the Qubic Integration Layer to monitor incoming transactions on the QX contract using the official **Qubic RPC interface**.
+
+![ChatGPT Image 14 abr 2025, 12_59_15](https://github.com/user-attachments/assets/fe4aef95-4c48-4308-af6a-aa41a2acf0fa)
 
 #### 🔍 Behind the scenes:
 
@@ -39,6 +41,8 @@ Once she clicks **"Create Alert"**, Easy Connect configures the Qubic Integratio
 
 4. If the token matches Alice’s condition (i.e., MSVAULT), Easy Connect sends this structured data to her defined webhook.
 5. That webhook triggers an automation workflow via **Make**, where the data is stored in **Google Sheets**, sent to **Slack**, or integrated with any other service.
+
+![ChatGPT Image 14 abr 2025, 13_03_07](https://github.com/user-attachments/assets/1daf8f1c-23ff-446a-83f5-94e307b212f5)
 
 ---
 
