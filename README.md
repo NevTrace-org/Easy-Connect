@@ -317,7 +317,7 @@ Payments will be made according to the following schedule, based on the achievem
   - Amount: 20% budget (5,000 EUR)
 - **Milestone 4 - Make integration:**
   - Date: T1 + 24 weeks
-  - Amount: 10% budget (2,000 EUR)
+  - Amount: 10% budget (2,500 EUR)
 
 ### Disclaimer: Operational costs beyond project scope
 
