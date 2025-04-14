@@ -210,8 +210,7 @@ Project planning is structured into the following phases, each of which specifie
 - Committee aproval date (T1): April 16 2025 (TBC)
 
 **Phase 1 - Technical design:** 
-- Start date: T1
-- Duration: 5 weeks
+- Duration: 5 weeks + 1 week (Qubic QA)
 - Scope: 
   - Architecture definition.
   - Functional definition.
@@ -222,13 +221,8 @@ Project planning is structured into the following phases, each of which specifie
   - UX/UI: 25 hours
   - Project management / Business development / Marketing and communication: 37,5 hours
 
-**Phase 1 - Qubic validation:** 
-- Start date: T1 + 5 weeks
-- Duration: 1 week
-
 **Phase 2 - Testnet integration:** 
-- Start date: T1 + 6 weeks
-- Duration: 6 weeks
+- Duration: 6 weeks + 1 week (Qubic QA)
 - Scope:
   - Qubic integration with one smart contract (test environment).
   - Webhook integration beta.
@@ -241,13 +235,8 @@ Project planning is structured into the following phases, each of which specifie
   - UX/UI: 45 hours
   - Project management / Business development / Marketing and communication: 30 hours
 
-**Phase 2 - Qubic validation:** 
-- Start date: T1 + 12 weeks
-- Duration: 1 week
-
 **Phase 3 - Mainnet integration:**
-- Start date: T1 + 13 weeks
-- Duration: 5 weeks
+- Duration: 5 weeks + 1 week (Qubic QA)
 - Scope:
   - Qubic integration with most relevant mainnet smart contracts.
   - Webhook integration v1.0.
@@ -260,13 +249,8 @@ Project planning is structured into the following phases, each of which specifie
   - UX/UI: 25 hours
   - Project management / Marketing and communication: 37,5 hours
 
-**Phase 3 - Qubic validation:** 
-- Start date: T1 + 18 weeks
-- Duration: 1 week
-
 **Phase 4 - Make integration (webhook):**
-- Start date: T1 + 19 weeks
-- Duration: 4 weeks
+- Duration: 4 weeks + 1 week (Qubic QA)
 - Scope:
   - Qubic Easy Connect example for Make.
   - Submission of custom module to Make (*)
@@ -278,12 +262,6 @@ Project planning is structured into the following phases, each of which specifie
   - Development: 80 hours
   - UX/UI: 30 hours
   - Project management / Marketing and communication: 20 hours
- 
-**Phase 4 - Qubic validation:** 
-- Start date: T1 + 23 weeks
-- Duration: 1 week
-
-**End of project:** T1 + 24 weeks 
 
 This planning and scope is subject to the technical availability of the mainnet and testnet networks, technical documentation, and development tools provided by Qubic, as well as the support required for the development of the various components of the solution. 
 
