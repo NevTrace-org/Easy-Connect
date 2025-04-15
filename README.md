@@ -219,7 +219,7 @@ Project planning is structured into the following phases, each of which specifie
 - **Dedication:**
   - Development: 75 hours
   - UX/UI: 25 hours
-  - Project management / Business development / Marketing and communication: 37,5 hours
+  - Project management / Product management / Marketing and communication: 37,5 hours
 
 **Phase 2 - Testnet integration:** 
 - **Duration:** 6 weeks + 1 week (Qubic QA)
@@ -233,7 +233,7 @@ Project planning is structured into the following phases, each of which specifie
 - **Dedication:**
   - Development: 120 hours
   - UX/UI: 45 hours
-  - Project management / Business development / Marketing and communication: 30 hours
+  - Project management / Product management / Marketing and communication: 30 hours
 
 **Phase 3 - Mainnet integration:**
 - **Duration:** 5 weeks + 1 week (Qubic QA)
@@ -247,7 +247,7 @@ Project planning is structured into the following phases, each of which specifie
 - **Dedication:**
   - Development: 100 hours
   - UX/UI: 25 hours
-  - Project management / Marketing and communication: 37,5 hours
+  - Project management / Product management / Marketing and communication: 37,5 hours
 
 **Phase 4 - Make integration (webhook):**
 - **Duration:** 4 weeks + 1 week (Qubic QA)
@@ -261,7 +261,7 @@ Project planning is structured into the following phases, each of which specifie
 - **Dedication:**
   - Development: 80 hours
   - UX/UI: 30 hours
-  - Project management / Marketing and communication: 20 hours
+  - Project management / Product management / Marketing and communication: 20 hours
 
 This planning and scope is subject to the technical availability of the mainnet and testnet networks, technical documentation, and development tools provided by Qubic, as well as the support required for the development of the various components of the solution. 
 
@@ -275,7 +275,7 @@ The budget required for the development of the Easy Connect solution, according 
 - **Development:** 15,000 EUR
 - **UX/UI Design:** 5,000 EUR
 - **Project management:** 2,500 EUR
-- **Product and Business development:** 1,500 EUR
+- **Product management and Business development:** 1,500 EUR
 - **Marketing and Communications:** 1,000 EUR
 
 ### 8.2 Payment plan
