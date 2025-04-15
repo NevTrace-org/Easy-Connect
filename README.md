@@ -297,6 +297,8 @@ Payments will be made according to the following schedule, based on the achievem
   - Date: T1 + 24 weeks
   - Amount: 10% budget (2,500 EUR)
 
+Payments in QUBIC will be sent to the wallet FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB based on the compliance of each phase milestones according to the defined breakdown.
+
 ### 8.3 Disclaimer: Operational costs beyond project scope
 
 Upon completion of the project outlined in this proposal, the operation of the Easy Connect solution will incur additional costs not covered in the proposed budget, including (but not limited to):
