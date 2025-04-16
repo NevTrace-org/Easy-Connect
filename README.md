@@ -271,31 +271,31 @@ This planning and scope is subject to the technical availability of the mainnet 
 
 ### 8.1 Budget breakdown
 
-The budget required for the development of the Easy Connect solution, according to the described scope, amounts to 25,000 EUR, broken down into the following items:
-- **Development:** 15,000 EUR
-- **UX/UI Design:** 5,000 EUR
-- **Project management:** 2,500 EUR
-- **Product management and Business development:** 1,500 EUR
-- **Marketing and Communications:** 1,000 EUR
+The budget required for the development of the Easy Connect solution, according to the described scope, amounts to 25,000 USD, broken down into the following items:
+- **Development:** 15,000 USD
+- **UX/UI Design:** 5,000 USD
+- **Project management:** 2,500 USD
+- **Product management and Business development:** 1,500 USD
+- **Marketing and Communications:** 1,000 USD
 
 ### 8.2 Payment plan
 
 Payments will be made according to the following schedule, based on the achievement of the specified milestones:
 - **Milestone 0 - Proposal aproval:** 
   - Date: T1
-  - Amount: 20% budget (5,000 EUR)
+  - Amount: 20% budget (5,000 USD)
 - **Milestone 1 - Technical design:**
   - Date: T1 + 6 weeks
-  - Amount: 25% budget (6,250 EUR)
+  - Amount: 25% budget (6,250 USD)
 - **Milestone 2 - Testnet integration:**
   - Date: T1 + 13 weeks
-  - Amount: 25% budget (6,250 EUR)
+  - Amount: 25% budget (6,250 USD)
 - **Milestone 3 - Mainnet integration:** 
   - Date: T1 + 19 weeks
-  - Amount: 20% budget (5,000 EUR)
+  - Amount: 20% budget (5,000 USD)
 - **Milestone 4 - Make integration:**
   - Date: T1 + 24 weeks
-  - Amount: 10% budget (2,500 EUR)
+  - Amount: 10% budget (2,500 USD)
 
 Payments in QUBIC will be sent to the wallet FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB based on the compliance of each phase milestones according to the defined breakdown.
 
