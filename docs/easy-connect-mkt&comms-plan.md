@@ -1,3 +1,5 @@
+![Easy Connect logo](../easyconnect-logo.jpg)
+
 # EASY CONNECT – MKT & COMMS PLAN
 
 ### Value proposition
@@ -129,7 +131,7 @@ If we have the budget available, we propose the following actions:
 
 The marketing and communications strategy is being developed in parallel with the execution of the Easy Connect project plan and will continue beyond the end of the incubation program.
 
-This is the proposed plan for the first year, which will be developed progressively based on the available budget:
+This is the proposed plan for the first year, which will be developed progressively based on the available budget (crossed out activities are already completed):
 
 - **~~Preparation (Months 1–2)~~**~~:~~
   - ~~Design branding, content assets, and implement analytics.~~
