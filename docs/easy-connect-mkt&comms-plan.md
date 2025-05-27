@@ -82,6 +82,12 @@ We will continue to actively participate in the Qubic ecosystem (in English and 
 - Partner with existing Qubic community leaders to increase engagement.
 - Offer early beta access to Qubic users in Telegram/Discord to foster advocacy.
 
+### Blog and newsletter
+
+We will also publish featured content on the project website, providing details on how Easy Connect works and the use cases that can be developed with this solution.
+
+The website will offer the opportunity to subscribe to receive updates on the development of Easy Connect through a periodic newsletter. You will then be part of a user group that will be able to test the first version of the product, as well as receive promotions as early users.
+
 ### Digital advertising
 
 If we have the budget available, we propose the following actions to promote Easy Connect with Google and Meta ads.
