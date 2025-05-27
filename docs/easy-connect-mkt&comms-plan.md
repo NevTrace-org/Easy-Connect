@@ -86,7 +86,7 @@ We will continue to actively participate in the Qubic ecosystem (in English and 
 
 We will also publish featured content on the project website, providing details on how Easy Connect works and the use cases that can be developed with this solution.
 
-The website will offer the opportunity to subscribe to receive updates on the development of Easy Connect through a periodic newsletter. You will then be part of a user group that will be able to test the first version of the product, as well as receive promotions as early users.
+The website will offer the opportunity to subscribe and receive updates on the development of Easy Connect through a periodic newsletter, being part of a early user group that will be able to test the first version of the product, as well as receive promotions.
 
 ### Digital advertising
 
