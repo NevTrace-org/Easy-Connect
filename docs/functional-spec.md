@@ -174,15 +174,15 @@ If any of these requirements are missing, a **modal dialog** will be displayed, 
 
 **Note:** This validation and modal warning behavior is also applied in the **Dashboard** screen when enabling or disabling an alert directly from the list.
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.1%20Edit-Alert.jpg" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.1%20Edit-Alert.png" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.2%20Edit-Alert-%20origin.jpg" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.2%20Edit-Alert-%20origin.png" />
 
 <img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.3%20Edit-Alert-condition.png" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.4%20Edit-Alert-source.jpg" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.4%20Edit-Alert-source.png" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.5%20Edit-Alert-webhook.jpg" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.5%20Edit-Alert-webhook.png" />
 
 <img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.6%20Modal-Send.png" />
 
