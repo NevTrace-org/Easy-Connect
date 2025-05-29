@@ -1,3 +1,5 @@
+![Easy Connect logo](../easyconnect-logo.jpg)
+
 # Easy Connect – Functional Specification
 
 ## Overview
@@ -40,6 +42,8 @@ The dashboard serves as the main landing page after login. It provides an overvi
     -   Navigate to the notification history for that alert
 -   **Status Indicators**: Color tags visually represent the current state of each alert (e.g. green for active, red for inactive).
 
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/2%20Dashboard.png" />
+
 ---
 
 ## Create Alert (`/create-alert`)
@@ -64,6 +68,8 @@ To let the user define a new alert and provide its name and description before c
 -   **UX Notes**:
     -   The form uses a clean, minimal layout for focus.
     -   No configuration of logic or conditions is required at this stage—this step is meant to name and register the alert only.
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/3%20New%20alert.png" />
 
 ---
 
@@ -168,13 +174,25 @@ If any of these requirements are missing, a **modal dialog** will be displayed, 
 
 **Note:** This validation and modal warning behavior is also applied in the **Dashboard** screen when enabling or disabling an alert directly from the list.
 
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.1%20Edit-Alert.jpg" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.2%20Edit-Alert-%20origin.jpg" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.3%20Edit-Alert-condition.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.4%20Edit-Alert-source.jpg" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.5%20Edit-Alert-webhook.jpg" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.6%20Modal-Send.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.7%20Modal-Date-Sent.jpg" />
+
 ---
 
 ## View Notifications (`/alert/:id/notifications`)
 
 This screen allows users to review the webhook notifications triggered by their alerts. It provides a clear breakdown of each notification attempt, including the payload sent and the response received.
-
-TODO HACER YO LAS CAPTURAS DE LA WEB DE PRE PARA INCLUIRLAS AQUÍ
 
 ### Key Features
 
@@ -200,6 +218,10 @@ TODO HACER YO LAS CAPTURAS DE LA WEB DE PRE PARA INCLUIRLAS AQUÍ
 -   This screen makes it explicit what was **sent** by the system (outbound payload) and what was **received** in response from the webhook (inbound reply).
 -   Helps users identify configuration issues or failed deliveries at a glance.
 
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.1%20Listado-Resultados.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.2%20Resultados%20desplegados.png" />
+
 ---
 
 ## Pricing (`/pricing`)
@@ -221,13 +243,22 @@ The Pricing screen displays the available subscription plans and their respectiv
 -   “Subscribe” button in the Premium column that redirects the user to an external payment provider (e.g., Stripe) to complete the subscription process.
 -   Responsive layout for both desktop and mobile views.
 
-TODO INCLUIR QUE PUEDEN CAMBIAR LOS PRECIOS Y LOS NÚMEROS DE ALERTAS, TAMBIÉN EL NÚMERO DE ALERTAS
-
 ### Behavior
 
 -   Users can view the current plan they are subscribed to.
 -   Plan selection and upgrades are handled via secure redirection to the external payment gateway.
 -   Once the payment is confirmed, the user's subscription level is updated in the system automatically.
+
+
+### Disclaimer:
+-   The pricing plans and their respective limits described above are provisional and subject to change.  
+-   We are continuously refining the service, and adjustments may be made to better reflect usage patterns and operational costs.
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/6.1%20Pricing.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/6.2%20Pricing.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/6.3%20Pricing.png" />
 
 ---
 
@@ -247,6 +278,8 @@ The application uses a customized authentication flow based on AWS Cognito. Whil
 -   Allows existing users to log in using their email and password.
 -   Authentication tokens (JWT) are received from Cognito upon success and stored securely.
 -   Invalid attempts are clearly indicated with error messages.
+
+<img width="1946" alt="2 https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/1.1%20Login.jpg" />
 
 ### Signup Screen (`/auth/signup`)
 
@@ -270,6 +303,8 @@ The application uses a customized authentication flow based on AWS Cognito. Whil
     -   New password
     -   Confirmation of new password
 -   Successfully completes the password reset via Cognito.
+
+<img width="1946" alt="2 https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/1.2%20Reset%20Password.jpg" />
 
 ### Notes
 

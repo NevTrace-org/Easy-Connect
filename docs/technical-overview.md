@@ -1,3 +1,5 @@
+![Easy Connect logo](../easyconnect-logo.jpg)
+
 # Technical Overview Document – Easy Connect
 
 ## 1. Project Overview
