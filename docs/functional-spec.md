@@ -1,3 +1,5 @@
+![Easy Connect logo](../easyconnect-logo.jpg)
+
 # Easy Connect – Functional Specification
 
 ## Overview
