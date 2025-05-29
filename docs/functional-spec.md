@@ -67,6 +67,8 @@ To let the user define a new alert and provide its name and description before c
     -   The form uses a clean, minimal layout for focus.
     -   No configuration of logic or conditions is required at this stage—this step is meant to name and register the alert only.
 
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/3%20New%20alert.png" />
+
 ---
 
 ## Edit Alert (`/alert/:id`)
@@ -170,6 +172,20 @@ If any of these requirements are missing, a **modal dialog** will be displayed, 
 
 **Note:** This validation and modal warning behavior is also applied in the **Dashboard** screen when enabling or disabling an alert directly from the list.
 
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.1%20Edit-Alert.jpg" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.2%20Edit-Alert-%20origin.jpg" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.3%20Edit-Alert-condition.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.4%20Edit-Alert-source.jpg" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.5%20Edit-Alert-webhook.jpg" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.6%20Modal-Send.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.7%20Modal-Date-Sent.jpg" />
+
 ---
 
 ## View Notifications (`/alert/:id/notifications`)
@@ -201,6 +217,10 @@ TODO HACER YO LAS CAPTURAS DE LA WEB DE PRE PARA INCLUIRLAS AQUÍ
 
 -   This screen makes it explicit what was **sent** by the system (outbound payload) and what was **received** in response from the webhook (inbound reply).
 -   Helps users identify configuration issues or failed deliveries at a glance.
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.1%20Listado-Resultados.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.2%20Resultados%20desplegados.png" />
 
 ---
 
