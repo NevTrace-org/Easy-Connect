@@ -192,8 +192,6 @@ If any of these requirements are missing, a **modal dialog** will be displayed, 
 
 This screen allows users to review the webhook notifications triggered by their alerts. It provides a clear breakdown of each notification attempt, including the payload sent and the response received.
 
-TODO HACER YO LAS CAPTURAS DE LA WEB DE PRE PARA INCLUIRLAS AQUÍ
-
 ### Key Features
 
 -   **Tabular Display**
@@ -243,8 +241,6 @@ The Pricing screen displays the available subscription plans and their respectiv
 -   “Subscribe” button in the Premium column that redirects the user to an external payment provider (e.g., Stripe) to complete the subscription process.
 -   Responsive layout for both desktop and mobile views.
 
-TODO INCLUIR QUE PUEDEN CAMBIAR LOS PRECIOS Y LOS NÚMEROS DE ALERTAS, TAMBIÉN EL NÚMERO DE ALERTAS
-
 ### Behavior
 
 -   Users can view the current plan they are subscribed to.
@@ -281,6 +277,8 @@ The application uses a customized authentication flow based on AWS Cognito. Whil
 -   Authentication tokens (JWT) are received from Cognito upon success and stored securely.
 -   Invalid attempts are clearly indicated with error messages.
 
+<img width="1946" alt="2 https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/1.1%20Login.jpg" />
+
 ### Signup Screen (`/auth/signup`)
 
 -   New users can create an account by entering:
@@ -303,6 +301,8 @@ The application uses a customized authentication flow based on AWS Cognito. Whil
     -   New password
     -   Confirmation of new password
 -   Successfully completes the password reset via Cognito.
+
+<img width="1946" alt="2 https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/1.2%20Reset%20Password.jpg" />
 
 ### Notes
 
