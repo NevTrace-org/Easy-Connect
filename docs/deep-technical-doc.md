@@ -1,3 +1,5 @@
+![Easy Connect logo](../easyconnect-logo.jpg)
+
 # Easy Connect Backend - Technical Documentation
 
 ## Table of Contents
