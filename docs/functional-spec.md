@@ -251,6 +251,17 @@ TODO INCLUIR QUE PUEDEN CAMBIAR LOS PRECIOS Y LOS NÚMEROS DE ALERTAS, TAMBIÉN 
 -   Plan selection and upgrades are handled via secure redirection to the external payment gateway.
 -   Once the payment is confirmed, the user's subscription level is updated in the system automatically.
 
+
+### Disclaimer:
+-   The pricing plans and their respective limits described above are provisional and subject to change.  
+-   We are continuously refining the service, and adjustments may be made to better reflect usage patterns and operational costs.
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/6.1%20Pricing.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/6.2%20Pricing.png" />
+
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/6.3%20Pricing.png" />
+
 ---
 
 ## Authentication (`/auth/...`)
