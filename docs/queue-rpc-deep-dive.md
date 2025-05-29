@@ -1,3 +1,5 @@
+![Easy Connect logo](../easyconnect-logo.jpg)
+
 # Queue System and RPC Integration – Deep Dive
 
 ## Overview
