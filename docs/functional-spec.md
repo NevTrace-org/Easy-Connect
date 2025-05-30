@@ -41,7 +41,7 @@ The dashboard serves as the main landing page after login. It provides an overvi
     -   Edit the alert configuration (redirect to edit alert page)
     -   Toggle the alert as active/inactive (alerts are not deleted)
     -   Navigate to the notification history for that alert
--   **Status Indicators**: Color tags visually represent the current state of each alert (e.g. green for active, red for inactive).
+-   **Status Indicators**: Color tags visually represent the current state of each alert (e.g. green for active, grey for inactive).
 
 <img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/2%20Dashboard.png" />
 
