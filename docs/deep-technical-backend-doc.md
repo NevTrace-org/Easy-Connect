@@ -15,8 +15,8 @@
 - [9. Integration Layer](#9-integration-layer)
 - [10. Blockchain Integration & RPC Layer](#10-blockchain-integration--rpc-layer)
 - [11. Message Queue System](#11-message-queue-system)
-- [13. API Design Patterns](#13-api-design-patterns)
-- [14. Data Flow Architecture](#14-data-flow-architecture)
+- [12. API Design Patterns](#13-api-design-patterns)
+- [13. Data Flow Architecture](#14-data-flow-architecture)
 
 ---
 
@@ -37,32 +37,32 @@ Easy Connect follows **Clean Architecture** principles to build a scalable block
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                 🌐 PRESENTATION LAYER                       │
-│  EasyConnect.API (REST API + AWS Lambda)                   │
+│  EasyConnect.API (REST API + AWS Lambda)                    │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                📋 APPLICATION LAYER                         │
-│  • EasyConnect.Application (CQRS + Use Cases)              │
-│  • EasyConnect.RPC (Blockchain Integration)                │
+│  • EasyConnect.Application (CQRS + Use Cases)               │
+│  • EasyConnect.RPC (Blockchain Integration)                 │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
-│               🗄️ INFRASTRUCTURE LAYER                      │
-│  EasyConnect.Infrastructure (EF Core + PostgreSQL)         │
+│               🗄️ INFRASTRUCTURE LAYER                       │
+│  EasyConnect.Infrastructure (EF Core + PostgreSQL)          │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                💼 DOMAIN LAYER                              │
-│  EasyConnect.Domain (Entities + Business Rules)            │
+│  EasyConnect.Domain (Entities + Business Rules)             │
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
 │               🔄 INTEGRATION LAYER                          │
-│  • EasyConnect.QueueSender (AWS Lambda)                    │
-│  • EasyConnect.QueueListener (AWS Lambda)                  │
+│  • EasyConnect.QueueSender (AWS Lambda)                     │
+│  • EasyConnect.QueueListener (AWS Lambda)                   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -153,10 +153,9 @@ erDiagram
     ALERTS ||--o{ CONDITIONS : defines
     ALERTS ||--o{ NOTIFICATIONS : generates
     ALERTS ||--o{ ALERT_FROM_ADDRESSES : filters
-    ALERTS ||--o{ ALERT_TO_ADDRESSES : targets
     VARIABLES ||--o{ CONDITIONS : evaluates
     ADDRESSES ||--o{ ALERT_FROM_ADDRESSES : sources
-    ADDRESSES ||--o{ ALERT_TO_ADDRESSES : destinations
+
 
     NETWORKS {
         uuid id PK
@@ -1061,7 +1060,7 @@ All webhook delivery attempts are logged with detailed metrics including respons
 
 ---
 
-## 13. API Design Patterns
+## 12. API Design Patterns
 
 ### RESTful API Design
 
@@ -1147,13 +1146,13 @@ All errors are logged with appropriate detail levels including request context, 
 
 ---
 
-## 14. Data Flow Architecture
+## 13. Data Flow Architecture
 
 ### Complete System Data Flow
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Frontend      │───▶│   API Gateway   │───▶│  EasyConnect    │
+│   Frontend      │───▶    API Gateway  │───▶│  EasyConnect    │
 │   (Angular)     │    │   (AWS Lambda)  │    │     API         │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
                                                        │
@@ -1164,7 +1163,7 @@ All errors are logged with appropriate detail levels including request context, 
                                                └─────────────────┘
 
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Qubic RPC     │───▶│  QueueSender    │───▶│   SQS Queue     │
+│   Qubic RPC     │───▶   QueueSender   │───▶│   SQS Queue     │
 │   Blockchain    │    │   (Lambda)      │    │                 │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
                                                        │

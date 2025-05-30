@@ -16,7 +16,6 @@
 10. [Design Patterns and Architecture](#10-design-patterns-and-architecture)
 11. [Development Best Practices](#11-development-best-practices)
 12. [Performance and Optimization](#12-performance-and-optimization)
-13. [Deployment](#13-deployment)
 
 ---
 
