@@ -35,6 +35,7 @@ The dashboard serves as the main landing page after login. It provides an overvi
     -   Short description
     -   Date
     -   Status (with color-coded indicator)
+    -   Notificatons sent
     -   Actions
 -   **Actions per Alert**:
     -   Edit the alert configuration (redirect to edit alert page)
