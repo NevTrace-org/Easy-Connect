@@ -1,4 +1,4 @@
-![Easy Connect logo](../easyconnect-logo.jpg)
+![Easy Connect logo](../easyconnect-logotype.jpg)
 
 # EASY CONNECT – MKT & COMMS PLAN
 
