@@ -179,7 +179,7 @@ If any of these requirements are missing, a **modal dialog** will be displayed, 
 
 <img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.2%20Edit-Alert-%20origin.png" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.3%20Edit-Alert-condition.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.3%20Edit-Alert-%20condition.png" />
 
 <img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.4%20Edit-Alert-source.png" />
 
