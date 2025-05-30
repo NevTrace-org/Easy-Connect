@@ -218,9 +218,9 @@ This screen allows users to review the webhook notifications triggered by their 
 -   This screen makes it explicit what was **sent** by the system (outbound payload) and what was **received** in response from the webhook (inbound reply).
 -   Helps users identify configuration issues or failed deliveries at a glance.
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.1%20Listado-Resultados.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.1%20Results.png" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.2%20Resultados%20desplegados.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.2%20Results-displayed.png" />
 
 ---
 
