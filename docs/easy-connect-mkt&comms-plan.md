@@ -162,7 +162,7 @@ This is the proposed plan for the first year, which will be developed progressiv
 
 As an example, we have compiled some of the publications and articles we have made on social media, identifying their impact (as of 6/2/2025):
 
-[NevTrace account in X](https://x.com/nevtrace)
+**NevTrace account in X**
 
 [25/4 NevTrace wins 2nd prize at MAD Hack 2025](https://x.com/NevTrace/status/1915836888339910990): 991 impacts, 47 interactions
 
@@ -179,7 +179,9 @@ As an example, we have compiled some of the publications and articles we have ma
 [21/5 Easy Connect presentation at Superpioneros event](https://x.com/NevTrace/status/1925275926025445420): 773 impacts, 39 interactions.
 
 
-[Jorge Ordovás accoun in LinkedIn](https://www.linkedin.com/in/jorgeordovas/)
+**Jorge Ordovás account in LinkedIn**
+
+[27/4 NevTrace wins 2nd prize at MAD Hack 2025](https://www.linkedin.com/posts/jorgeordovas_qubik-activity-7309678716069068800-7Y_j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEd9NcBbgvRx4-d-xRwrMBjxtkMOwIuLOM): 3,4K impacts, 109 interactions
 
 [4/5 Discover Qubic and Easy Connect article (Spanish)](https://www.linkedin.com/pulse/descubre-qubic-la-intersecci%C3%B3n-de-blockchain-e-ia-jorge-ordov%C3%A1s-efpzf/?trackingId=7PBRPbv8TcOSXrEes4DJYA%3D%3D): 2,3K impacts, 47 interactions
 
