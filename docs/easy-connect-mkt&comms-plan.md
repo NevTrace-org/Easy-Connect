@@ -157,3 +157,29 @@ This is the proposed plan for the first year, which will be developed progressiv
   - Community expansion.
   - Success stories.
   - Feature updates.
+
+### Annex: Posts generated and impact (as of 2/6/2025)
+
+As an example, we have compiled some of the publications and articles we have made on social media, identifying their impact (as of 6/2/2025):
+
+[NevTrace account in X](https://x.com/_easyconnect)
+
+[25/4 NevTrace wins 2nd prize at MAD Hack 2025](https://x.com/NevTrace/status/1915836888339910990): 991 impacts, 47 interactions
+
+[4/5 Know Qubic & MAD Hack 2nd best](https://x.com/NevTrace/status/1919015502946386111): 15k impacts, 99 interactions
+
+[7/5 Easy Connect is here](https://x.com/NevTrace/status/1920357018260422912): 968 impacts, 36 interactions
+
+[12/5 NevTrace tests with Qubic web wallet and Ledger](https://x.com/NevTrace/status/1921951731128176779): 6.3k impacts, 187 interactions
+
+[15/5 Easy Connect joins Qubic ecosystem (Spanish)](https://x.com/NevTrace/status/1923093199456702620): 1.6K impacts, 85 interactions 
+
+[15/5 Easy Connect joins Qubic ecosystem (English)](https://x.com/NevTrace/status/1923073954060619946): 941 impacts, 50 interactions
+
+[21/5 Easy Connect presentation at Superpioneros event](https://x.com/NevTrace/status/1925275926025445420): 773 impacts, 39 interactions.
+
+
+[Jorge Ordovás accoun in LinkedIn](https://www.linkedin.com/in/jorgeordovas/)
+
+[4/5 Discover Qubic and Easy Connect article (Spanish)](https://www.linkedin.com/pulse/descubre-qubic-la-intersecci%C3%B3n-de-blockchain-e-ia-jorge-ordov%C3%A1s-efpzf/?trackingId=7PBRPbv8TcOSXrEes4DJYA%3D%3D): 2,3K impacts, 47 interactions
+
