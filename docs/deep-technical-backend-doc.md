@@ -30,7 +30,6 @@ Easy Connect follows **Clean Architecture** principles to build a scalable block
 - **Separation of Concerns**: Each layer has distinct responsibilities
 - **SOLID Principles**: Applied throughout the codebase
 - **Domain-Driven Design**: Business logic centered in the domain layer
-- **Event-Driven Architecture**: Asynchronous processing via message queues
 
 ### High-Level Architecture
 
@@ -43,8 +42,8 @@ Easy Connect follows **Clean Architecture** principles to build a scalable block
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                📋 APPLICATION LAYER                         │
-│  • EasyConnect.Application (CQRS + Use Cases)               │
-│  • EasyConnect.RPC (Blockchain Integration)                 │
+│  • EasyConnect.Application (Use Cases)               │
+│  • EasyConnect.RPC (Qubic Integration)                 │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
@@ -106,7 +105,7 @@ EasyConnect/
 ├── EasyConnect.Application/         # 📋 Use cases and business logic
 ├── EasyConnect.Infrastructure/      # 🗄️ Data access and external services
 ├── EasyConnect.API/                 # 🌐 REST API controllers
-├── EasyConnect.RPC/                 # 🔗 Blockchain integration
+├── EasyConnect.RPC/                 # 🔗 Qubic integration
 ├── EasyConnect.QueueSender/         # 📤 Alert processing Lambda
 └── EasyConnect.QueueListener/       # 📥 Webhook execution Lambda
 ```
@@ -274,25 +273,6 @@ ABSTRACT CLASS Entity:
 - Unique constraints on business keys
 - Proper foreign key relationships
 
-### Key Database Relationships
-
-#### **Core Business Entities**
-
-- `Contracts` ↔ `Methods`: One-to-Many
-- `Methods` ↔ `Variables`: One-to-Many
-- `Methods` ↔ `Alerts`: One-to-Many
-- `Alerts` ↔ `Conditions`: One-to-Many
-
-#### **Address Filtering**
-
-- `AlertFromAddress`: Many-to-Many (Alert ↔ Address)
-- `AlertToAddress`: Many-to-Many (Alert ↔ Address)
-
-#### **Notification Tracking**
-
-- `Alerts` ↔ `Notifications`: One-to-Many
-- Stores webhook delivery results and metrics
-
 ---
 
 ## 5. Domain Layer
@@ -317,7 +297,6 @@ CLASS Alert EXTENDS Entity:
         - Conditions: List of evaluation criteria
         - Notifications: History of sent notifications
         - FromAddresses: Source address filters (optional)
-        - ToAddresses: Destination address filters (optional)
 
     BUSINESS RULES:
         - Constructor sets IsActive = false by default
@@ -332,8 +311,7 @@ CLASS Alert EXTENDS Entity:
 CLASS Contract EXTENDS Entity:
     PROPERTIES:
         - Name: Smart contract display name
-        - AddressId: Reference to blockchain address
-        - ABI: Application Binary Interface definition
+        - AddressId: Reference to qubic's identity
         - GitUrl: Source code repository link
 
     RELATIONSHIPS:
@@ -343,7 +321,6 @@ CLASS Contract EXTENDS Entity:
     BUSINESS RULES:
         - Constructor initializes empty Methods collection
         - One-to-one relationship with Address
-        - ABI stores contract interface definition
 ```
 
 #### **Condition Entity**
@@ -429,10 +406,6 @@ Application/
 │   │   ├── Delete.cs
 │   │   ├── UpdateMethod.cs
 │   │   └── UpdateWebhook.cs
-│   └── Queries/
-│       ├── Get.cs
-│       ├── GetAll.cs
-│       └── GetByUser.cs
 └── Conditions/
     ├── Commands/
     │   ├── Create.cs
@@ -460,52 +433,6 @@ CLASS Create (Alert Creation Command):
         - Description is optional
 ```
 
-#### **Query Pattern Implementation**
-
-```
-CLASS GetByUser (Alert Query by User):
-    DEPENDENCIES:
-        - IQubikDbContext: Database context for data access
-
-    METHOD Execute(userId):
-        1. Query alerts table filtered by userId
-        2. Include related entities (Method, Contract, Conditions, Variables)
-        3. Apply soft delete filter automatically
-        4. Map entities to DTOs using Mapster
-        5. Return collection of AlertDto objects
-
-    PERFORMANCE:
-        - Uses Include() for eager loading
-        - Filters at database level
-        - Returns only non-deleted records
-```
-
-### Data Transfer Objects (DTOs)
-
-#### **AlertDto**
-
-```
-CLASS AlertDto (Data Transfer Object):
-    PROPERTIES:
-        - Id: Unique alert identifier
-        - Name: Alert display name
-        - Description: Alert description
-        - Webhook: Notification endpoint URL
-        - IsActive: Current status flag
-        - MethodId: Referenced method identifier
-
-    NAVIGATION PROPERTIES:
-        - Method: Referenced smart contract method
-        - Conditions: Alert evaluation criteria
-        - FromAddresses: Source address filters
-        - Notifications: Historical notifications
-
-    PURPOSE:
-        - Transfer data between layers
-        - Hide internal entity complexity
-        - Provide flat structure for API responses
-```
-
 ### Interface Abstraction
 
 #### **IQubikDbContext**
@@ -521,7 +448,6 @@ INTERFACE IQubikDbContext (Database Context Contract):
         - Methods: Method entity collection
         - Variables: Variable entity collection
         - AlertsFromAddress: Alert-Address relationship collection
-        - AlertsToAddress: Alert-Address relationship collection
         - Networks: Network entity collection
         - RPCCalls: RPC call audit collection
 
@@ -619,29 +545,6 @@ CLASS AlertConfiguration IMPLEMENTS IEntityTypeConfiguration<Alert>:
         - Ensure data integrity constraints
         - Configure relationship behaviors
 ```
-
-### Migration Strategy
-
-#### **Database Migrations Timeline**
-
-1. **Initial Migration** (`20250418073849_Initial`)
-
-   - Core schema creation
-   - Base entities and relationships
-
-2. **Contract Address Fix** (`20250418150324_ContractAddressRelationship`)
-
-   - Fixed Contract-Address relationship
-   - Added proper foreign key constraints
-
-3. **User Isolation** (`20250430141451_UserIdInAlerts`)
-
-   - Added UserId to Alerts table
-   - Enables multi-tenant isolation
-
-4. **Method Flexibility** (`20250430142025_MethodIdNullableOnAlerts`)
-   - Made MethodId nullable in Alerts
-   - Allows alert creation before method selection
 
 ### Data Seeding
 
@@ -824,7 +727,7 @@ Blockchain ──► QueueSender ──► SQS Queue ──► QueueListener ─
 
 #### **Function Class Implementation**
 
-The QueueSender Function class serves as the main entry point for blockchain monitoring operations. It implements a scheduled Lambda function that executes every 5 minutes to check for new blockchain transactions.
+The QueueSender Function class serves as the main entry point for blockchain monitoring operations. It implements a scheduled Lambda function that executes periodically to check for new blockchain transactions.
 
 **Core Responsibilities:**
 
@@ -837,11 +740,8 @@ The QueueSender Function class serves as the main entry point for blockchain mon
 - Send matching alerts to SQS queue for webhook delivery
 - Store RPC call metadata for audit trail
 
-**Service Configuration Process:**
-The function loads environment variables from a .env file and builds a configuration object from environment variables. It then creates a service provider with proper dependency injection setup, including database context and application services registration.
-
 **Transaction Processing Flow:**
-The function retrieves the latest tick from the Qubic RPC endpoint and determines the starting tick for processing. If no previous RPC calls exist, it processes the last 1 million ticks. Otherwise, it continues from the last processed tick. The function then fetches all QX contract transactions in paginated batches and parses them using the QX contract parser.
+The function retrieves the latest tick from the Qubic RPC endpoint and determines the starting tick for processing. The function then fetches all contract transactions in paginated batches and parses them using the contract parser.
 
 #### **Alert Evaluation Engine**
 
@@ -912,12 +812,12 @@ The client uses an internal HTTP client wrapper to make REST API calls to the Qu
 The GetCurrentTick method queries the latest tick information from the blockchain, which is used to determine the processing window for new transactions.
 
 **Transaction Fetching Strategy:**
-The GetAllQxTransfers method implements a pagination strategy to retrieve all transactions for the QX contract starting from a specified tick. It continues fetching pages until all available transactions are retrieved, handling large result sets efficiently.
+For example, if we are talking about Qx Contract, the GetAllQxTransfers method implements a pagination strategy to retrieve all transactions for the QX contract starting from a specified tick. It continues fetching pages until all available transactions are retrieved, handling large result sets efficiently.
 
 **Pagination Handling:**
 The client processes transaction results in pages with a configurable page size (250 transactions per page). It continues fetching subsequent pages until reaching the total page count returned by the API.
 
-### Smart Contract Parsing
+### Smart Contract Parsing (QX Contract example)
 
 #### **Contract Transaction Structure**
 
@@ -994,7 +894,7 @@ The parser uses a custom Base32 encoding utility to convert raw byte arrays into
 
 ```
 ┌─────────────────┐    ┌─────────────┐    ┌─────────────────┐
-│   QueueSender   │───▶│  SQS Queue  │───▶│  QueueListener  │
+│   QueueSender   │───▶│  SQS Queue │───▶│  QueueListener  │
 │   (Producer)    │    │             │    │   (Consumer)    │
 └─────────────────┘    └─────────────┘    └─────────────────┘
         │                                          │
@@ -1047,7 +947,7 @@ SQS handles automatic message retries based on the queue configuration. Messages
 The webhook delivery system includes multiple layers of resilience to handle network failures and endpoint unavailability.
 
 **Timeout Configuration:**
-Each webhook call is configured with a 30-second maximum timeout to prevent hanging requests from blocking the system.
+Each webhook call is configured with a 10-second maximum timeout to prevent hanging requests from blocking the system.
 
 **Automatic Retries:**
 Failed webhook deliveries are automatically retried through the SQS retry mechanism. The QueueListener will reprocess failed messages according to the queue's retry policy.
@@ -1071,7 +971,7 @@ GET    /api/v1/alerts              # Get user alerts
 POST   /api/v1/alerts              # Create new alert
 GET    /api/v1/alerts/{id}         # Get specific alert
 PUT    /api/v1/alerts              # Update alert
-DELETE /api/v1/alerts/{id}         # Delete alert
+DELETE /api/v1/alerts/{id}         # Deactivate alert
 PATCH  /api/v1/alerts/method       # Update alert method
 PATCH  /api/v1/alerts/webhook      # Update alert webhook
 
@@ -1184,7 +1084,7 @@ User Request → API Controller → Application Command → Domain Entity → Da
      └─► Response DTO ◄── Mapster ◄── Saved Entity
 ```
 
-#### **2. Blockchain Monitoring Flow**
+#### **2. Qubic Blockchain Monitoring Flow**
 
 ```
 Scheduled Trigger → QueueSender Lambda → RPC Client → Qubic Blockchain

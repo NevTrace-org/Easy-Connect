@@ -99,18 +99,10 @@ The application implements a **feature-based modular architecture** with clear s
 | **Tailwind CSS**    | 3.x      | Utility-first CSS framework |
 | **Angular Signals** | Built-in | Reactive state management   |
 
-### 3.2 Additional Libraries
-
-- **AWS Cognito SDK**: Authentication and user management
-- **Lucide Angular**: Consistent iconography
-- **Date-fns**: Date manipulation
-- **Chart.js/ng2-charts**: Metrics visualization (future)
-
-### 3.3 Development Tools
+### 3.2 Development Tools
 
 - **Angular CLI**: Development and build tools
 - **ESLint + Prettier**: Code quality and formatting
-- **Husky**: Git hooks for quality gates
 
 ---
 
@@ -235,19 +227,6 @@ class FeatureStore {
 - **Actions**: Load history, filter, mark as read
 - **Effects**: Pagination, cache, polling for updates
 
-#### 5.3.4 UIStore
-
-- **State**: Theme, sidebar, modals, loading states
-- **Actions**: Toggle theme, show/hide modals, loading states
-- **Effects**: Preference persistence, responsive handling
-
-### 5.4 State Synchronization Strategy
-
-- **Optimistic Updates**: Immediate UI updates with rollback on error
-- **Cache Management**: Intelligent cache with automatic invalidation
-- **Conflict Resolution**: Handling concurrent update conflicts
-- **Offline Support**: Resilient state for intermittent connectivity
-
 ---
 
 ## 6. Authentication System
@@ -329,7 +308,7 @@ Guard for public routes (login, signup):
 - **Brand Section**: Easy Connect logo with isometric illustration
 - **Form Section**: Centered login form
 - **Input Fields**: Email and password with real-time validation
-- **Action Buttons**: Main login + "Sign with Google" alternative
+- **Action Buttons**: Main login
 - **Navigation Links**: Links to signup and password reset
 - **Footer**: Copyright and legal links
 
@@ -345,10 +324,8 @@ Guard for public routes (login, signup):
 
 **UI Elements**:
 
-- **Extended Form**: Additional fields (Name, Email, Password, Confirm Password)
-- **Newsletter Opt-in**: Checkbox for newsletter subscription
+- **Extended Form**: Additional fields (Email, Password, Confirm Password)
 - **Terms Acceptance**: Terms acceptance checkbox (required)
-- **Social Login**: Google registration option
 - **Progressive Enhancement**: Real-time validation with visual feedback
 
 **Functionality**:
@@ -383,7 +360,7 @@ Guard for public routes (login, signup):
 
 **Layout Structure**:
 
-- **Header**: Top navigation with logo, user menu and notifications
+- **Header**: Top navigation with logo and user menu
 - **Sidebar**: Lateral navigation with "New alert" and "My alerts"
 - **Main Content**: Alert table with pagination controls
 - **Action Bar**: Prominent "New alert" button
@@ -397,7 +374,7 @@ Guard for public routes (login, signup):
 - **Creation Date**: Creation timestamp
 - **Status**: Visual badge (Activated/Disabled) with color coding
 - **Notifications Sent**: Sent notifications counter
-- **Actions**: Edit, view notifications, toggle status buttons
+- **Actions**: Edit, view notifications
 
 **Table Functionality**:
 
@@ -405,7 +382,6 @@ Guard for public routes (login, signup):
 - **Pagination**: Page navigation with items per page control
 - **Status Toggle**: Switch to activate/deactivate alerts in-place
 - **Quick Actions**: Quick actions from each row
-- **Bulk Operations**: Multiple selection for bulk operations (future)
 
 #### 7.2.3 Status Management
 
@@ -413,7 +389,6 @@ Guard for public routes (login, signup):
 
 - **Active**: Green badge with activated toggle
 - **Inactive**: Gray badge with deactivated toggle
-- **Error**: Red badge for alerts with configuration problems
 
 **Toggle Functionality**:
 
@@ -553,13 +528,6 @@ Guard for public routes (login, signup):
 - **Milliseconds Column**: Response time for debugging
 - **Actions Column**: View details button
 
-**Search and Filter**:
-
-- **Search Bar**: Search by URL or content
-- **Date Range Filter**: Date range filters
-- **Status Filter**: Filter by success/error status
-- **Export Functionality**: Data export for analysis
-
 #### 7.5.2 Expandable Row Details
 
 **Data Sent Section**:
@@ -576,12 +544,6 @@ Guard for public routes (login, signup):
 - **Error Details**: Error details if applicable
 
 #### 7.5.3 Performance Metrics
-
-**Response Time Analysis**:
-
-- **Millisecond Precision**: Precise response time
-- **Performance Trends**: Trend indicators (future)
-- **SLA Monitoring**: Webhook SLA monitoring (future)
 
 ### 7.6 Pricing (`/pricing`)
 
@@ -616,7 +578,7 @@ Guard for public routes (login, signup):
 
 **Dynamic Usage Display**:
 
-- **Notification Counter**: Header display "100 of 200 free notifications"
+- **Notification Counter**: Header display "{notification_count} of 200 free notifications" (for example "100 of 200 free notifications")
 - **Progress Indicators**: Progress bars for usage
 - **Warning Thresholds**: Alerts when approaching limit
 - **Upgrade CTAs**: Contextual upgrade buttons
@@ -662,25 +624,12 @@ Guard for public routes (login, signup):
 
 The service layer is organized into three categories:
 
-**Core Services**:
-
-- **AuthService**: Authentication and session handling
-- **ApiService**: Base service for HTTP communication
-- **NotificationService**: UI notification system
-
 **Domain Services**:
 
 - **AlertService**: Alert CRUD and management
 - **ContractService**: Smart contract management
 - **ConditionService**: Alert condition handling
 - **NotificationHistoryService**: Notification history
-
-**Utility Services**:
-
-- **StorageService**: localStorage/sessionStorage abstraction
-- **DateService**: Date handling utilities
-- **ValidationService**: Reusable validations
-- **ConfigService**: Configuration management
 
 #### 8.1.2 API Service Pattern
 
@@ -708,14 +657,6 @@ Each domain service extends a BaseApiService that provides:
 - **Request Retry**: Retries failed requests post-refresh
 - **Logout Trigger**: Triggers logout on irrecoverable errors
 
-#### 8.2.2 LoadingInterceptor
-
-**Responsibilities**:
-
-- **Global Loading State**: Automatic loading state handling
-- **Request Counting**: Counts active requests
-- **Loading Indicators**: Controls global loading indicators
-
 ### 8.3 API Integration Patterns
 
 #### 8.3.1 Request/Response Flow
@@ -723,15 +664,6 @@ Each domain service extends a BaseApiService that provides:
 ```
 Component → Store → Service → Interceptor → API → Response Transform → Store → Component
 ```
-
-#### 8.3.2 Caching Strategy
-
-**Multi-Level Caching**:
-
-- **HTTP Cache**: Native browser cache for static resources
-- **Service Cache**: In-memory cache for frequently accessed data
-- **Store Cache**: Cache in stores for global state
-- **Storage Cache**: Persistent cache for offline data
 
 ---
 
@@ -816,20 +748,23 @@ Component → Store → Service → Interceptor → API → Response Transform �
 - **Templates**: Layout structures, page templates
 - **Pages**: Complete screens with business logic
 
-#### 10.1.3 Component Communication
+### 10.1.3 Component Communication
 
-**Parent-Child Communication**:
+#### Signals-Based Communication
 
-- **@Input()**: Data from parent to child
-- **@Output()**: Events from child to parent
-- **ViewChild**: Direct access to child components
-- **Content Projection**: ng-content for flexible composition
+**Reactive Communication using Signals and State:**
 
-**Sibling Communication**:
+- **Signals as Data Flow Mechanism**  
+  Signals (`signal()`, `computed()`, `effect()`) are used for reactive state within and across components.
 
-- **Shared Services**: Services for sibling communication
-- **Event Bus**: EventEmitter service for global events
-- **State Stores**: Shared stores for common state
+  - **Parent → Child**: Share `@Input({ signal: true })` for reactive binding
+  - **Child → Parent**: Emit via `SignalOutput<T>` or mutate shared signal state
+  - **Reactive Local State**: Components use local signals to drive reactivity (UI updates, logic triggers)
+
+- **Store-Driven Communication**
+  - **Component-to-Component**: Shared signal-based stores (e.g., using `inject()` with signal stores) allow reactive communication across unrelated components
+  - **State Encapsulation**: Business logic and state mutations are encapsulated in stores or services using signals
+  - **No EventEmitter**: Traditional `EventEmitter` is replaced with reactive patterns (e.g., writing to a signal, reacting via `effect()`)
 
 ### 10.2 State Management Patterns
 
@@ -847,53 +782,6 @@ Action → Store → State Update → Component Re-render
 - **Debugging**: Easy state change tracking
 - **Testing**: Deterministic state for testing
 - **Time Travel**: Time travel debugging possibility
-
-#### 10.2.2 Immutable State Pattern
-
-**Implementation Strategy**:
-
-- **Immutable Updates**: New references for each change
-- **Structural Sharing**: Memory optimization with sharing
-- **OnPush Strategy**: Optimized change detection
-- **Pure Functions**: Reducers and selectors as pure functions
-
-#### 10.2.3 Optimistic Updates
-
-**Pattern Implementation**:
-
-- **Immediate UI Update**: Immediate interface update
-- **API Call**: Background API call
-- **Success Confirmation**: Success confirmation without additional changes
-- **Error Rollback**: Rollback to previous state on error
-
-### 10.3 Performance Patterns
-
-#### 10.3.1 Lazy Loading Strategy
-
-**Module Lazy Loading**:
-
-- **Route-based Splitting**: Division by main routes
-- **Feature Module Loading**: Lazy loading of feature modules
-- **Dynamic Imports**: Dynamic module imports
-- **Preloading Strategy**: Intelligent preloading strategy
-
-#### 10.3.2 Change Detection Optimization
-
-**OnPush Strategy**:
-
-- **Immutable Data**: Immutable data for OnPush
-- **Observable Streams**: Use of async pipe for automatic change detection
-- **Manual Detection**: ChangeDetectorRef for manual control
-- **Component Splitting**: Component division for optimization
-
-#### 10.3.3 Virtual Scrolling
-
-**Large Dataset Handling**:
-
-- **CDK Virtual Scrolling**: Angular CDK for large lists
-- **Pagination Strategy**: Intelligent pagination
-- **Infinite Scrolling**: Incremental data loading
-- **Memory Management**: Memory management for large datasets
 
 ---
 
@@ -948,43 +836,9 @@ Action → Store → State Update → Component Re-render
 - **CSS Custom Properties**: CSS variables for theming
 - **Style Guidelines**: Consistent spacing and sizing guidelines
 
-### 11.2 Performance Best Practices
+### 11.2 Security Best Practices
 
-#### 11.2.1 Bundle Optimization
-
-**Code Splitting**:
-
-- **Route-based Splitting**: Division by main routes
-- **Vendor Splitting**: Vendor bundle separation
-- **Dynamic Imports**: Dynamic imports for optional features
-- **Tree Shaking**: Unused code elimination
-
-**Asset Optimization**:
-
-- **Image Optimization**: Image and asset optimization
-- **Font Loading**: Font loading strategy
-- **CSS Purging**: Unused CSS elimination
-- **Compression**: Gzip/brotli compression configuration
-
-#### 11.2.2 Runtime Performance
-
-**Memory Management**:
-
-- **Subscription Management**: Observable unsubscribe
-- **Event Listener Cleanup**: Event listener cleanup
-- **Component Cleanup**: OnDestroy lifecycle for cleanup
-- **Memory Leak Detection**: Tools to detect leaks
-
-**Rendering Performance**:
-
-- **Virtual Scrolling**: For large lists
-- **Lazy Loading**: Deferred component loading
-- **OnPush Strategy**: Optimized change detection
-- **Debouncing**: Debounce for expensive operations
-
-### 11.3 Security Best Practices
-
-#### 11.3.1 Input Validation
+#### 11.2.1 Input Validation
 
 **Client-Side Validation**:
 
@@ -993,7 +847,7 @@ Action → Store → State Update → Component Re-render
 - **XSS Prevention**: XSS attack prevention
 - **CSRF Protection**: CSRF attack protection
 
-#### 11.3.2 Authentication Security
+#### 11.2.2 Authentication Security
 
 **Token Management**:
 
