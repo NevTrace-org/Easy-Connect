@@ -162,7 +162,7 @@ This is the proposed plan for the first year, which will be developed progressiv
 
 As an example, we have compiled some of the publications and articles we have made on social media, identifying their impact (as of 6/2/2025):
 
-[NevTrace account in X](https://x.com/_easyconnect)
+[NevTrace account in X](https://x.com/nevtrace)
 
 [25/4 NevTrace wins 2nd prize at MAD Hack 2025](https://x.com/NevTrace/status/1915836888339910990): 991 impacts, 47 interactions
 
