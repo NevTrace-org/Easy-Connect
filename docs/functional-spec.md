@@ -1,4 +1,4 @@
-![Easy Connect logo](../easyconnect-logo.jpg)
+![Easy Connect logo](../easyconnect-logotype.jpg)
 
 # Easy Connect – Functional Specification
 
@@ -35,12 +35,13 @@ The dashboard serves as the main landing page after login. It provides an overvi
     -   Short description
     -   Date
     -   Status (with color-coded indicator)
+    -   Notificatons sent
     -   Actions
 -   **Actions per Alert**:
     -   Edit the alert configuration (redirect to edit alert page)
     -   Toggle the alert as active/inactive (alerts are not deleted)
     -   Navigate to the notification history for that alert
--   **Status Indicators**: Color tags visually represent the current state of each alert (e.g. green for active, red for inactive).
+-   **Status Indicators**: Color tags visually represent the current state of each alert (e.g. green for active, grey for inactive).
 
 <img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/2%20Dashboard.png" />
 
@@ -174,15 +175,15 @@ If any of these requirements are missing, a **modal dialog** will be displayed, 
 
 **Note:** This validation and modal warning behavior is also applied in the **Dashboard** screen when enabling or disabling an alert directly from the list.
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.1%20Edit-Alert.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.1%20Edit-Alert.jpg" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.2%20Edit-Alert-%20origin.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.2%20Edit-Alert-%20origin.jpg" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.3%20Edit-Alert-condition.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.3%20Edit-Alert-%20condition.jpg" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.4%20Edit-Alert-source.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.4%20Edit-Alert-source.jpg" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.5%20Edit-Alert-webhook.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.5%20Edit-Alert-webhook.jpg" />
 
 <img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.6%20Modal-Send.png" />
 
@@ -218,9 +219,9 @@ This screen allows users to review the webhook notifications triggered by their 
 -   This screen makes it explicit what was **sent** by the system (outbound payload) and what was **received** in response from the webhook (inbound reply).
 -   Helps users identify configuration issues or failed deliveries at a glance.
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.1%20Listado-Resultados.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.1%20Results.png" />
 
-<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.2%20Resultados%20desplegados.png" />
+<img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/5.2%20Results-displayed.png" />
 
 ---
 
