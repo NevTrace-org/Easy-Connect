@@ -110,8 +110,9 @@ To enable users to modify an existing alert’s parameters, including contract f
 
 - **Sources Section**:
 
-  - Add specific identity addresses that act as the origin of monitored transactions.
-  - Each source filters alerts based on the transaction's sender address.
+  - Add one or more **specific wallet addresses** to monitor as the source of transactions.
+  - The alert will only trigger if the transaction originates from one of the listed addresses.
+  - Useful for tracking activity from **individual or multiple known identities** (e.g., user wallets, bots, or trusted entities).
 
 - **Notification Section**:
 
@@ -174,6 +175,13 @@ A **toggle button** is available at the top of the screen to **activate or deact
 If any of these requirements are missing, a **modal dialog** will be displayed, informing the user of the incomplete configuration and preventing activation until resolved.
 
 **Note:** This validation and modal warning behavior is also applied in the **Dashboard** screen when enabling or disabling an alert directly from the list.
+
+### Future Improvements: Timeframe Filtering (Proposed)
+
+> We are currently evaluating the possibility of allowing **timeframe-based filtering** for alerts in future versions.  
+> This would enable users to define temporal windows during which alerts are active or relevant.
+>
+> While this feature is not yet implemented, users can still **filter notifications externally** by leveraging the `timestamp` included in the payload — for example, using Make and Google Sheets workflows.
 
 <img width="1946" alt="2 Dashboard" src="https://github.com/NevTrace-org/Easy-Connect/blob/main/ui/4.1%20Edit-Alert.jpg" />
 
