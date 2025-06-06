@@ -76,10 +76,10 @@ Strategy Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) pos
   - Make.com Community (12,000+ members).
 
 - **Engagement Targets**:
-  - 15-20 new relevant connections monthly
-  - 5-8% engagement rate on posts
-  - 3-5 meaningful comments per publication
-  - 1 thought leadership article monthly
+  - 15-20 new relevant connections monthly.
+  - 5-8% engagement rate on posts.
+  - 3-5 meaningful comments per publication.
+  - 1 thought leadership article monthly.
 
 ### Telegram and Discord Qubic groups
 
@@ -113,27 +113,24 @@ The website will offer the opportunity to subscribe and receive updates on the d
   - Partnership updates: Quarterly for stakeholders (4 editions per year).
 
 - **Content topics**:
-  - Educational content about Qubic blockchain capabilities
-  - Easy Connect use case demonstrations and tutorials
-  - Industry trend analysis and automation insights
-  - Community highlights and partnership announcements
+  - Educational content about Qubic blockchain capabilities.
+  - Easy Connect use case demonstrations and tutorials.
+  - Industry trend analysis and automation insights.
+  - Community highlights and partnership announcements.
 
 - **Subscriber growth targets**:
-  - Q3 2025: 100 newsletter subscribers
-  - Q4 2025: 500 newsletter subscribers
-  - Q1 2026: 1000 newsletter subscribers
-  - Q2 2026: 2000 newsletter subscribers
+  - Q3 2025: 100 newsletter subscribers.
+  - Q4 2025: 500 newsletter subscribers.
+  - Q1 2026: 1000 newsletter subscribers.
+  - Q2 2026: 2000 newsletter subscribers.
 
 ### Events and public relations
 
-We propose the following actions:
-
-**Virtual/In-person events**:
-
-- **Hackathons**: Competitions to build innovative integrations using Easy Connect.
-- **Workshops**: Hands-on sessions for specific Qubic use cases.
-- **Conference participation**: Keynote speeches and exhibition booths at blockchain events.
-- **Blockchain and Web3 ecosystem meetings**: Active participation to engage with potential customers.
+We will participate in the following types of virtual/in-person events:
+- **Blockchain and Web3 ecosystem meetings**: Active participation to engage with potential customers and investors (Monthly).
+- **Workshops**: Hands-on sessions for specific Qubic use cases (Bi-Monthly).
+- **Hackathons**: Competitions to build innovative integrations using Easy Connect (1 per year).
+- **Conference participation**: Keynote speeches and exhibition booths at blockchain events (1 per year).
 
 ### Implementation timeline
 
