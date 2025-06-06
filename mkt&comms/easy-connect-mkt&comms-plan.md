@@ -61,9 +61,9 @@ In parallel, we will use LinkedIn to reach companies and professionals intereste
 Strategy Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) positioning in LinkedIn as Blockchain expert (+10,000 followers).
 
 - **Content Frequency**: 3 posts per week on LinkedIn:
-  - Mondays: Technical insights on blockchain and no-code integrations.
-  - Wednesdays: Qubic ecosystem updates and Easy Connect developments.
-  - Fridays: Broader reflections on Web3 and enterprise automation.
+  - Technical insights on blockchain and no-code integrations.
+  - Qubic ecosystem updates and Easy Connect developments.
+  - Broader reflections on Web3 and enterprise automation.
 
 - **Quantified demo schedule**:
   - 1 live demonstration per month.
