@@ -65,11 +65,6 @@ Strategy Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) pos
   - Qubic ecosystem updates and Easy Connect developments.
   - Broader reflections on Web3 and enterprise automation.
 
-- **Quantified demo schedule**:
-  - 1 live demonstration per month.
-  - 1 LinkedIn Live session quarterly showcasing integration scenarios.
-  - 2 private demos per month for qualified leads.
-
 - **Group engagement strategy**: Active participation in 3 automation-focused groups:
   - No-Code Founders Community (15,000+ members).
   - Zapier Users & Automation (8,000+ members).
@@ -80,8 +75,7 @@ Strategy Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) pos
 Objectives as a result of social media activity:
   - 15-20 new relevant connections monthly.
   - 5-8% engagement rate on posts.
-  - 3-5 meaningful comments per publication.
-  - 1 thought leadership article monthly.
+  - 3-5 meaningful interactions per publication.
 
 ### Telegram and Discord Qubic groups
 
@@ -93,8 +87,8 @@ We will continue to actively participate in the Qubic ecosystem (in English and 
 - **Technical deep dives**: Advanced discussions tailored to Qubic-native audiences.
 - **Exclusive AMAs**: Direct Q&A with the development and ecosystem Qubic teams.
 - **Actions**:
-  - Partner with 5 existing Qubic community leaders for increased engagement.
-  - Offer monthly early beta access to 25 selected Telegram/Discord users.
+  - Collaborations with 5 existing Qubic community leaders for increased engagement.
+  - Offer early beta access to Telegram/Discord users.
   - Maintain daily presence in key Qubic communities (English and Spanish).
 
 ### Blog and newsletter
@@ -103,28 +97,22 @@ We will also publish featured content on the project website, providing details 
 
 The website will offer the opportunity to subscribe and receive updates on the development of Easy Connect through a periodic newsletter, being part of a early user group that will be able to test the first version of the product, as well as receive promotions.
 
-- **Blog publishing frequency and content schedule**:
-  - Bi-Weekly featured articles (26 articles per year).
-  - Bi-weekly technical tutorials (26 tutorials per year).
-  - Monthly partnership announcements (12 announcements per year).
-  - Quarterly state of the ecosystem reports (4 reports per year).
-
-- **Newsletter distribution**:
-  - Primary newsletter: Bi-weekly distribution (26 editions per year).
-  - Technical deep dive: Monthly for developers (12 editions per year).
-  - Partnership updates: Quarterly for stakeholders (4 editions per year).
-
 - **Content topics**:
   - Educational content about Qubic blockchain capabilities.
   - Easy Connect use case demonstrations and tutorials.
   - Industry trend analysis and automation insights.
   - Community highlights and partnership announcements.
 
-- **Subscriber growth targets**:
-  - Q3 2025: 100 newsletter subscribers.
-  - Q4 2025: 500 newsletter subscribers.
-  - Q1 2026: 1000 newsletter subscribers.
-  - Q2 2026: 2000 newsletter subscribers.
+- **Blog publishing frequency and content schedule**:
+  - Bi-Weekly featured articles (26 articles per year).
+  - Monthly technical tutorials (12 tutorials per year).
+  - Quarterly partnership announcements (4 announcements per year).
+  - Quarterly state reports (4 reports per year).
+
+- **Newsletter distribution**:
+  - Primary newsletter: Bi-weekly distribution (26 editions per year).
+  - Technical deep dive: Monthly for developers (12 editions per year).
+
 
 ### Events and public relations
 
