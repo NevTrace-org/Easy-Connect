@@ -32,7 +32,7 @@ We will focus on three different buyer persona:
 **Content formats**
 
 - **Social networks**: Technical deep dives in X and Farcaster, business-centric articles in LinkedIn.
-- **Blog and newsletter**: Product information and technicall posts.
+- **Blog and newsletter**: Product information, use cases and technical posts.
 - **Video tutorials**: Walkthroughs of common integration scenarios.
 - **Webinars**: Live demonstrations and Q&A sessions in X and LinkedIn.
 
