@@ -65,10 +65,11 @@ Strategy Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) pos
   - Qubic ecosystem updates and Easy Connect developments.
   - Broader reflections on Web3 and enterprise automation.
 
-- **Group engagement strategy**: Active participation in 3 automation-focused groups:
-  - No-Code Founders Community (15,000+ members).
-  - Zapier Users & Automation (8,000+ members).
-  - Make.com Community (12,000+ members).
+- **Group engagement strategy**: Active participation in automation-focused groups:
+  - [No-Code Founders Community](https://www.linkedin.com/company/nocodefounders/?originalSubdomain=uk)
+  - [Zapier Users](https://www.linkedin.com/groups/13969077/)
+  - [Make automation](https://www.linkedin.com/groups/12849079)
+  - [Make en español](https://www.linkedin.com/groups/9861350/)
 
 **Engagement targets**
 
