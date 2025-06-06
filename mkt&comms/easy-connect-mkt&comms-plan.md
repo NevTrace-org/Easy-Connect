@@ -75,7 +75,9 @@ Strategy Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) pos
   - Zapier Users & Automation (8,000+ members).
   - Make.com Community (12,000+ members).
 
-- **Engagement Targets**:
+**Engagement Targets**
+
+Objectives as a result of social media activity:
   - 15-20 new relevant connections monthly.
   - 5-8% engagement rate on posts.
   - 3-5 meaningful comments per publication.
