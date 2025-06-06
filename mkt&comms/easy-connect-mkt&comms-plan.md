@@ -140,9 +140,8 @@ This is the proposed plan for the first year, which will be developed progressiv
   - Continue positioning Easy Connect in X, LinkedIn, Telegram and Discord (demos, roadmap, etc)
   - Launch limited beta release and influencer pilot programs.
 - **Full launch (Months 5–6)**:
-  - Global ad campaigns.
   - PR blitz.
-  - Virtual events.
+  - Virtual and in-person events.
 - **Growth (Months 7–12)**:
   - Community expansion.
   - Success stories.
