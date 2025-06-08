@@ -31,10 +31,29 @@
 
 ## 4. Non-Functional Requirements
 
-- **Performance**: Support multiple users and frequent smart contract activity.
-- **Security**: Authenticated access, secure data transmission.
-- **Reliability**: High uptime and error resilience.
-- **Scalability**: Designed to scale horizontally with user growth.
+The following requirements define measurable targets for system performance, capacity, and reliability during the MVP phase. These metrics serve as validation criteria for QA testing and system acceptance.
+
+| Metric                                | MVP Target           | Measurement Method                  |
+| ------------------------------------- | -------------------- | ----------------------------------- |
+| **Concurrent Users**                  | 100-200 users        | Load testing tools validation       |
+| **Total Registered Users**            | 2,000 users          | Database user count verification    |
+| **Total Alerts in System**            | 5,000 alerts         | Direct database count               |
+| **Active Alerts Simultaneously**      | 1,000 alerts         | Filter by active status in database |
+| **Supported Smart Contracts**         | 10-15 contracts      | Contract list visible in UI         |
+| **Transactions Processed per Minute** | 2,000-4,000 tx/min   | System logs measurement             |
+| **Daily Notifications Sent**          | 10,000 notifications | Notifications table record count    |
+| **Webhook Success Rate**              | ≥95% success rate    | Success/total ratio in database     |
+
+### 4.1 Scalability Considerations
+
+The system architecture supports horizontal scaling through:
+
+- **Serverless Components**: AWS Lambda auto-scaling for background processing
+- **Queue-based Architecture**: SQS message queuing for decoupled processing
+- **Database Optimization**: PostgreSQL with proper indexing for alert queries
+- **CDN Distribution**: Frontend assets served via content delivery network
+
+These requirements establish the foundation for MVP validation while providing clear upgrade paths for future scaling needs.
 
 ## 5. Proposed Architecture
 
