@@ -32,9 +32,9 @@ We will focus on three different buyer persona:
 **Content formats**
 
 - **Social networks**: Technical deep dives in X and Farcaster, business-centric articles in LinkedIn.
-- **Webinars**: Live demonstrations and Q&A sessions in X and LinkedIn.
-- **Infographics**: Visual breakdowns of complex processes.
+- **Blog and newsletter**: Product information, use cases and technical posts.
 - **Video tutorials**: Walkthroughs of common integration scenarios.
+- **Webinars**: Live demonstrations and Q&A sessions in X and LinkedIn.
 
 ### Social media strategy
 
@@ -58,14 +58,25 @@ In parallel, we will use LinkedIn to reach companies and professionals intereste
 
 **LinkedIn**
 
-- **Strategy**: Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) positioning in LinkedIn as Blockchain expert (+10,000 followers):
-  - **Case studies**: ROI-focused narratives highlighting business successes.
-  - **Thought leadership**: Articles by executives on automation trends.
-  - **Partnership announcements**: Collaborations with industry leaders.
-- **Actions**:
-  - Publish weekly articles.
-  - Host LinkedIn Live sessions showcasing product demos.
-  - Engage actively in blockchain and automation-focused groups.
+Strategy Based on [Jorge Ordovas](https://www.linkedin.com/in/jorgeordovas/) positioning in LinkedIn as Blockchain expert (+10,000 followers).
+
+- **Content Frequency**: 3 posts per week on LinkedIn:
+  - Technical insights on blockchain and no-code integrations.
+  - Qubic ecosystem updates and Easy Connect developments.
+  - Broader reflections on Web3 and enterprise automation.
+
+- **Group engagement strategy**: Active participation in automation-focused groups:
+  - [No-Code Founders Community](https://www.linkedin.com/company/nocodefounders/?originalSubdomain=uk)
+  - [Zapier Users](https://www.linkedin.com/groups/13969077/)
+  - [Make automation](https://www.linkedin.com/groups/12849079)
+  - [Make en español](https://www.linkedin.com/groups/9861350/)
+
+**Engagement targets**
+
+Objectives as a result of social media activity:
+  - 15-20 new relevant connections monthly.
+  - 5-8% engagement rate on posts.
+  - 3-5 meaningful interactions per publication.
 
 ### Telegram and Discord Qubic groups
 
@@ -76,11 +87,10 @@ We will continue to actively participate in the Qubic ecosystem (in English and 
 - **Product updates**: Announcements of roadmap and milestone achivements, new features and integrations.
 - **Technical deep dives**: Advanced discussions tailored to Qubic-native audiences.
 - **Exclusive AMAs**: Direct Q&A with the development and ecosystem Qubic teams.
-
-**Actions**:
-
-- Partner with existing Qubic community leaders to increase engagement.
-- Offer early beta access to Qubic users in Telegram/Discord to foster advocacy.
+- **Actions**:
+  - Collaborations with 5 existing Qubic community leaders for increased engagement.
+  - Offer early beta access to Telegram/Discord users.
+  - Maintain daily presence in key Qubic communities (English and Spanish).
 
 ### Blog and newsletter
 
@@ -88,50 +98,30 @@ We will also publish featured content on the project website, providing details 
 
 The website will offer the opportunity to subscribe and receive updates on the development of Easy Connect through a periodic newsletter, being part of a early user group that will be able to test the first version of the product, as well as receive promotions.
 
-### Digital advertising
+- **Content topics**:
+  - Educational content about Qubic blockchain capabilities.
+  - Easy Connect use case demonstrations and tutorials.
+  - Industry trend analysis and automation insights.
+  - Community highlights and partnership announcements.
 
-If we have the budget available, we propose the following actions to promote Easy Connect with Google and Meta ads.
+- **Blog publishing frequency and content schedule**:
+  - Bi-Weekly featured articles (26 articles per year).
+  - Monthly technical tutorials (12 tutorials per year).
+  - Quarterly partnership announcements (4 announcements per year).
+  - Quarterly state reports (4 reports per year).
 
-**Google Ads**:
+- **Newsletter distribution**:
+  - Primary newsletter: Bi-weekly distribution (26 editions per year).
+  - Technical deep dive: Monthly for developers (12 editions per year).
 
-- **Search campaigns**: Target keywords like "Qubic integration" and "Make blockchain".
-- **Display ads**: Retargeting campaigns and placements on blockchain/automation websites.
-
-**Meta(Facebook/Instagram)**:
-
-- **Phase 1**: Educational ads focused on automation efficiency (avoiding direct blockchain references).
-- **Phase 2**: Retargeting campaigns with blockchain-specific case studies and testimonials.
-
-### Influencer collaborations
-
-If we have the budget available, we propose the following actions with influencers.
-
-**Influencer categories**:
-
-- **Qubic experts**: For technical credibility and crypto community reach.
-- **No-code advocates**: Influential Make/Zapier content creators.
-- **Innovative entrepreneurs**: Early adopters showcasing real-world applications.
-
-**Collaboration models**:
-
-- **Sponsored content**: Tutorial videos and live demos.
-- **Co-hosted webinars**: Deep dives into implementation strategies.
-- **Success stories**: Documenting influencer-led deployments.
-
-**Actions**:
-
-- Cultivate long-term partnerships with 5–10 influencers per category.
-- Launch an ambassador program with exclusive feature previews.
 
 ### Events and public relations
 
-If we have the budget available, we propose the following actions:
-
-**Virtual/In-person events**:
-
-- **Hackathons**: Competitions to build innovative integrations using Easy Connect.
-- **Workshops**: Hands-on sessions for specific Qubic use cases.
-- **Conference participation**: Keynote speeches and exhibition booths at blockchain events.
+We will participate in the following types of virtual/in-person events:
+- **Blockchain and Web3 ecosystem meetings**: Active participation to engage with potential customers and investors (Monthly).
+- **Workshops**: Hands-on sessions for specific Qubic use cases (Bi-Monthly).
+- **Hackathons**: Competitions to build innovative integrations using Easy Connect (1 per year).
+- **Conference participation**: Keynote speeches and exhibition booths at blockchain events (1 per year).
 
 ### Implementation timeline
 
@@ -150,9 +140,8 @@ This is the proposed plan for the first year, which will be developed progressiv
   - Continue positioning Easy Connect in X, LinkedIn, Telegram and Discord (demos, roadmap, etc)
   - Launch limited beta release and influencer pilot programs.
 - **Full launch (Months 5–6)**:
-  - Global ad campaigns.
   - PR blitz.
-  - Virtual events.
+  - Virtual and in-person events.
 - **Growth (Months 7–12)**:
   - Community expansion.
   - Success stories.
